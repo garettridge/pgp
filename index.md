@@ -4,7 +4,7 @@ Garett Ridge, 2025
 
 # Introduction
 
-Myalgic Encephalomyelitis (ME or ME/CFS) is a chronic, disabling illness affecting multiple physiological systems, typically of infectious origin. Numerous outbreaks, often associated with viral epidemics, have been reported throughout the twentieth century[1](#ref1) [^2] [^3]. Despite decades of research and controversy, full understanding of the physiological process remain elusive. In response, this work presents a new hypothesis and model for consideration. As the US Institute of Medicine concluded as recently as 2015, “There is an urgent need for research to elucidate the underlying mechanisms of ME/CFS”[^4].
+Myalgic Encephalomyelitis (ME or ME/CFS) is a chronic, disabling illness affecting multiple physiological systems, typically of infectious origin. Numerous outbreaks, often associated with viral epidemics, have been reported throughout the twentieth century<a name="cite1"></a>[1](#ref1) [^2] [^3]. Despite decades of research and controversy, full understanding of the physiological process remain elusive. In response, this work presents a new hypothesis and model for consideration. As the US Institute of Medicine concluded as recently as 2015, “There is an urgent need for research to elucidate the underlying mechanisms of ME/CFS”[^4].
 
 ME/CFS is frequently accompanied by a range of related conditions that further complicate diagnosis and management. Among the most prominent are craniocervical instability (CCI) - a disorder involving excessive movement at the junction of the skull and upper spine that can result in disability and neurological symptoms - and mast cell activation syndrome (MCAS), a disorder marked by inappropriate activation of mast cells leading to episodic allergic and inflammatory symptoms [^5]. Other commonly observed comorbidities include autonomic disorders like postural orthostatic tachycardia syndrome (POTS), the connective tissue disorder Ehlers-Danlos syndrome (EDS)[^6], and fibromyalgia. These overlapping conditions are not only prevalent among individuals with ME/CFS, but frequently coexist, suggesting the possibility of interconnected underlying mechanisms. The high comorbidity burden in these patient populations highlight the need for a more unified understanding of their pathophysiology.
 
@@ -126,7 +126,7 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 # References
 
-<a name="ref1"></a>[^1].  Ramsay, A. Melvin. Myalgic encephalomyelitis and postviral fatigue states: the saga of Royal Free disease. Gower Medical for the Myalgic Encephalomyelitis Association, 1988.
+<a name="ref1"></a>[^1](#cite1).  Ramsay, A. Melvin. Myalgic encephalomyelitis and postviral fatigue states: the saga of Royal Free disease. Gower Medical for the Myalgic Encephalomyelitis Association, 1988.
 [^2].  Acheson, E. D. "The clinical syndrome variously called benign myalgic encephalomyelitis, Iceland disease and epidemic neuromyasthenia." The American journal of medicine 26.4 (1959): 569-595.
 [^3].  Gilliam, Alexander Gordon. Epidemiological study of an epidemic, diagnosed as poliomyelitis, occurring among the personnel of the Los Angeles County General Hospital during the summer of 1934. US Government Printing Office, 1938.
 [^4].  Institute of Medicine. (2015). Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. National Academies Press.
