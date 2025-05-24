@@ -140,7 +140,7 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 <a name="ref7"></a>[7]. <sup>[a](#cite7)</sup>.  Bradding, P., and Greer Arthur. "Mast cells in asthma–state of the art." Clinical & Experimental Allergy 46.2 (2016): 194-263.
 
-<a name="ref8"></a>[8]. <sup>[a](#cite8)</sup>.  The Mast Cell Disease Society, "Symptoms and Triggers of Mast Cell Activation" https://tmsforacure.org/signs-symptoms-triggers/symptoms-and-triggers-of-mast-cell-activation/
+<a name="ref8"></a>[8]. <sup>[a](#cite8)</sup>.  The Mast Cell Disease Society, "Symptoms and Triggers of Mast Cell Activation" <https://tmsforacure.org/signs-symptoms-triggers/symptoms-and-triggers-of-mast-cell-activation/>
 
 <a name="ref9"></a>[9]. <sup>[a](#cite9)</sup>.  Theoharides, Theoharis C., et al. "Mast cells and inflammation." Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease 1822.1 (2012): 21-33.
 
