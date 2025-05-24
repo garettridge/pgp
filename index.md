@@ -41,14 +41,14 @@ As with causes, PGP would produce effects that are familiar to ME/CFS patients. 
 [Chronic “Pained Gasping Posture”]
         ↓
 [Downstream Effects]
-    ↙       ↓            ↘          ↘
-[CCI-like] [OSA, reflux]   [Vascular/Neural] [Dysautonomia]
-[Findings] [Breathing Dysfunction] [Tension/Perfusion Issues]
+     ↙          ↓            ↘          ↘
+[Spinal Injury] [OSA, reflux]   [Vascular/Neural] [Dysautonomia]
+[CCI] [Breathing Dysfunction] [Tension/Perfusion Issues]
 ```
 
 Using PGP to explain ME/CFS seemingly produces a good match, when considering plausible PGP causes and effects together. Expanding on another effect, metabolic disturbance, this too is both present in ME/CFS and expected to arise from several of PGP's traits: dysautonomia, abnormal breathing, and any initial viral inflammation. ME/CFS and POTS patients commonly exhibit metabolic issues of impaired mitochondrial function, reduced oxygenation, and paradoxical findings in the RAAS system (which regulates blood volume and pressure via the kidneys and brain's HPA axis). Recent research identifies gas exchange abnormalities in ME/CFS; patients exhibit inefficient ventilation, breathing more deeply and slowly yet reaching the anaerobic threshold at much lower levels of exertion than healthy individuals. This suggests that metabolic dysfunction and abnormal breathing reinforce each other.  A 2022 study found that surprisingly, hypocapnia (low CO₂) is the most common orthostatic abnormality in ME/CFS<sup><a name="cite10"></a>[10](#ref10)</sup>, occurring even more frequently than POTS - highlighting the central role of metabolic changes and their direct connection to breathing in this disease.
 
-The PGP framing may also help demystify Post-Exertional Malaise (PEM), which is integral to ME/CFS and a required symptom for diagnosis. It suggests that some aspects of PEM could reflect ordinary soreness after overworking the airway-regulating muscles, provoking strain-related systemic effects and the familiar PEM crash. These large-scale compensations might augment the recently documented microscopic basis for PEM - namely, local mitochondrial damage and muscle cell necrosis after exertion. On the treatment side, it may be worthwhile to test whether standard post-workout interventions, such as heat and ice therapy applied to the sore airway muscles, can provide crash relief.
+The PGP framing may also help demystify Post-Exertional Malaise (PEM), which is integral to ME/CFS and a required symptom for diagnosis. It suggests that some aspects of PEM could reflect ordinary soreness after overworking the airway-regulating muscles, provoking strain-related systemic effects and the familiar PEM crash. These large-scale compensations might augment the recently discovered microscopic basis for PEM, involving local mitochondrial damage and actual muscle cell necrosis after exertion. On the treatment side, it may be worthwhile to test whether standard post-workout interventions, such as heat and ice therapy applied to the sore airway muscles, can provide crash relief.
 
 ### Challenging Conventional Explanations
 
