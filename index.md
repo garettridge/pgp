@@ -60,7 +60,7 @@ The body typically recruits larger muscles when smaller muscles can no longer me
 
 The PGP hypothesis proposes that being trapped in an uncomfortable posture is a central, yet often overlooked, feature of illness.It follows that people with ME/CFS may experience far more chronic pain than is recognized - or even than they themselves realize, since pain has become their baseline - while also explaining the brain fog and concentration difficulties frequently reported. Greater awareness from loved ones and caregivers could be transformative; if they understand that PGP sufferers are constantly carrying an invisible weight of muscle overuse and airway discomfort, they may become more supportive of the person’s need for regular self-care and urgent breaks during every interaction.
 
-### Validation Research Directions and Clinical Interventions
+### Validation and Clinical Interventions
 
 PGP is a highly testable hypothesis. EMG and nerve conduction studies could be performed on the airway muscles of CCI patients to systematically assess correlations with airway inflammation and posture-an approach not yet explored. Data could be gathered linking airway inflammation biomarkers or endoscopic findings with posture and muscle dysfunction. Studies could also determine whether treating MCAS, which often improves other chronic illness symptoms, specifically alleviates postural issues, CCI-related imaging findings, or pharyngeal muscle tension. Additionally, confirmation is needed as to whether CCI patients with more inflamed airways have more obstructive, rather than just central, sleep apnea. These links appear to remain unexplored in current research in any systematic way.
 
