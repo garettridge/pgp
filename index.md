@@ -42,7 +42,7 @@ As with causes, PGP would produce effects that are familiar to ME/CFS patients. 
         ↓
 [Downstream Effects]
      ↙          ↓            ↘          ↘
-[Spinal Injury] [OSA, reflux]   [Vascular/Neural] [Dysautonomia]
+[Spinal Injury] [OSA, reflux] [Vascular/Neural] [Dysautonomia]
 [CCI] [Breathing Dysfunction] [Tension/Perfusion Issues]
 ```
 
