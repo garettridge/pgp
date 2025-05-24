@@ -128,13 +128,13 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 <a name="ref1"></a>[1]. <sup>[a](#cite1a) [b](#cite1b) [c](#cite1c)</sup> Ramsay, A. Melvin. Myalgic encephalomyelitis and postviral fatigue states: the saga of Royal Free disease. Gower Medical for the Myalgic Encephalomyelitis Association, 1988.
 
-<a name="ref2"></a>[2]. <sup>[a](#cite2a) [b](#cite2b)</sup>.  Acheson, E. D. "The clinical syndrome variously called benign myalgic encephalomyelitis, Iceland disease and epidemic neuromyasthenia." The American journal of medicine 26.4 (1959): 569-595.
+<a name="ref2"></a>[2]. <sup>[a](#cite2a) [b](#cite2b)</sup>.  Acheson, E. D. ["The clinical syndrome variously called benign myalgic encephalomyelitis, Iceland disease and epidemic neuromyasthenia."](https://www.meresearch.org.uk/wp-content/uploads/2012/11/Acheson_AmJMed.pdf) The American journal of medicine 26.4 (1959): 569-595.
 
 <a name="ref3"></a>[3]. <sup>[a](#cite3a) [b](#cite3b)</sup>.  Gilliam, Alexander Gordon. Epidemiological study of an epidemic, diagnosed as poliomyelitis, occurring among the personnel of the Los Angeles County General Hospital during the summer of 1934. US Government Printing Office, 1938.
 
 <a name="ref4"></a>[4]. <sup>[a](#cite4a) [b](#cite4b) [c](#cite4c)</sup>.  Institute of Medicine. (2015). Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. National Academies Press.
 
-<a name="ref5"></a>[5]. <sup>[a](#cite5a) [b](#cite5b)</sup>.  Afrin, Lawrence B., et al. "Diagnosis of mast cell activation syndrome: a global “consensus-2”." Diagnosis 8.2 (2021): 137-152.
+<a name="ref5"></a>[5]. <sup>[a](#cite5a) [b](#cite5b)</sup>.  Afrin, Lawrence B., et al. ["Diagnosis of mast cell activation syndrome: a global “consensus-2”."](https://www.degruyterbrill.com/document/doi/10.1515/dx-2020-0005/html) Diagnosis 8.2 (2021): 137-152.
 
 <a name="ref6"></a>[6]. <sup>[a](#cite6)</sup>.  Castori, Marco, et al. "A framework for the classification of joint hypermobility and related conditions." American Journal of Medical Genetics Part C: Seminars in Medical Genetics. Vol. 175. No. 1. 2017.
 
