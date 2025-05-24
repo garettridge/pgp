@@ -126,78 +126,78 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 ## References
 
-<a name="ref1"></a>[1]. <sup>[^a](#cite1a) [^b](#cite1b) [^c](#cite1c)</sup> Ramsay, A. Melvin. Myalgic encephalomyelitis and postviral fatigue states: the saga of Royal Free disease. Gower Medical for the Myalgic Encephalomyelitis Association, 1988.
+<a name="ref1"></a>[1]. <sup>[a](#cite1a) [b](#cite1b) [c](#cite1c)</sup> Ramsay, A. Melvin. Myalgic encephalomyelitis and postviral fatigue states: the saga of Royal Free disease. Gower Medical for the Myalgic Encephalomyelitis Association, 1988.
 
-<a name="ref2"></a>[2]. <sup>[^a](#cite2a) [^b](#cite2b)</sup>.  Acheson, E. D. "The clinical syndrome variously called benign myalgic encephalomyelitis, Iceland disease and epidemic neuromyasthenia." The American journal of medicine 26.4 (1959): 569-595.
+<a name="ref2"></a>[2]. <sup>[a](#cite2a) [b](#cite2b)</sup>.  Acheson, E. D. "The clinical syndrome variously called benign myalgic encephalomyelitis, Iceland disease and epidemic neuromyasthenia." The American journal of medicine 26.4 (1959): 569-595.
 
-<a name="ref3"></a>[3]. <sup>[^a](#cite3a) [^b](#cite3b)</sup>.  Gilliam, Alexander Gordon. Epidemiological study of an epidemic, diagnosed as poliomyelitis, occurring among the personnel of the Los Angeles County General Hospital during the summer of 1934. US Government Printing Office, 1938.
+<a name="ref3"></a>[3]. <sup>[a](#cite3a) [b](#cite3b)</sup>.  Gilliam, Alexander Gordon. Epidemiological study of an epidemic, diagnosed as poliomyelitis, occurring among the personnel of the Los Angeles County General Hospital during the summer of 1934. US Government Printing Office, 1938.
 
-<a name="ref4"></a>[4]. <sup>[^a](#cite4a) [^b](#cite4b) [^c](#cite4c)</sup>.  Institute of Medicine. (2015). Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. National Academies Press.
+<a name="ref4"></a>[4]. <sup>[a](#cite4a) [b](#cite4b) [c](#cite4c)</sup>.  Institute of Medicine. (2015). Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. National Academies Press.
 
-<a name="ref5"></a>[5]. <sup>[^a](#cite5a) [^b](#cite5b)</sup>.  Afrin, Lawrence B., et al. "Diagnosis of mast cell activation syndrome: a global “consensus-2”." Diagnosis 8.2 (2021): 137-152.
+<a name="ref5"></a>[5]. <sup>[a](#cite5a) [b](#cite5b)</sup>.  Afrin, Lawrence B., et al. "Diagnosis of mast cell activation syndrome: a global “consensus-2”." Diagnosis 8.2 (2021): 137-152.
 
-<a name="ref6"></a>[6]. <sup>[^a](#cite6)</sup>.  Castori, Marco, et al. "A framework for the classification of joint hypermobility and related conditions." American Journal of Medical Genetics Part C: Seminars in Medical Genetics. Vol. 175. No. 1. 2017.
+<a name="ref6"></a>[6]. <sup>[a](#cite6)</sup>.  Castori, Marco, et al. "A framework for the classification of joint hypermobility and related conditions." American Journal of Medical Genetics Part C: Seminars in Medical Genetics. Vol. 175. No. 1. 2017.
 
-<a name="ref7"></a>[7]. <sup>[^a](#cite7)</sup>.  Bradding, P., and Greer Arthur. "Mast cells in asthma–state of the art." Clinical & Experimental Allergy 46.2 (2016): 194-263.
+<a name="ref7"></a>[7]. <sup>[a](#cite7)</sup>.  Bradding, P., and Greer Arthur. "Mast cells in asthma–state of the art." Clinical & Experimental Allergy 46.2 (2016): 194-263.
 
-<a name="ref8"></a>[8]. <sup>[^a](#cite8)</sup>.  The Mast Cell Disease Society, "Symptoms and Triggers of Mast Cell Activation" https://tmsforacure.org/signs-symptoms-triggers/symptoms-and-triggers-of-mast-cell-activation/
+<a name="ref8"></a>[8]. <sup>[a](#cite8)</sup>.  The Mast Cell Disease Society, "Symptoms and Triggers of Mast Cell Activation" https://tmsforacure.org/signs-symptoms-triggers/symptoms-and-triggers-of-mast-cell-activation/
 
-<a name="ref9"></a>[9]. <sup>[^a](#cite9)</sup>.  Theoharides, Theoharis C., et al. "Mast cells and inflammation." Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease 1822.1 (2012): 21-33.
+<a name="ref9"></a>[9]. <sup>[a](#cite9)</sup>.  Theoharides, Theoharis C., et al. "Mast cells and inflammation." Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease 1822.1 (2012): 21-33.
 
-<a name="ref10"></a>[10]. <sup>[^a](#cite10)</sup>.  Natelson, Benjamin H., et al. "Physiological assessment of orthostatic intolerance in chronic fatigue syndrome." Journal of Translational Medicine 20.1 (2022): 95.
+<a name="ref10"></a>[10]. <sup>[a](#cite10)</sup>.  Natelson, Benjamin H., et al. "Physiological assessment of orthostatic intolerance in chronic fatigue syndrome." Journal of Translational Medicine 20.1 (2022): 95.
 
-<a name="ref11"></a>[11]. <sup>[^a](#cite11)</sup>.  Godek, Piotr, and Wojciech Ruciński. "Differentiating the Structural and Functional Instability of the Craniocervical Junction." Healthcare. Vol. 12. No. 19. MDPI, 2024.
+<a name="ref11"></a>[11]. <sup>[a](#cite11)</sup>.  Godek, Piotr, and Wojciech Ruciński. "Differentiating the Structural and Functional Instability of the Craniocervical Junction." Healthcare. Vol. 12. No. 19. MDPI, 2024.
 
-<a name="ref12"></a>[12]. <sup>[^a](#cite12)</sup>.  Remmers, J. E., deGroot, W. J., Sauerland, E. K., & Anch, A. M. (1978). Pathogenesis of upper airway occlusion during sleep. Journal of Applied Physiology: Respiratory, Environmental and Exercise Physiology, 44(6), 931–938. https://doi.org/10.1152/jappl.1978.44.6.931
+<a name="ref12"></a>[12]. <sup>[a](#cite12)</sup>.  Remmers, J. E., deGroot, W. J., Sauerland, E. K., & Anch, A. M. (1978). Pathogenesis of upper airway occlusion during sleep. Journal of Applied Physiology: Respiratory, Environmental and Exercise Physiology, 44(6), 931–938. https://doi.org/10.1152/jappl.1978.44.6.931
 
-<a name="ref13"></a>[13]. <sup>[^a](#cite13)</sup>.  Murray, Dinah, Mike Lesser, and Wendy Lawson. "Attention, monotropism and the diagnostic criteria for autism." Autism 9.2 (2005): 139-156.
+<a name="ref13"></a>[13]. <sup>[a](#cite13)</sup>.  Murray, Dinah, Mike Lesser, and Wendy Lawson. "Attention, monotropism and the diagnostic criteria for autism." Autism 9.2 (2005): 139-156.
 
-<a name="ref14"></a>[14]. <sup>[^a](#cite14)</sup>.  Grant, Sarah, et al. "Autism and chronic ill health: an observational study of symptoms and diagnoses of central sensitivity syndromes in autistic adults." Molecular Autism 13.1 (2022): 7.
+<a name="ref14"></a>[14]. <sup>[a](#cite14)</sup>.  Grant, Sarah, et al. "Autism and chronic ill health: an observational study of symptoms and diagnoses of central sensitivity syndromes in autistic adults." Molecular Autism 13.1 (2022): 7.
 
-<a name="ref15"></a>[15]. <sup>[^a](#cite15)</sup>.  Centers for Disease Control and Prevention. (2024). Clinical Overview of ME/CFS. Retrieved from https://www.cdc.gov/me-cfs/hcp/clinical-overview/index.html
+<a name="ref15"></a>[15]. <sup>[a](#cite15)</sup>.  Centers for Disease Control and Prevention. (2024). Clinical Overview of ME/CFS. Retrieved from https://www.cdc.gov/me-cfs/hcp/clinical-overview/index.html
 
-<a name="ref16"></a>[16]. <sup>[^a](#cite16)</sup>.  World Health Organization. (1969). International Classification of Diseases, 8th Revision (ICD-8).
+<a name="ref16"></a>[16]. <sup>[a](#cite16)</sup>.  World Health Organization. (1969). International Classification of Diseases, 8th Revision (ICD-8).
 
-<a name="ref17"></a>[17]. <sup>[^a](#cite17)</sup>.  Dimmock, M., Lazell-Fairma, M. (2015). Thirty Years of Disdain: How HHS and a Group of Psychiatrists Buried Myalgic Encephalomyelitis.
+<a name="ref17"></a>[17]. <sup>[a](#cite17)</sup>.  Dimmock, M., Lazell-Fairma, M. (2015). Thirty Years of Disdain: How HHS and a Group of Psychiatrists Buried Myalgic Encephalomyelitis.
 
-<a name="ref18"></a>[18]. <sup>[^a](#cite18)</sup>.  Rutherford, J. (2008). E pluribus Unum. *The Guardian*.
+<a name="ref18"></a>[18]. <sup>[a](#cite18)</sup>.  Rutherford, J. (2008). E pluribus Unum. *The Guardian*.
 
-<a name="ref19"></a>[19]. <sup>[^a](#cite19a) [^b](#cite19b)</sup>.  Pearce, S. (2023). Collusion to Exclude Long Covid: The Long History of Energy-Limiting Disability Denial by Insurance Firms. *Daily Maverick.*
+<a name="ref19"></a>[19]. <sup>[a](#cite19a) [b](#cite19b)</sup>.  Pearce, S. (2023). Collusion to Exclude Long Covid: The Long History of Energy-Limiting Disability Denial by Insurance Firms. *Daily Maverick.*
 
-<a name="ref20"></a>[20]. <sup>[^a](#cite20)</sup>.  Sharpe, M. C. "A report–chronic fatigue syndrome: guidelines for research." Journal of the Royal Society of Medicine 84.2 (1991): 118-121.
+<a name="ref20"></a>[20]. <sup>[a](#cite20)</sup>.  Sharpe, M. C. "A report–chronic fatigue syndrome: guidelines for research." Journal of the Royal Society of Medicine 84.2 (1991): 118-121.
 
-<a name="ref21"></a>[21]. <sup>[^a](#cite21)</sup>.  Fukuda, Keiji, et al. "The chronic fatigue syndrome: a comprehensive approach to its definition and study." Annals of internal medicine 121.12 (1994): 953-959.
+<a name="ref21"></a>[21]. <sup>[a](#cite21)</sup>.  Fukuda, Keiji, et al. "The chronic fatigue syndrome: a comprehensive approach to its definition and study." Annals of internal medicine 121.12 (1994): 953-959.
 
-<a name="ref22"></a>[22]. <sup>[^a](#cite22a) [^b](#cite22b)</sup>.  Johnson, H. (1996). Osler’s Web: Inside the Labyrinth of the Chronic Fatigue Syndrome Epidemic. Crown.
+<a name="ref22"></a>[22]. <sup>[a](#cite22a) [b](#cite22b)</sup>.  Johnson, H. (1996). Osler’s Web: Inside the Labyrinth of the Chronic Fatigue Syndrome Epidemic. Crown.
 
-<a name="ref23"></a>[23]. <sup>[^a](#cite23)</sup>.  UK Information Rights Tribunal. (2016). Matthees v Information Commissioner and Queen Mary University of London (EA/2015/0269).
+<a name="ref23"></a>[23]. <sup>[a](#cite23)</sup>.  UK Information Rights Tribunal. (2016). Matthees v Information Commissioner and Queen Mary University of London (EA/2015/0269).
 
-<a name="ref24"></a>[24]. <sup>[^a](#cite24)</sup>.  Sample, I. (2011). Chronic fatigue syndrome researchers face death threats from militants. The Guardian. https://www.theguardian.com/society/2011/aug/21/chronic-fatigue-syndrome-myalgic-encephalomyelitis
+<a name="ref24"></a>[24]. <sup>[a](#cite24)</sup>.  Sample, I. (2011). Chronic fatigue syndrome researchers face death threats from militants. The Guardian. https://www.theguardian.com/society/2011/aug/21/chronic-fatigue-syndrome-myalgic-encephalomyelitis
 
-<a name="ref25"></a>[25]. <sup>[^a](#cite25)</sup>.  Kelland, K. (2019). Special Report: Online activists are silencing us, scientists say. Reuters. https://www.reuters.com/investigates/special-report/science-socialmedia/
+<a name="ref25"></a>[25]. <sup>[a](#cite25)</sup>.  Kelland, K. (2019). Special Report: Online activists are silencing us, scientists say. Reuters. https://www.reuters.com/investigates/special-report/science-socialmedia/
 
-<a name="ref26"></a>[26]. <sup>[^a](#cite26)</sup>.  Washington Post. (1999, August 6). Retaliation Alleged at CDC: Chronic Fatigue Funds Diverted. https://www.washingtonpost.com/archive/politics/1999/08/06/retaliation-alleged-at-cdc/c3ea5fdd-fc7f-4cd1-8dbf-c42e76f75c7f/
+<a name="ref26"></a>[26]. <sup>[a](#cite26)</sup>.  Washington Post. (1999, August 6). Retaliation Alleged at CDC: Chronic Fatigue Funds Diverted. https://www.washingtonpost.com/archive/politics/1999/08/06/retaliation-alleged-at-cdc/c3ea5fdd-fc7f-4cd1-8dbf-c42e76f75c7f/
 
-<a name="ref27"></a>[27]. <sup>[^a](#cite27)</sup>.  Osler’s Web Appendix (Johnson, 1996); see also: ME-pedia. "1986 Fake CDC Letter". https://me-pedia.org/wiki/1986_Fake_CDC_letter
+<a name="ref27"></a>[27]. <sup>[a](#cite27)</sup>.  Osler’s Web Appendix (Johnson, 1996); see also: ME-pedia. "1986 Fake CDC Letter". https://me-pedia.org/wiki/1986_Fake_CDC_letter
 
-<a name="ref28"></a>[28]. <sup>[^a](#cite28a) [^b](#cite28b)</sup>.  National Institute for Health and Care Excellence (NICE). (2021). Myalgic Encephalomyelitis (or Encephalopathy)/Chronic Fatigue Syndrome: Diagnosis and Management [NG206].
+<a name="ref28"></a>[28]. <sup>[a](#cite28a) [b](#cite28b)</sup>.  National Institute for Health and Care Excellence (NICE). (2021). Myalgic Encephalomyelitis (or Encephalopathy)/Chronic Fatigue Syndrome: Diagnosis and Management [NG206].
 
-<a name="ref29"></a>[29]. <sup>[^a](#cite29a) [^b](#cite29b)</sup>.  Geraghty, Keith J., and Charlotte Blease. "Myalgic encephalomyelitis/chronic fatigue syndrome and the biopsychosocial model: a review of patient harm and distress in the medical encounter." Disability and rehabilitation 41.25 (2019): 3092-3102.
+<a name="ref29"></a>[29]. <sup>[a](#cite29a) [b](#cite29b)</sup>.  Geraghty, Keith J., and Charlotte Blease. "Myalgic encephalomyelitis/chronic fatigue syndrome and the biopsychosocial model: a review of patient harm and distress in the medical encounter." Disability and rehabilitation 41.25 (2019): 3092-3102.
 
-<a name="ref30"></a>[30]. <sup>[^a](#cite30)</sup>.  McEvedy, C.P., & Beard, A.W. (1970). Royal Free epidemic of 1955: A reconsideration. British Medical Journal, 1(5691), 7–11. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1700894/pdf/brmedj02268-0019.pdf
+<a name="ref30"></a>[30]. <sup>[a](#cite30)</sup>.  McEvedy, C.P., & Beard, A.W. (1970). Royal Free epidemic of 1955: A reconsideration. British Medical Journal, 1(5691), 7–11. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1700894/pdf/brmedj02268-0019.pdf
 
-<a name="ref31"></a>[31]. <sup>[^a](#cite31)</sup>.  McEvedy, C.P., & Beard, A.W. (1970). Concept of benign myalgic encephalomyelitis. British Medical Journal, 1(5691), 11–15. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1700895/pdf/brmedj02268-0023.pdf
+<a name="ref31"></a>[31]. <sup>[a](#cite31)</sup>.  McEvedy, C.P., & Beard, A.W. (1970). Concept of benign myalgic encephalomyelitis. British Medical Journal, 1(5691), 11–15. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1700895/pdf/brmedj02268-0023.pdf
 
-<a name="ref32"></a>[32]. <sup>[^a](#cite32)</sup>.  Shepherd, C., & Chaudhuri, A. (2019). ME/CFS/PVFS: An Exploration of the Key Clinical Issues. 11th Edition. ME Association.
+<a name="ref32"></a>[32]. <sup>[a](#cite32)</sup>.  Shepherd, C., & Chaudhuri, A. (2019). ME/CFS/PVFS: An Exploration of the Key Clinical Issues. 11th Edition. ME Association.
 
-<a name="ref33"></a>[33]. <sup>[^a](#cite33)</sup>.  Hansen, Rebecca, and M. E. Chairman. "Human Rights denied: Something rotten in the state of Denmark: Update." https://dxrevisionwatch.com/category/chronic-fatigue-syndrome-2/page/10/
+<a name="ref33"></a>[33]. <sup>[a](#cite33)</sup>.  Hansen, Rebecca, and M. E. Chairman. "Human Rights denied: Something rotten in the state of Denmark: Update." https://dxrevisionwatch.com/category/chronic-fatigue-syndrome-2/page/10/
 
-<a name="ref34"></a>[34]. <sup>[^a](#cite34)</sup>.  Scheibenbogen, Carmen, and Klaus J. Wirth. "Key Pathophysiological Role of Skeletal Muscle Disturbance in Post COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Accumulated Evidence." Journal of Cachexia, Sarcopenia and Muscle 16.1 (2025): e13669.
+<a name="ref34"></a>[34]. <sup>[a](#cite34)</sup>.  Scheibenbogen, Carmen, and Klaus J. Wirth. "Key Pathophysiological Role of Skeletal Muscle Disturbance in Post COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Accumulated Evidence." Journal of Cachexia, Sarcopenia and Muscle 16.1 (2025): e13669.
 
-<a name="ref35"></a>[35]. <sup>[^a](#cite35)</sup>.  Burki, Talha Khan. "Larry Kramer in love and anger." The Lancet Infectious Diseases 16.9 (2016): 1016.
+<a name="ref35"></a>[35]. <sup>[a](#cite35)</sup>.  Burki, Talha Khan. "Larry Kramer in love and anger." The Lancet Infectious Diseases 16.9 (2016): 1016.
 
-<a name="ref36"></a>[36]. <sup>[^a](#cite36)</sup>.  Valdez, Ashley R., et al. "Estimating prevalence, demographics, and costs of ME/CFS using large scale medical claims data and machine learning." Frontiers in pediatrics 6 (2019): 412. https://doi.org/10.3389/fped.2018.00412
+<a name="ref36"></a>[36]. <sup>[a](#cite36)</sup>.  Valdez, Ashley R., et al. "Estimating prevalence, demographics, and costs of ME/CFS using large scale medical claims data and machine learning." Frontiers in pediatrics 6 (2019): 412. https://doi.org/10.3389/fped.2018.00412
 
-<a name="ref37"></a>[37]. <sup>[^a](#cite37)</sup>.  Cort Johnson (2023) "The Strange Syndrome: MCAS, ME/CFS, Fibromyalgia and Long COVID" https://www.healthrising.org/blog/2023/06/15/mcas-chronic-fatigue-fibromyalgia-long-covid/
+<a name="ref37"></a>[37]. <sup>[a](#cite37)</sup>.  Cort Johnson (2023) "The Strange Syndrome: MCAS, ME/CFS, Fibromyalgia and Long COVID" https://www.healthrising.org/blog/2023/06/15/mcas-chronic-fatigue-fibromyalgia-long-covid/
 
 Rev 1.0
