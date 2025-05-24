@@ -126,15 +126,15 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 ## References
 
-<a name="ref1"></a>[1]. <sup>[^a](#cite1a)[^b](#cite1b)[^c](#cite1c)</sup> Ramsay, A. Melvin. Myalgic encephalomyelitis and postviral fatigue states: the saga of Royal Free disease. Gower Medical for the Myalgic Encephalomyelitis Association, 1988.
+<a name="ref1"></a>[1]. <sup>[^a](#cite1a) [^b](#cite1b) [^c](#cite1c)</sup> Ramsay, A. Melvin. Myalgic encephalomyelitis and postviral fatigue states: the saga of Royal Free disease. Gower Medical for the Myalgic Encephalomyelitis Association, 1988.
 
-<a name="ref2"></a>[2]. <sup>[^a](#cite2a)[^b](#cite2b)</sup>.  Acheson, E. D. "The clinical syndrome variously called benign myalgic encephalomyelitis, Iceland disease and epidemic neuromyasthenia." The American journal of medicine 26.4 (1959): 569-595.
+<a name="ref2"></a>[2]. <sup>[^a](#cite2a) [^b](#cite2b)</sup>.  Acheson, E. D. "The clinical syndrome variously called benign myalgic encephalomyelitis, Iceland disease and epidemic neuromyasthenia." The American journal of medicine 26.4 (1959): 569-595.
 
-<a name="ref3"></a>[3]. <sup>[^a](#cite3a)[^b](#cite3b)</sup>.  Gilliam, Alexander Gordon. Epidemiological study of an epidemic, diagnosed as poliomyelitis, occurring among the personnel of the Los Angeles County General Hospital during the summer of 1934. US Government Printing Office, 1938.
+<a name="ref3"></a>[3]. <sup>[^a](#cite3a) [^b](#cite3b)</sup>.  Gilliam, Alexander Gordon. Epidemiological study of an epidemic, diagnosed as poliomyelitis, occurring among the personnel of the Los Angeles County General Hospital during the summer of 1934. US Government Printing Office, 1938.
 
-<a name="ref4"></a>[4]. <sup>[^a](#cite4a)[^b](#cite4b)[^c](#cite4c)</sup>.  Institute of Medicine. (2015). Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. National Academies Press.
+<a name="ref4"></a>[4]. <sup>[^a](#cite4a) [^b](#cite4b) [^c](#cite4c)</sup>.  Institute of Medicine. (2015). Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. National Academies Press.
 
-<a name="ref5"></a>[5]. <sup>[^a](#cite5a)[^b](#cite5b)</sup>.  Afrin, Lawrence B., et al. "Diagnosis of mast cell activation syndrome: a global “consensus-2”." Diagnosis 8.2 (2021): 137-152.
+<a name="ref5"></a>[5]. <sup>[^a](#cite5a) [^b](#cite5b)</sup>.  Afrin, Lawrence B., et al. "Diagnosis of mast cell activation syndrome: a global “consensus-2”." Diagnosis 8.2 (2021): 137-152.
 
 <a name="ref6"></a>[6]. <sup>[^a](#cite6)</sup>.  Castori, Marco, et al. "A framework for the classification of joint hypermobility and related conditions." American Journal of Medical Genetics Part C: Seminars in Medical Genetics. Vol. 175. No. 1. 2017.
 
@@ -162,13 +162,13 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 <a name="ref18"></a>[18]. <sup>[^a](#cite18)</sup>.  Rutherford, J. (2008). E pluribus Unum. *The Guardian*.
 
-<a name="ref19"></a>[19]. <sup>[^a](#cite19a)[^b](#cite19b)</sup>.  Pearce, S. (2023). Collusion to Exclude Long Covid: The Long History of Energy-Limiting Disability Denial by Insurance Firms. *Daily Maverick.*
+<a name="ref19"></a>[19]. <sup>[^a](#cite19a) [^b](#cite19b)</sup>.  Pearce, S. (2023). Collusion to Exclude Long Covid: The Long History of Energy-Limiting Disability Denial by Insurance Firms. *Daily Maverick.*
 
 <a name="ref20"></a>[20]. <sup>[^a](#cite20)</sup>.  Sharpe, M. C. "A report–chronic fatigue syndrome: guidelines for research." Journal of the Royal Society of Medicine 84.2 (1991): 118-121.
 
 <a name="ref21"></a>[21]. <sup>[^a](#cite21)</sup>.  Fukuda, Keiji, et al. "The chronic fatigue syndrome: a comprehensive approach to its definition and study." Annals of internal medicine 121.12 (1994): 953-959.
 
-<a name="ref22"></a>[22]. <sup>[^a](#cite22a)[^b](#cite22b)</sup>.  Johnson, H. (1996). Osler’s Web: Inside the Labyrinth of the Chronic Fatigue Syndrome Epidemic. Crown.
+<a name="ref22"></a>[22]. <sup>[^a](#cite22a) [^b](#cite22b)</sup>.  Johnson, H. (1996). Osler’s Web: Inside the Labyrinth of the Chronic Fatigue Syndrome Epidemic. Crown.
 
 <a name="ref23"></a>[23]. <sup>[^a](#cite23)</sup>.  UK Information Rights Tribunal. (2016). Matthees v Information Commissioner and Queen Mary University of London (EA/2015/0269).
 
@@ -180,9 +180,9 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 <a name="ref27"></a>[27]. <sup>[^a](#cite27)</sup>.  Osler’s Web Appendix (Johnson, 1996); see also: ME-pedia. "1986 Fake CDC Letter". https://me-pedia.org/wiki/1986_Fake_CDC_letter
 
-<a name="ref28"></a>[28]. <sup>[^a](#cite28a)[^b](#cite28b)</sup>.  National Institute for Health and Care Excellence (NICE). (2021). Myalgic Encephalomyelitis (or Encephalopathy)/Chronic Fatigue Syndrome: Diagnosis and Management [NG206].
+<a name="ref28"></a>[28]. <sup>[^a](#cite28a) [^b](#cite28b)</sup>.  National Institute for Health and Care Excellence (NICE). (2021). Myalgic Encephalomyelitis (or Encephalopathy)/Chronic Fatigue Syndrome: Diagnosis and Management [NG206].
 
-<a name="ref29"></a>[29]. <sup>[^a](#cite29a)[^b](#cite29b)</sup>.  Geraghty, Keith J., and Charlotte Blease. "Myalgic encephalomyelitis/chronic fatigue syndrome and the biopsychosocial model: a review of patient harm and distress in the medical encounter." Disability and rehabilitation 41.25 (2019): 3092-3102.
+<a name="ref29"></a>[29]. <sup>[^a](#cite29a) [^b](#cite29b)</sup>.  Geraghty, Keith J., and Charlotte Blease. "Myalgic encephalomyelitis/chronic fatigue syndrome and the biopsychosocial model: a review of patient harm and distress in the medical encounter." Disability and rehabilitation 41.25 (2019): 3092-3102.
 
 <a name="ref30"></a>[30]. <sup>[^a](#cite30)</sup>.  McEvedy, C.P., & Beard, A.W. (1970). Royal Free epidemic of 1955: A reconsideration. British Medical Journal, 1(5691), 7–11. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1700894/pdf/brmedj02268-0019.pdf
 
