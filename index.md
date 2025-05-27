@@ -208,6 +208,6 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 <a name="ref38"></a>[38]. <sup>[a](#cite38)</sup>.  Fergus Murray (2018) "[Me and Monotropism: A unified theory of autism](https://www.bps.org.uk/psychologist/me-and-monotropism-unified-theory-autism)" *The British Psychological Society*
 
-<a name="ref39"></a>[39]. <sup>[a](#cite39)</sup>.  Grayston, Rebecca, et al. "A systematic review and meta-analysis of the prevalence of small fiber pathology in fibromyalgia: Implications for a new paradigm in fibromyalgia etiopathogenesis." Seminars in arthritis and rheumatism. Vol. 48. No. 5. WB Saunders, 2019.
+<a name="ref39"></a>[39]. <sup>[a](#cite39)</sup>.  Grayston, Rebecca, et al. "[A systematic review and meta-analysis of the prevalence of small fiber pathology in fibromyalgia: Implications for a new paradigm in fibromyalgia etiopathogenesis.](https://www.sciencedirect.com/science/article/pii/S0049017218303639)" Seminars in arthritis and rheumatism. Vol. 48. No. 5. WB Saunders, 2019.
 
 Version 1.2
