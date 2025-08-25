@@ -1,68 +1,381 @@
-## A Mechanistic Framework for ME/CFS: Airway Dysfunction and the Pained Gasping Posture Hypothesis
+## Rethinking ME/CFS: A Vocal Dysfunction Mechanism and "Pained Gasping Posture" as a Unifying Neurophysiological Hypothesis
 
 Garett Ridge, 2025
 
+## ABSTRACT
+
+Background: Myalgic Encephalomyelitis (ME/CFS) leaves millions severely disabled, yet progress remains stymied by institutional mischaracterizations and fragmented approaches to etiology. Patient perspectives can help reframe discourse and unify overlooked connections.
+Methods: This conceptual framework combines individually accepted findings across the biomedical literature on mitochondrial biology, neuromuscular physiology, and biomechanics to propose a unifying hypothesis. Central is the recognition that muscle tension dysphonia (MTD), a dysfunction of vocal cords typically dismissed as a minor comorbidity, may in fact represent the missing link across ME/CFS complications. MTD's pivotal pathophysiology is supported by the striking overlap between laryngeal and craniocervical muscle recruitment, along with diverse circumstantial evidence.
+Results: The model suggests that ME/CFS is best explained by post‑viral disruption of mitochondrial quality control including the PINK1‑Parkin pathway. This bistable control mechanism uniquely explains why development of systemic post‑exertional malaise (PEM) coincides precisely with emergence of local neuromuscular dysfunction in tissues with high mitochondrial dependence. Sensory feedback nerves in laryngeal and respiratory muscle spindles are especially vulnerable, leading to maladaptive voice and airway‑protection reflexes like MTD, autonomic strain, and musculoskeletal compensation. From this vantage, hallmark symptoms and prevalent comorbidities including dysautonomia, craniocervical instability, thoracic complications, and chronic pain disorders emerge as logical sequelae of maladaptation. The resulting “pained gasping posture” propagates vascular and neurological impairment and physiological dysregulation. This framework challenges the field’s narrow focus on musculoskeletal rather than neural mitochondria, and on oxidative stress rather than disrupted quality‑control pathways. It also critiques current clinical algorithms that silo ‘voice’ issues from systemic disease or minimize social‑physiological interactions.
+Conclusions: By rethinking ME/CFS as a biomechanical and neurophysiological cascade with an overlooked neuromuscular mechanistic bridge, this hypothesis provides testable predictions and actionable implications, including consideration of MTD in diagnosis, targeted sensory‑motor rehabilitation, reevaluation of craniocervical interventions, and systemic investigations to address key research gaps.
+
 ## Introduction
 
-Myalgic Encephalomyelitis (ME or ME/CFS) is a chronic, disabling illness affecting multiple physiological systems, typically of infectious origin. Numerous outbreaks, often associated with viral epidemics, have been reported throughout the twentieth century<sup><a name="cite1a"></a>[1](#ref1), <a name="cite2a"></a>[2](#ref2), <a name="cite3a"></a>[3](#ref3)</sup>. Despite decades of research and controversy, full understanding of the physiological process remain elusive. In response, this work presents a new hypothesis and model for consideration. As the US Institute of Medicine concluded as recently as 2015, “There is an urgent need for research to elucidate the underlying mechanisms of ME/CFS”<sup><a name="cite4a"></a>[4](#ref4)</sup>.
+Myalgic Encephalomyelitis (ME or ME/CFS) leaves millions of sufferers housebound or bedbound, making it one of the most disabling chronic illnesses ever known.  Often triggered by infection, it disrupts multiple physiological systems, with numerous viral epidemic-linked outbreaks documented throughout the twentieth century<sup><a name="cite1a"></a>(#ref1), <a name="cite2a"></a>(#ref2), <a name="cite3a"></a>(#ref3)</sup>.  Despite decades of research and political battles over mobilizing resources, underlying mechanisms remain elusive, and as the US Institute of Medicine concluded in 2015, “There is an urgent need for research to elucidate the underlying mechanisms of ME/CFS”<sup><a name="cite4a"></a>(#ref4)</sup>. This paper advances one such new hypothesis and model.
 
-ME/CFS is frequently accompanied by a range of related conditions that further complicate diagnosis and management. Among the most prominent are craniocervical instability (CCI) - a disorder involving excessive movement at the junction of the skull and upper spine that can result in disability and neurological symptoms - and mast cell activation syndrome (MCAS), a disorder marked by inappropriate activation of mast cells leading to episodic allergic and inflammatory symptoms<sup><a name="cite5a"></a>[5](#ref5)</sup>. Other commonly observed comorbidities include autonomic disorders like postural orthostatic tachycardia syndrome (POTS), Long COVID, the connective tissue disorder Ehlers-Danlos syndrome (EDS)<sup><a name="cite6"></a>[6](#ref6)</sup>, and fibromyalgia. These overlapping conditions are not only prevalent among individuals with ME/CFS, but frequently coexist, suggesting the possibility of interconnected underlying mechanisms. The high comorbidity burden in these patient populations highlight the need for a more unified understanding of their pathophysiology. The patterns of overlap raise the question: could a single mechanistic process account for some of the diverse symptoms and comorbidities observed in ME/CFS?
+Patients are categorized under ME/CFS if they develop extended fatigue periods long after overexertion, along with chronically unrestorative sleep. This categorization is medically accepted due to quantifiably standing out in both aggregate population trends and in microscopic biomarker differences, but individual tests to confirm ME/CFS are generally unavailable in clinical settings, leaving millions of patients without validation that their impairment has a real basis. Around 10% [confirm] of people develop ME/CFS within 12 months after infection with Epstein-Barr virus (or "mono"), an extremely common experience; most adults are permanent hosts of EBV, including 100% of people with lupus or multiple sclerosis [cite].
 
-## Proposed Model
+ME/CFS is frequently accompanied by overlapping conditions that complicate diagnosis and management but also suggest shared pathophysiology. This raises the question: could a re-framing of the underlying mechanism help better explain the diverse symptoms and comorbidities observed?
 
-This work proposes a new disease process called Pained Gasping Posture (PGP), as a more direct explanation for the constellation of symptoms seen in ME/CFS. The name evokes the image of someone whose face is frozen in a pained gasp, making the concept vivid and relatable for the public, conveying the seriousness of being trapped in such a state.  The following sections present the evidence and reasoning supporting this explanatory model and invite critical analysis, open scrutiny, and collaborative investigation. To the author's knowledge, this symptom grouping has not previously been explained in such a direct or accessible way, although some elements may reflect personal misconceptions or overlap with prior findings.
+Prominently cited examples overlapping ME/CFS include craniocervical instability (CCI), in which excessive skull–spine junction movement produces neurological disability; mast cell activation syndrome (MCAS), whose inappropriate mast cell responses trigger inflammatory and allergic states; and autonomic disorders (dysautonomia) such as postural orthostatic tachycardia syndrome (POTS) that disrupt vital regulation<sup><a name="cite5a"></a>(#ref5)</sup>. Other conditions highly co-occurring with ME/CFS include Epstein-Barr virus persistence, Long COVID, connective tissue disorders such as Ehlers-Danlos syndrome (EDS)<sup><a name="cite6"></a>(#ref6)</sup>, and widespread pain syndromes such as fibromyalgia and irritable bowel syndrome. Despite being notably absent from most discussion about comorbidities, this list is not complete without including vocal cord disorders (VCD).
 
-Current scientific consensus holds that ME/CFS is fundamentally a disease of microscopic dysfunction - affecting immune, neurovascular, neuroendocrine, and metabolic pathways. However, these underlying processes do not always clarify how the molecular changes give rise to the diverse, day-to-day symptoms experienced by patients. The PGP model proposed here does not overrule these molecular origins. Rather, it focuses on large-scale physical compensations as a hidden central driver of the lived symptom experience. Specifically, it hypothesizes that a particular, overlooked physical compensation could serve as a mechanistic bridge between the underlying micro-pathophysiology and observable clinical realities of ME/CFS.
+Declaration 1: The associated chronic illnesses of ME/CFS have been misunderstood for decades because mechanisms of causation were missed, largely because of vocal disorders being ignored in the big picture, when in fact evidence suggests that they are central to it.
 
-In PGP, the hypothesized mechanism of illness involves the pharyngeal dilator muscles exerting excess force to keep an inflamed airway open. Pharyngeal dilator muscles are located in the walls of the throat (the pharynx), including muscles that attach to the tongue, palate, and hyoid bone at the front of the neck. They act together to keep the upper airway (breathing passage) open. These muscles are controlled involuntarily by the brainstem, and in normal circumstances they maintain airway patency and compensate for negative pressure and collapse risk, all without any conscious effort or sensation. Severe swelling, such as that seen in anaphylaxis, could overwhelm their ability to ensure airflow, whereas less severe swelling might simply increase the workload. As inflammation escalates, the muscles may be forced to contract harder. Because they are involuntary and provide little sensory feedback that is consciously perceived, this excessive strain can remain largely imperceptible to the sufferer. Despite adopting a "pained" neck posture, the person may not feel pain or fatigue in the pharynx itself, and thus would have no obvious reason to suspect this as the source of their symptoms or report it to their clinician. Only when these muscles become overwhelmed and recruit the more perceptible neck and head muscles does discomfort begin, remaining in a spasm-like posture for as long as airway relief is needed. This compensatory activity may be externally invisible, depending on the force distribution, leading to unrecognized tissue strain and injury.
+Voice and speech complaints are common in ME/CFS patient anecdotes, especially during the characteristic Post-Exertional Malaise (PEM) crashes [cite] https://www.mdpi.com/2077-0383/14/14/4847
+One study found symptom improvement from administering vocal therapies to 25 patients with ME/CFS and related conditions [cite] https://pmc.ncbi.nlm.nih.gov/articles/PMC8906430/pdf/cjrt-2021-074.pdf
+although the researchers assumed voice therapy was merely improving patients' respiration, or perhaps treating laryngeal damage from coughing.
 
-Though it may sound simplistic, the causes of PGP together with its downstream effects could account for many symptoms of ME/CFS. It could help demystify links to related chronic illnesses such as Cranio-Cervical Instability (CCI) and Mast Cell Activation Syndrome (MCAS) and some frequently correlated traits such as autism. Consider the following causes and effects implied by PGP.
+Vocal cord dysfunction is often perceived as affecting only speech, with the assumption of no consequences to general health. In reality, the vocal folds serve multiple roles in protection and clearance of the airway. Vocal functions such as noise production are ingrained in mammals at a primal level by the body's muscle dynamics, and the vocal folds share not just muscle relationships but innervation with structures that are most crucial for survival -- the airway, swallowing muscles, and cervical spine. Even a mere confusion of signals in these locations would be enough to severely affect health. The body will endure injurious compensations as a tradeoff for more efficient flow in the airway, or even from the misguided perception of inefficiency.
 
-When someone is frozen in a pained gasping posture, it is typically due to causative factors that match ME/CFS problem areas. Of particular interest are airway patency issues from pharyngeal inflammation. Viral infections can lead to inflammation or even mast cell activation syndrome (MCAS), which particularly triggers throat inflammation due to the abundance of mast cells in the pharynx<sup><a name="cite7"></a>[7](#ref7)</sup>. Swelling of these tissues can be substantial - sometimes enough to threaten airway closure<sup><a name="cite8"></a>[8](#ref8)</sup>. If mast cells are driving the inflammation, similar dysfunction would be expected in other mast-cell rich organs like the heart, and systems where mast cells regulate permeability (the digestive tract, the skin barrier, and the blood-brain barrier)<sup><a name="cite9"></a>[9](#ref9)</sup>, which match ME/CFS problem areas of digestion and cognition. Past viral infection is often linked to ME/CFS onset. The PGP model frames this as a cascade: mast cell hypersensitivity or other inflammatory conditions trigger long-term pharyngeal or nasopharyngeal swelling. Anyone frequently assuming a pained gasping posture (PGP) may be responding to these underlying reasons. If airway inflammation and swelling surpass certain limits, the force needed from pharyngeal and other muscles to keep the airway open can escalate beyond control, recruiting secondary muscles and applying strain to tissue, nerves, and vasculature - even when the overworked muscle state has no external signs.
+### Muscle Tension Dysphonia
 
-As with causes, PGP would produce effects that are familiar to ME/CFS patients. Airway muscle overuse would explain what many ME/CFS patients describe as a mystifying sensation of "air hunger". The strain itself is imperceptible due to involuntary throat muscles with few sensory nerve endings, so patients may only recognize symptoms once downstream effects manifest, such as muscle recruitment, neck pain, headache, and exhaustion. Maintaining a pained breathing posture long-term leads to many plausible downstream problems: 1. Vascular pressure, reducing the head's average perfusion. 2. Uneven loads and wear patterns on discs and bones, arising from disturbed head and neck posture and cervical spine strain. 3. Cranio-Cervical Instability (CCI) - excessive movement of the skull-spine junction - which can disrupt the spinal cord and neural roots, or progress to Cervical-Medullary Syndrome (CMS), a brain stem injury with autonomic consequences and myriad symptoms. 4. Dysautonomia, either from CMS or from flexion and constriction of the neck's cranial nerves. 5. Obstructive sleep apnea from excess neck pressure. 6. Breathing dysfunction from muscle recruitment. And so on. Thus the PGP model establishes for diverse symptoms of ME/CFS a long chain of potential causality: starting with viruses, to inflammation or MCAS, to pharyngitis and chronic airway strain, to dyspnea and sleep apnea, to CCI and spinal degeneration (and sometimes CMS), to nerve or blood vessel injury, and finally to dysautonomia.
+Consider a patient with impaired sensory feedback from laryngeal muscles. The larynx is a muscular passageway to the lungs that surrounds the voicebox; normally its receptors sample the inhaled air's temperature and velocity, complementing the baroreceptors and CO2 chemoreceptors in the blood vessels.  Although the larynx is richly innervated, these receptors map to the visceral cortex rather than the sensory cortex, and are not consciously perceptibe to touch. Thus the patient would not feel noticeably numb in the airway without them, or feel anything at the location that would make them recognize their larynx as a problem. Functional impairments would nonetheless arise, including diminished perception of airflow or muscle stretch, inability to register a full breath, and absent temperature cues. This generates vague discomfort reminiscent of ME/CFS symptomatology.
 
+Because the brain treats airway turnover as survival-critical, disruptions induce autonomic panic (fight or flight) and dysautonomia, while the missing signals may be substituted (in the same manner as in phantom limb pain) with noxious sensations. The reflex system may also chronically misfire, producing involuntary spasms.
+
+A common maladaptive reflex of the airway is Muscle Tension Dysphonia (MTD), in which the larynx constricts the voicebox whenever the individual attempts to speak [cite]. The causes of MTD are considered to be multifactorial, with impaired sensory feedback frequently suggested as a mechanism [cite]. Subjectively, MTD produces feelings of hoarseness, pain, and vocal fatigue -- symptoms reported by many ME/CFS patients. Further downstream effects could be powerfully explained by the signal disruption to airway muscle control that comes with MTD, contributing to the cascade of symptoms that define ME/CFS.
+
+Declaration 2: Muscle Tension Dysphonia (MTD) and ME/CFS are increasingly observed to be highly associated, precisely because MTD is central to the ME/CFS disease process.
+
+Voice disorders such as MTD, though often overlooked in clinical algorithms, are disproportionately present in ME/CFS, fibromyalgia, and related chronic illnesses, roughly twice as often as in controls <sup><a name="cite40"></a>(#ref40)</sup>, with another study again finding a doubling of odds in fibromyalgia patients [cite] https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf , and a third study finding conversely that half of all MTD patients meet fibromyalgia criteria, compared to just 4% of controls [cite] https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/abs/risk-of-fibromyalgia-in-patients-with-primary-muscle-tension-dysphonia-a-possible-local-manifestation-of-a-musculoskeletal-systemic-disorder/A68B0B04C6DFFE0BA2FF7F3F57704F65 . MTD is an objective finding diagnosed by directly visualizing the larynx under videostroboscopy; the fact that a clear physical finding is strongly predictive of chronic pain syndromes strongly repudiates the view commonly espoused even among doctors that these related chronic illnesss are purely psychiatric or fake [cite].  The high burden of overlap with MTD across such seemingly disparate chronic illnesses calls for a unified explanation of their shared pathophysiology.
+
+
+## Methods (Proposed Model)
+
+Although current scientific consensus holds that ME/CFS is fundamentally a disease of microscopic dysfunction (affecting immune, neurovascular, neuroendocrine, and metabolic pathways) these molecular processes do not always clarify how the wide range of day-to-day symptoms arises for patients. The model proposed here does not overrule these molecular origins. Rather, it focuses on large-scale physical compensations in the neck region, notably including MTD, as a hidden central driver and mechanistic bridge between the underlying micro‑pathophysiology and observable clinical realities of ME/CFS.
+
+The prevailing view of ME/CFS today is that it is a multifactorial disease, possibly rooted in mitochondrial and immune dysfunctions [cite], that is accompanied by a spectrum of comorbidities with variable occurrences in differing patients. Associated conditions and risk factors from CCI to Long COVID to autism [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC10965591/] are all conceptualized as a network of interconnected conditions without specifying a unidirectional causal flow between them. In the extreme case that model could be drawn as a totally flat hierarchy like this:
 ```
-[Virus or other initiator]
-        ↓                  ↘
-[Airway Inflammation & Pain]  [Microscopic Pathology, Microclots, Metabolic Compromise]
-        ↓
-[Mast Cell Activation, Pharyngeal Swelling]
-        ↓
-[Overactivation of Pharyngeal Dilator Muscles]
-        ↓
-[Fatigue of Primary Airway Muscles]
-        ↓
-[Recruitment of Accessory Muscles]
-    ↙                ↓                 ↘
-[Posterior Cervical] [Anterior Neck] [Upper Chest]
-[Extensors, Traps]   [SCM, Scalenes] [Pec Minor]
-        ↓
-[Chronic “Pained Gasping Posture”]
-        ↓
-[Downstream Effects]
-     ↙          ↓          ↘           ↘
-[Spinal Injury] [OSA] [Dysautonomia] [Vascular/Neural]
-[CCI, CMS] [Breathing Dysfunction] [Tension/Perfusion Issues]
+                              [ ME/CFS Onset ]
+                               ⤢     ⭥     ⤡
+[Post-Viral Effects] [Mitochondrial Compromise] [MCAS] [CCI] [ADHD/Autism] [Ehlers-Danlos Syndrome] [Disordered Breathing] [Dysautonomia] [Systemic and Localized Fatigue] [Postural Changes] [Immune Dysfunction] [Fibromyalgia/SFN] [Microtrauma] [Inflammation] [Thyroid Dysfunction] [Sex and Genetic Predisposition] [BBB Leakage] [Brain Fog] [Perfusion Issues] [Migraines] [Trauma] [Depression] [Allergies] [Bladder Issues] [Orthostatic Intolerance] [Sleep Apnea] [Dysphagia] [IBS] [Acid Reflux]
 ```
+Consider the following alternative diagram of proposed causative links, each of which when taken individually already appear in the literature as either proven or highly plausible. When integrating them all, observe how the classic comorbidities of ME/CFS are accounted for in their respective places, each linked in a causal flow that fits more logically than in the unorganized view.
+```
+                       [Post-Viral Effects]
+                             ↙   ↘
+[Microscopic Pathology, Systemic Microclots, Metabolic Compromise]  [MCAS / High Tissue Permeability]* (footnote)
+                                ↓
+                 [PINK1‑Parkin Pathway Dysfunction]
+                                ↓
+              [Mitochondrial Quality Control Failure]
+                  ↙             ↓
+[Systemic Muscle Disease]  [Targeted Disease of Metabolically Vulnerable Sensory Terminals]
+               ↓                ↓
+[PEM, Severe ME/CFS]  [ Throat/Breathing Spindle Nerves, as the "Canary in Coalmine" ]
+                                ↓
+         [Missing Laryngeal Signals; "Phantom Limb"‑like Phenomena]
+                                ↓
+                    [False "Closed Airway/Choking" Signal]
+                                ↓
+                      [Fight or Flight Response]
+                                ↓
+         [Dysautonomia] [Functional Changes of Pharynx/Larynx]¹ (footnote)
+                                ↓
+                   [Muscle Tension Dysphonia (MTD)]
+                                ↓
+          [Fatigue of Primary Voice/Airway/Breathing Muscles -
+          Pharyngeal Dilators/Constrictors, Laryngeal Muscles, etc]
+                  ↙             ↓
+     [Pseudo‑PEM]  [Recruitment of Accessory Muscles]
+                    ↙           ↓           ↘
+    [Posterior Neck]    [Anterior Neck]  [Upper Chest]
+    [Extensors, Traps,  [SCM, Scalenes]  [Pec Minor,
+     Suboccipitals]                       Intercostals]
+                                ↓
+                 [Chronic “Pained Gasping Posture”]
+                      ↙                    ↘
+[Fatigue of Fine Motor Control]  [Spinal & Postural Changes]² (footnote)
+                                ↓
+[Loss of Cervical Lordosis]  [Forward Head Posture]  [Neck Retraction]  [Functional CCI]
+                                ↓
+[Brainstem & Immune Dysfunction] [Vascular/Neural Tension & Perfusion Issues] [Structural Neck Changes]
+                                ↓
+[Reinfections] [Cognitive Issues] [Orthostatic Intolerance] [Airway Restriction] [Sleep Apnea, Injurious Snoring] [Dysphagia]
+                                ↓
+ [Hypoxia, Microtrauma] [Increased Reflux, Further Neck Inflammation] [Unrefreshing Sleep]
+                                ↓
+                  [More Improper Muscle Activation]
+                                ↑
+                         (Vicious Cycle)
 
-Using PGP to explain ME/CFS seemingly produces a good match, when considering plausible PGP causes and effects together. Another effect worth highlighting is metabolic disturbance, which is both present in ME/CFS and expected to arise from several PGP-related mechanisms: dysautonomia, abnormal breathing, and any initial viral inflammation. ME/CFS and POTS patients commonly exhibit metabolic issues of impaired mitochondrial function, reduced oxygenation, and paradoxical findings in the RAAS system (which regulates blood volume and pressure via the kidneys and brain's HPA axis). Recent research identifies gas exchange abnormalities in ME/CFS; patients exhibit inefficient ventilation, breathing more deeply and slowly yet reaching the anaerobic threshold at much lower levels of exertion than healthy individuals. This suggests that metabolic dysfunction and abnormal breathing reinforce each other.  A 2022 study found that surprisingly, hypocapnia (low CO₂) is the most common orthostatic abnormality in ME/CFS, occurring even more frequently than POTS<sup><a name="cite10"></a>[10](#ref10)</sup> - highlighting the central role of metabolic changes and their direct connection to breathing in this disease.
+Certain steps are further aggravated by the presence of:
+¹ MTD: Pharyngitis (as from concomitant MCAS, or from Reflux), Nasal Blockage, Voicebox Lesions, Conflict Over Speaking Out (COSO), Autism
+² CCI: Ehlers-Danlos Syndrome (EDS), Neck Injuries, Congenital Anatomy
+But these are hypothesized here as merely "aggravators", unlike conceptions of them as primary causes of ME/CFS.
 
-Beyond predicting metabolic disruptions, other consequences of a constricted neck, and ME/CFS symptoms in general, it's important to consider how the PGP model reframes longstanding ideas. The most useful contribution of the PGP model is its radically different view of structural findings such as CCI.
+* MCAS effects: Dermatitis, IBS, Esophagitis, Oral Sores, Overactive Bladder, Hypermobility, Vascular/BBB leakage
+```
+The disease ME/CFS according to the novel PGP model, visualized as a cascade-like process.
 
-### Challenging Conventional Explanations
+Declaration 3: Starting from a basic viral initiator, in ME/CFS one disease process can cascade into the next to form a vicious cycle, with MTD serving as the mechanistic bridge linking mitochondrial dysfunction to downstream comorbidities.
 
-The PGP model challenges one particularly widespread belief. Consider that a pained gasping posture can overload cervical ligaments, which on imaging might create the appearance of Cranio-Cervical joint instability (CCI). The common explanation of “lax ligaments” for CCI may be a red herring after all if the tissues are actually stretched in length by hidden muscle tension. Standard imaging does not reveal static forces from muscles, so clinicians may miss this constant overload. Cervical ligaments may not be inherently lax but simply pulled longer by external force, which may be considerable if needed to overcome airway swelling. Even in EDS (connective tissue disorder) patients, pained gasping posture might be the true cause of CCI, with EDS only aggravating the tendency of fragile neck areas to deform under high load.  Publicly influential clinicians who attribute CCI to “tech neck” or screen overuse, like those who blame “lax ligaments,” may be overlooking the real mechanism. While these presumed causes are hard to treat or prevent, MCAS can be present in the same patients, which as an alternative explanation for the symptom cascade offers direct and clear treatment options.
+### Redefining ME/CFS
 
-The concept of "functional" craniocervical instability (CCI) has been described in the literature as a form of instability without clear structural or ligament abnormalities, attributed instead to dysfunction in the cervical proprioceptive system and muscle tone<sup><a name="cite11"></a>[11](#ref11)</sup>. While this definition recognizes neuromuscular contributions, it does not encompass the broad symptom range of ME/CFS, nor does it address airway muscle involvement, ligament elongation from chronic muscle spasm, or the recruitment of spinal muscles to support pharyngeal constrictor function. In the PGP model, pharyngeal constrictors, which oppose the dilators as an antagonist pair, may fatigue alongside them. Anatomically, it turns out these muscles are well positioned to recruit the cervical spine’s muscles, as both attach to the skull base and styloid process, and are connected by overlapping fascial planes. This suggests shared tension could strain or straighten the cervical spine as seen in CCI. When CCI sufferers, including the author, notice that moving their most painful neck joint to its extreme causes their airway to shut, it's a surprising moment indicating that their spinal pain is intrinsically linked to airway constrictor activity - a key observation that prompted this entire proposal.
+This article introduces the Pained Gasping Posture (PGP) model, a novel and direct explanation for the constellation of symptoms observed in ME/CFS. The term “pained gasping” vividly captures patients’ distress, evoking the sensation of being frozen in an unnatural state; evocative names are important when communicating the situation's gravity to clinicians and the public alike. Similar terms like “gasping syndrome” have been used by voice clinicians to describe a similar distress if caused by an inability to register a full breath due to loss of sensory feedback<sup><a name="cite41"></a>[41](#ref41)</sup>. PGP provides a broader name for a wider chronic illness phenomenon. The PGP model frames Muscle Tension Dysphonia (MTD) as linking underlying post-viral mitochondrial disruptions to the wide downstream symptom cascade, including dysautonomia, postural instability, and chronic pain syndromes.
 
-The body typically recruits larger muscles when smaller muscles can no longer meet functional demands, per Henneman's size principle. When pharyngeal constrictors are overworked due to airway inflammation or obstruction, their posterolateral positioning suggests that compensation could plausibly come from the posterior neck muscles that happen to be especially painful in CCI (cervical extensors, suboccipitals, upper trapezius). For dilators, which are positioned more anteriorally, compensation might involve the anterior neck and upper chest muscles (sternocleidomastoid, scalenes, pectoralis minor), potentially shifting breathing from diaphragmatic to chest-dominant. Common compensatory postures for airway issues include head extension (forward head posture or “tech neck”) and neck retraction. Clinicians have observed that in OSA and airway compromise, a variety of accessory muscles are recruited when the primary airway muscles are insufficient<sup><a name="cite12"></a>[12](#ref12)</sup>. The pharyngeal plexus, which innervates the pharyngeal muscles, has branches entering the posterior pharyngeal wall at the C3/C4 vertebral levels, further linking strain in this spinal region to potential airway compromise.  The compression of cranial nerves and the brainstem in CCI can manifest as a variety of ENT-related complaints, including swallowing difficulties, voice changes, and sometimes upper airway obstruction, but the reverse direction of causation (CCI resulting from airway issues) would be a new concept to ENT specialists.
+Clinically, laryngospasm is an involuntary tightening of the vocal cords that closes off the airway and triggers a classic panic-like fight or flight response similar to choking, producing hypervigilance and autonomic strain [cite]. The PGP model hypothesizes that the same capability exists in "milder" functional vocal spasms that fall short of full blockage. Spasms that affect the size of airway opening would involve the laryngeal muscles responsible for speech and airway protection (as in MTD), or the pharyngeal constrictors and dilators responsible for swallowing and airway patency. Abnormal activation and impaired sensory feedback in these muscles are proposed as the central drivers in a cascading failure across multiple organ systems seen in ME/CFS, leading to subtle compensatory postural changes, persistent musculoskeletal strain, and possible ischemia or reduced perfusion, eventually creating a self-reinforcing vicious cycle.
 
-The PGP hypothesis proposes that being trapped in an uncomfortable posture is a central, yet often overlooked, feature of illness. It follows that people with ME/CFS may experience far more chronic pain than is recognized - or even than they themselves realize, since pain has become their baseline - while also explaining the brain fog and concentration difficulties frequently reported. Greater awareness from loved ones and caregivers could be transformative; if they understand that PGP sufferers are constantly carrying an invisible weight of muscle overuse and airway discomfort, they may become more supportive of the person’s need for regular self-care and urgent breaks during every interaction.
+Although individuals may visibly adopt a “pained gasping” posture, because there is little ability to perceive pain or fatigue localized to the involuntary throat muscles, they would be unlikely to report symptoms that would implicate the overloaded larynx itself. Excessive strain accumulates silently until reaching the limit of fatigue, whereupon discomfort only arises because of the secondary recruitment of more detectable neck and postural muscles. Even when externally invisible or subtle, imbalances and persistent strain to compensate for perceived airway inefficiency may result in progressive injury. Hidden dynamics help to explain why patients and clinicians never discovered the laryngeal origin of chronic symptoms and misattributed downstream effects.
+
+Declaration 4: ME/CFS patients are, in effect, frozen in pain and maladaptive muscular postures driven by disrupted proprioceptive feedback and involuntary MTD, which together form a local paralysis.
+
+The PGP hypothesis proposes that being trapped in an uncomfortable posture is a central, yet often overlooked, feature of illness. People with ME/CFS may experience more chronic pain than is recognized - or even than they themselves realize, since pain has become their baseline - while also explaining the brain fog and concentration difficulties frequently reported.
+
+Though it may sound simplistic, a hypothetical Pained Gasping Posture could help demystify well-established links to ME/CFS related chronic illnesses such as Cranio‑Cervical Instability (CCI) and Mast Cell Activation Syndrome (MCAS) and some frequently correlated traits such as autism, identified as a potential aggravator of MTD. To the author’s knowledge, this is the first comprehensive attempt to explicitly and accessibly connect the entire ME/CFS symptom cascade within a single theoretical model integrating neuromuscular pathology, vocal dysfunction, and systemic physiological consequences. This hypothesis invites critical scrutiny and collaborative research to further validate, refine, and translate its predictions into improved clinical care and patient outcomes. While some components overlap with prior literature or reflect misconceptions inherent to patient perspective limitations, this framework uniquely demystifies disparate features of ME/CFS by emphasizing voice and airway muscle control failures, then using that missing link to define a broader chronic illness model to logically predict the rest of the ME/CFS process, which naturally fills itself in both upstream and downstream of MTD.
+
+The following sections will present evidence and reasoning supporting this explanatory model.
+Notably, the model draws heavily on patient observations and lived experience, which provided the initial impetus for its development.  The author only learned about MTD as a result of investigating why it was when I moved my problematic neck joint in the direction of increasing pain, my voice observably changed; a ENT and SLP appointment, videostroboscopy and MTD diagnosis soon followed.  Spinal pain is intrinsically linked to airway muscle activity.
+
+
+ Now every time I read a new ME/CFS patient anecdote I can't unsee it; the signs are everywhere that a lot of pathology is local to the neck, that extended speaking is an ultra‑common trigger, that interventions that are used for MTD bring relief, etc.
+
+These patient-centered insights have uncovered underappreciated musculoskeletal and neurological connections, suggesting valuable new directions for diagnosis and treatment—particularly as Muscle Tension Dysphonia is recognized as highly treatable with established interventions and muscle retraining.
+
+ There's too much for it to be coincidence.  The thing is, MTD is treatable.  Very treatable compared other other causes.  Everyone who goes through PT for it winds up feeling dramatically better.
+
+
+
+
+
+
+
+CCI
+    MTD/neck pain connection in literature
+    Declaration: The muscles recruited compete with the muscles of fine control of CCJ/neck posture.
+    Henneman's principle
+    chronic overuse
+    downstream effects manifest, such as neck pain, headache, and exhaustion; wear, pressure
+    CCI and forces required
+    Declaration: Functional CCI underdiagnosed; see Treatment section
+    Declaration: Muscle recruitment is often the first time a patient feels anything due to MTD, which is too distant from MTD to be discovered.
+    Difficult control problems & signals
+    MTD and pharyngeal constrictors also compete - asthma example
+    MCAS and asthma - citation - Mast Cells in Pharynx
+    keeping the airway open can escalate beyond control
+    ischemia
+    Declaration: Ocular/postural/MTD Pseudo-PEM
+    OSA, TMJ, phrenic nerve issues, CMS
+    Declaration? Costo, TOS
+    clavicular breathing vs diapragm-only breath support during vocalization
+    pressing into author's neck pain changed voice
+Dysautonomia
+    it's the fucking vagus that innervates the larynx, no wonder dysautonomia and MTD would be linked
+    Air hunger believed to be from sensory feedback in VCD context; also in ME/CFS
+    Declaration: Any breathing muscles' feedback loss could trigger ME/CFS's dysautonomia
+    Declaration: Breathing/metabolism issues more common than POTS
+    Declaration? lung/heart/artery pressure connection
+    IBS because of rest/digest misfires
+Mitochondria & Muscle Spindles
+    PGP covers much of ME/CFS (CCI, dysautonomia, discomfort/fatigue), leaving primarily PEM to explain.
+    Since most ME/CFS patients exhibit both systemic PEM and local neck symptoms consistent with MTD, the underlying mechanism must independently cause both.
+    A bistable mitochondrial process is the best fit.
+    PINK1, mTORC1
+    PINK1 observed in patients
+    Declaration: Mitochondrial Quality Control
+    Declaration: ROS is not a bistable explanation
+    Viruses and mitochondria
+    Control energy to control tradeoff between mitochondria immunity vs. energy for virus production
+    Tagging system is thus a prime target
+    PEM and energy estimation vs supply
+    ultrastructural level is fine
+    Not all patients have the same mitochondrial issues
+    SEID and muscle pathology - Cell Death
+    Mitochondria fatigue every type of cell; muscles aren't special
+    Besides muscles, sensory nerves that detect stretch in muscle spindles are highly active.
+Neurons
+    Canary in Coalmine
+    Phantom Limb parallel
+    re: sensory feedback loss: ME/CFS is famously linked to abnormal sensory processing.
+    Senses wake up too in the morning, including noxious phantom pain, all at once
+    Unrefreshing sleep, though normal quality sleep, as documented
+    Declaration: nerve pathology rather than structural
+    sensory feedback and perception of the airway; nerve pathology moreso than structural pathology
+    Airway pathology negatively correlated
+    DOMs might be spindle nerves too
+    Declaration: PEM crashes might be nerve cell crashes, in patients under threshold of affecting muscles
+    Two types of fatigue/crashes identified previously
+    Declaration: Ocular/postural/MTD Pseudo-PEM crashes are more treatable
+    Fine motor control can tire separately from muscles; may compete signal with itself
+    Less mitochondrial damage may mean muscles don't get involved, but still Pseudo-PEM
+    overfocus on muscles
+ME/CFS Variants
+    Declaration: Autism risk factor
+    Monotropism and Symptom Experience/Management
+Results
+    Testability
+        Predictions
+        Much to correct in the record
+    Treatments and Implications
+        Declaration: Unnecesary surgeries
+        Unnecesary resigning to EDS as cause of lengthening; No treatment
+        Declaration: No CFS/CCI specialists are referring anyone to SLP
+        Phantom Limb protocol
+        Retraining / PT
+        Tinnitus, turbinate loss, cortical remapping
+        Declaration: Implications for ENS too
+        Speech Therapy
+        Headway can be made without spending/healthcare/supplements
+        MCAS is another bottleneck
+            Lost opportunity: Many patients are one easy MCAS treatment away from relief
+            Mast cell symptoms are common in ME/CFS, esp heart and pharynx and ligaments
+        Targeted Exercises
+Discussion
+    Review
+    Limitations: Mixed etiologies, Non-viral CFS causes; trauma, positional blockages?
+    Disability / social risk factor, COSO
+    More painful disorder than realized; patients need understanding
+    BPS not excused
+Societal Context and Motivation
+    Scandal History Summary
+    Current Event Parallels
+    Existing BPS citation - reuse about BPS
+    Patients over Bad faith science
+Conclusions
+
+
+## Results (Implications)
+
+
+Mitochondria:
+
+    If the overlapping chronic illnesses co-occurring in ME/CFS relate directly to concomitant MTD, then what remains unexplained is primarily the hallmark symptom of post-exertional malaise (PEM). Since most ME/CFS patients exhibit both systemic PEM and local neck symptoms consistent with MTD, the underlying mechanism must independently cause both.
+
+    Supposing the myriad chronic illnesses that overlap with ME/CFS are directly connected to concomitant MTD, it leaves little of ME/CFS to explain besides its hallmark symptom, PEM.  Generally all ME/CFS patients experience both systemic PEM and the more local symptoms to the neck that MTD could explain. In order for that to make sense, the same mechanism that causes MTD and downstream conditions must also, without fail, separately cause PEM.
+
+    Declaration 4: There is only one molecular mechanism that could plausibly cause both with a high reliability, which is mitochondrial quality control failure due to a disruption of the PINK1-Parkin pathway throughout the entire body's cells, as from post-viral syndrome.  The immediate systemic effect of that would be PEM, and the immediate localized effect of that would involve certain tissues that serve as the "canary in a coalmine" due to relying on mitochondria more than the rest of the body; these happen to be the sensory feedback nerves of the breathing and laryngeal muscle spindles, whose signal disruption could plausibly cause MTD.  Therefore, the current research focus on ROS as the mechanism for mitochondrial issues in ME/CFS might be the wrong one.
+
+
+    If most co-occurring chronic illnesses in ME/CFS trace back to this process, what remains unexplained is the hallmark symptom: post-exertional malaise (PEM). Since virtually all ME/CFS patients exhibit both systemic PEM and local symptoms consistent with MTD, a common mechanism must underlie both.
+
+    Declaration 4: Among plausible mechanisms, only mitochondrial quality control failure—specifically PINK1-Parkin pathway disruption—can reliably account for both PEM and the vulnerability of high-demand sensory feedback nerves governing breathing and laryngeal muscle tone. Thus, this model proposes mitochondrial quality control as the critical upstream trigger, with local effects in the throat as “canary in the coalmine” indicators. This challenges the prevailing focus on oxidative stress and positions quality control failure as the central molecular event in ME/CFS pathogenesis.
+
+
+    Declaration 4: The only molecular mechanism capable of robustly causing both PEM and MTD-related symptoms is mitochondrial quality control failure, specifically disruption of the PINK1-Parkin pathway across the body’s cells due to post-viral syndrome. Systemically, this manifests as PEM. Locally, it impacts tissues most dependent on mitochondrial function—namely, sensory feedback nerves of the breathing and laryngeal muscle spindles—which, when disrupted, plausibly cause MTD. Consequently, this model suggests the predominant research focus on reactive oxygen species (ROS) may overlook the more critical mitochondrial quality control dysfunction in ME/CFS.
+
+
+CCI:
+
+    #### Upstream Symptoms
+
+    When someone is frozen in a pained gasping posture, it is typically due to causative factors that match ME/CFS problem areas. Of particular interest to gasping are speaking and airway patency issues from pharyngeal inflammation. Viral infections can lead to inflammation or even mast cell activation syndrome (MCAS), which particularly triggers throat inflammation due to the abundance of mast cells in the pharynx<sup><a name="cite7"></a>[7](#ref7)</sup>. Swelling of these tissues can be substantial - sometimes enough to threaten airway closure<sup><a name="cite8"></a>[8](#ref8)</sup>.
+
+    Mast cells being the driver of throat inflammation makes sense, because similar dysfunction would be expected in other mast-cell rich organs like the heart, and systems where mast cells regulate permeability (the digestive tract, the skin barrier, and the blood-brain barrier)<sup><a name="cite9"></a>[9](#ref9)</sup>, which match ME/CFS problem areas of digestion and cognition. Past viral infection is often linked to ME/CFS onset.
+
+    The PGP model frames this as a cascade: mast cell hypersensitivity or other inflammatory conditions trigger long-term pharyngeal or nasopharyngeal swelling. Anyone frequently assuming a pained gasping posture (PGP) may be responding to these underlying reasons. If airway inflammation and swelling surpass certain limits, the force needed from pharyngeal and other muscles to keep the airway open can escalate beyond control, recruiting secondary muscles and applying strain to tissue, nerves, and vasculature - even when the overworked muscle state has no external signs.
+
+    , so patients may only recognize symptoms when recruiting more muscles to breathe as downstream effects manifest, such as neck pain, headache, and exhaustion. Maintaining a pained breathing posture long-term leads to many plausible downstream problems: 1. Vascular pressure, reducing the head's average perfusion. 2. Uneven loads and wear patterns on discs and bones, arising from disturbed head and neck posture and cervical spine strain. 3. Cranio‑Cervical Instability (CCI) - excessive movement of the skull-spine junction - which can disrupt the spinal cord and neural roots, or progress to Cervical‑Medullary Syndrome (CMS), a brain stem injury with autonomic consequences and myriad symptoms. 4. Dysautonomia, either from CMS or from flexion and constriction of the neck's cranial nerves. 5. Obstructive sleep apnea from excess neck pressure. 6. Breathing dysfunction from muscle recruitment. And so on. Thus the PGP model establishes for diverse symptoms of ME/CFS a long chain of potential causality: starting with viruses, to inflammation or MCAS, to pharyngitis and chronic airway strain, to dyspnea and sleep apnea, to CCI and spinal degeneration (and sometimes CMS), to nerve or blood vessel injury, and finally to dysautonomia.
+
+    Whenever someone's body assumes a pained gasping posture, it's usually because they can't breathe well enough. It's also usually not a very ergonomic posture; the body seeks an open and efficient airway above all else, as a matter of survival, even when it means accepting unhealthy tradeoffs.  Less obvious is that the body would accept bad posture tradeoffs and risk chronic ill health just because of voice.  Projecting voice is important for survival too in an roundabout way, just less so.
+
+    The question arises, then, of why
+
+    The pharyngeal group's hypothesized dysfunction would be in exerting excess force to keep an inflamed airway open. Pharyngeal dilator muscles are located in the walls of the throat (the pharynx), including muscles that attach to the tongue, palate, and hyoid bone at the front of the neck. They act together to keep the upper airway (breathing passage) open. These muscles are controlled involuntarily by the brainstem, and in normal circumstances they maintain airway patency and compensate for negative pressure and collapse risk, all without any conscious effort or sensation. Severe swelling, such as that seen in anaphylaxis, could overwhelm their ability to ensure airflow, whereas milder swelling might simply increase the workload. As inflammation escalates, the muscles may be forced to contract harder.
+
+
+
+
+
+    Breathing strain via the dilators alone cannot account for what we see in ME/CFS and CCI.
+
+
+
+
+    Beyond predicting metabolic disruptions, other consequences of a constricted neck, and ME/CFS symptoms in general, it's important to consider how the PGP model reframes longstanding ideas. The most useful contribution of the PGP model is its radically different view of structural findings such as CCI.
+
+    ### Challenging Conventional Explanations
+
+    The PGP model challenges one particularly widespread belief. Consider that a pained gasping posture can overload cervical ligaments, which on imaging might create the appearance of Cranio-Cervical joint instability (CCI). The common explanation of “lax ligaments” for CCI may be a red herring after all if the tissues are actually stretched in length by hidden muscle tension. Standard imaging does not reveal static forces from muscles, so clinicians may miss this constant overload. Cervical ligaments may not be inherently lax but simply pulled longer by external force, which may be considerable if needed to overcome airway swelling. Even in EDS (connective tissue disorder) patients, pained gasping posture might be the true cause of CCI, with EDS only aggravating the tendency of fragile neck areas to deform under high load.  Publicly influential clinicians who attribute CCI to “tech neck” or screen overuse, like those who blame “lax ligaments,” may be overlooking the real mechanism. While these presumed causes are hard to treat or prevent, MCAS can be present in the same patients, which as an alternative explanation for the symptom cascade offers direct and clear treatment options.
+
+        The same muscle groups implicated in MTD are frequently involved in compensation and spasm in CCI.
+
+        Chronic CCI cases are often radically different from severe acute cases, those coming from major trauma definitely of structural and not functional origin. Traumatic instability or dislocation of the CCJ typically requires high-energy impacts such as falls or car crashes.  The CCJ is highly robust, stabilized by a complex combination of strong osseous (bony) and ligamentous structures, allowing for varied motion while maintaining exceptional stability.
+
+        The forces generated by voluntary or even maximal contraction of neck muscles are insufficient to overcome the stabilizing capacity of the CCJ in a healthy individual without predisposing factors such as congenital ligamentous laxity, connective tissue disorders, or previous injury
+
+        *Connective Tissue Disorders (e.g., EDS):* These lower the mechanical threshold for ligamentous injury and creep, and also of transient deflection of the CCJ under normal spring forces from neck muscles and gravity.
+
+
+        Most literature and clinical focus address CCI as a cause of muscle tension and voice changes, not the reverse.  There is no direct evidence proving or disproving that chronic muscle tension alone can cause CCI, particularly in the absence of other risk factors.  The absence of evidence does not equate to evidence of absence.  It is supported by established biomechanical and physiological principles, clinical overlap, and the absence of contradictory evidence, but requires rigorous investigation through clinical, biomechanical, and imaging studies to determine its validity and clinical significance.
+
+
+    The concept of "functional" craniocervical instability (CCI) has been described in the literature as a form of instability without clear structural or ligament abnormalities, attributed instead to abnormal neuromuscular control or abnormal cervical proprioceptive functioning and muscle tone<sup><a name="cite11"></a>[11](#ref11)</sup>.
+
+        Chronic postural strain and gravity may contribute to functional symptoms or pain without causing true structural instability in most cases
+
+
+        While this definition recognizes neuromuscular contributions, it does not encompass the broad symptom range of ME/CFS, nor does it address airway muscle involvement, ligament elongation from chronic muscle spasm, or the recruitment of spinal muscles to support pharyngeal constrictor function. In the PGP model, pharyngeal constrictors, which oppose the dilators as an antagonist pair, may fatigue alongside them. Anatomically, it turns out these muscles are well positioned to recruit the cervical spine’s muscles, as both attach to the skull base and styloid process, and are connected by overlapping fascial planes. This suggests shared tension could strain or straighten the cervical spine as seen in CCI. When CCI sufferers, including the author, notice that moving their most painful neck joint to its extreme causes their airway to shut, it's a surprising moment indicating that their spinal pain is intrinsically linked to airway constrictor activity - a key observation that prompted this entire proposal.
+
+
+        *Muscle Recruitment Patterns:* In MTD, fatigue or dysfunction of intrinsic laryngeal muscles often leads to compensatory overuse of larger, stronger neck muscles (e.g., sternocleidomastoid, scalenes, upper trapezius).
+
+        *Postural Maladaptation and Gravity:* Chronic abnormal muscle pull can alter head and neck posture (e.g., forward head posture), which greatly increases the gravitational load on the cervical spine and its ligaments. Even small deviations can multiply the effective load on the craniocervical junction, accelerating ligamentous strain.
+
+        *Reciprocal Muscle-Ligament Relationship:* Muscle spasm and tension can be both a response to, and a cause of, ligamentous instability.  This dynamic, bidirectional relationship is well-documented in other joint systems.
+          In hip dysplasia, for example, uneven loading of weight leads to more pronounced bone remodelling in the condition. https://pmc.ncbi.nlm.nih.gov/articles/PMC9251826/
+
+
+        Even advanced imaging and dynamic studies cannot always distinguish between a ligament that is truly lengthened and one that is being held long by muscle tone or abnormal activation. The literature acknowledges that diagnosis is based on the totality of evidence, not absolute proof.
+        Surgical stabilization may help by artificially increasing the spring constant of the system, but this does not mean the underlying ligaments were irreversibly damaged; it may simply compensate for persistent, functionally-induced elongation.
+        Surgery is indicated for structural instability—when there is clear evidence of permanent anatomical disruption, neurological compromise, or failed conservative management. However, if the diagnosis is actually functional instability, surgery may not address the root cause and could be unnecessary or even harmful.
+
+    The body typically recruits larger muscles when smaller muscles can no longer meet functional demands, per Henneman's size principle. When pharyngeal constrictors are overworked due to airway inflammation or obstruction, their posterolateral positioning suggests that compensation could plausibly come from the posterior neck muscles that happen to be especially painful in CCI (cervical extensors, suboccipitals, upper trapezius). For dilators, which are positioned more anteriorally, compensation might involve the anterior neck and upper chest muscles (sternocleidomastoid, scalenes, pectoralis minor), potentially shifting breathing from diaphragmatic to chest-dominant. Common compensatory postures for airway issues include head extension (forward head posture or “tech neck”) and neck retraction. Clinicians have observed that in OSA and airway compromise, a variety of accessory muscles are recruited when the primary airway muscles are insufficient<sup><a name="cite12"></a>[12](#ref12)</sup>. The pharyngeal plexus, which innervates the pharyngeal muscles, has branches entering the posterior pharyngeal wall at the C3/C4 vertebral levels, further linking strain in this spinal region to potential airway compromise.  The compression of cranial nerves and the brainstem in CCI can manifest as a variety of ENT-related complaints, including swallowing difficulties, voice changes, and sometimes upper airway obstruction, but the reverse direction of causation (CCI resulting from airway issues) would be a new concept to ENT specialists.
+
+    The PGP hypothesis proposes that being trapped in an uncomfortable posture is a central, yet often overlooked, feature of illness. It follows that people with ME/CFS may experience far more chronic pain than is recognized - or even than they themselves realize, since pain has become their baseline - while also explaining the brain fog and concentration difficulties frequently reported. Greater awareness from loved ones and caregivers could be transformative; if they understand that PGP sufferers are constantly carrying an invisible weight of muscle overuse and airway discomfort, they may become more supportive of the person’s need for regular self-care and urgent breaks during every interaction.
+
+
+
+Dysautonomia:
+
+    #### Downstream Symptoms
+
+    As with causes, PGP would produce effects that are familiar to ME/CFS patients. Airway muscle overuse would explain what many ME/CFS patients describe as a mystifying sensation of "air hunger". The voice clinician who coined "gasping syndrome" beleives that "air hunger" sensations may come from impaired sensory feedback, a missing signal expected from a full breath<sup><a name="cite41"></a>[41](#ref41)</sup>.  Laryngeal strain is especially imperceptible due to involuntary throat muscles with few sensory nerve endings
+
+
+
+    Using PGP to explain ME/CFS seemingly produces a good match, when considering plausible PGP causes and effects together.
+
+    People who present with ME/CFS tend not to be the patients with some obvious airway obstruction, so airway and vocal cord issues that block breathing outright were found to be negatively correlated to ME/CFS.  Rather, the same patients who complained of ME/CFS tended to be identified with non blocking but functional voice disorders.  In the retroactive study,
+
+
+    Possible Explanations for the Negative Correlation
+
+        Functional vs. Structural Disorders: CPS are associated with central sensitization and altered pain processing, leading to functional symptoms (like muscle tension dysphonia or somatic symptom amplification) rather than structural or neurological pathology of the larynx or vocal cords
+
+        . This means that while CPS patients may report throat tightness, globus, or breathing discomfort, these symptoms are less likely to be caused by objective, diagnosable airway pathologies such as vocal cord paralysis or true PVCM.
+
+        Central Sensitization and Somatic Focus: Patients with CPS often experience heightened awareness and amplification of bodily sensations due to changes in the central nervous system
+
+        . This may increase the reporting of symptoms that mimic airway disorders, but without the underlying organic disease that would be diagnosed as a true airway disorder.
+
+        Diagnostic Bias: Clinicians may be more likely to attribute airway-related symptoms in CPS patients to functional or psychogenic causes, and less likely to pursue or confirm a diagnosis of structural airway disease unless clear evidence exists.
+
+    However, the same study found that MTD does correlate hugely with ME/CFS, and that MTD as the driver of airway strain (rather than primary airway trouble) is the true link.
+
+    A 2022 study found that surprisingly, hypocapnia (low CO₂) is the most common orthostatic abnormality in ME/CFS, occurring even more frequently than POTS<sup><a name="cite10"></a>[10](#ref10)</sup> - highlighting the central role of metabolic changes and their direct connection to breathing in this disease.
+
+    Recent research identifies gas exchange abnormalities in ME/CFS; patients exhibit inefficient ventilation, breathing more deeply and slowly yet reaching the anaerobic threshold at much lower levels of exertion than healthy individuals. This is a type of metabolic dysfunction.
+
+    ME/CFS and POTS patients commonly exhibit metabolic issues of impaired mitochondrial function, reduced oxygenation, and paradoxical findings in the RAAS system (which regulates blood volume and pressure via the kidneys and brain's HPA axis).
+
+    PGP predicts metabolic disturbances as seen in ME/CFS to arise from several of its own mechanisms:
+    dysautonomia, abnormal breathing, and any initial viral inflammation.
+
+    Metabolic dysfunction and abnormal breathing reinforce each other.
+
+Treatment:
+
+    Greater awareness from loved ones and caregivers could be transformative; if they understand that PGP sufferers are constantly carrying an invisible weight of muscle overuse and airway discomfort, they may become more supportive of the person’s need for regular self-care and urgent breaks during every interaction.
 
 ### Validation and Clinical Interventions
 
 PGP is a highly testable hypothesis. EMG and nerve conduction studies could be performed on the airway muscles of CCI patients - an approach not yet explored - to systematically assess correlations with airway inflammation and posture. Data could be gathered linking airway inflammation biomarkers or endoscopic findings with posture and muscle dysfunction. Studies could also determine whether treating MCAS, which often improves other chronic illness symptoms, specifically alleviates postural issues, CCI-related imaging findings, or pharyngeal muscle tension. Additionally, confirmation is needed as to whether CCI patients with more inflamed airways have more obstructive, rather than just central, sleep apnea. These links appear to remain unexplored in current research in any systematic way.
+
+    *Retrospective Chart Reviews:* Identify patients with chronic MTD and assess for subsequent CCI, especially in those with predisposing factors.  Publish cases where individuals with chronic MTD and no major trauma or genetic disorder develop CCI.
+
+    *Prospective Cohort Studies:* Monitor individuals with severe, chronic MTD over time using imaging and clinical assessment for developing instability. Use dynamic imaging or motion capture to assess changes in cervical stability over time. Changes may occur gradually and remain subclinical for years, making them difficult to detect without longitudinal monitoring.
+
+    *Finite Element Analysis:* Simulate the effect of chronic abnormal muscle forces and altered posture on craniocervical ligaments, and the motion dynamics of tight multistable systems versus lax systems.
 
 Most people with chronic illness do not exhibit overt, dramatic postures; instead, they adopt subtle, compensatory micro-postures as the body adapts to chronic discomfort-slight forward head tilt, jaw tension, shallow chest breathing, or habitual muscle bracing. These are easily missed in brief clinical encounters. What begins as obvious struggle may, over months or years, become a “new normal” that appears only slightly abnormal to outside observers. Many patients unconsciously socially mask or suppress visible signs of distress, especially if they have a history of being dismissed. Clinical settings lack standardized scales for subtle postural and breathing compensation outside of severe cases like end-stage agonal breathing. Specialists work in silos related to individual organs/systems, often missing the holistic “big picture” of chronic compensatory patterns. Systematic study of subtle PGP could reveal important correlations if clinicians and researchers consistently observed and recorded head, neck, and jaw posture, breathing patterns (chest vs. diaphragm, rate, pauses), muscle tension and recruitment, and patient-reported effort and discomfort.
 
@@ -75,6 +388,10 @@ The PGP framing may also help demystify Post-Exertional Malaise (PEM), which is 
 Sleep paradoxically feels unrestful or injurious to many ME/CFS patients - in fact a hallmark symptom in diagnosis. If the PGP model is correct, even sleep may not fully unload the neck due to continued airway needs. Patients who awake in discomfort may therefore need interventions right away. Like for PEM, those could include standard muscle recovery approaches - such as stretching, heat or ice therapy applied to the airway region. The prospect needs to be tested. The model clarifies why some patients find symptom relief by subconsciously applying gentle, targeted forces to the neck - adjustments which are naturally customized in the moment to help unload fatigued muscles.
 
 Additional interventions for relief are explored in the next section, specialized for helping the commonly related autistic patient group, who often experience ME/CFS and experience it differently.
+
+#### Aggravating Factors and PGP Subtypes
+
+Multiple explanations of ME/CFS may exist; for example, one can imagine a case without viral inflammation where the pharyngeal damage instead comes from snoring of purely anatomical origin, which can itself be injurious, creating a feedback loop that starts PGP and ultimately makes the snoring worse. This aligns with research showing ME/CFS is highly heterogeneous, with diverse comorbidities and triggers; while infection is common, physical trauma, surgery, or stress have also been reported as triggers<sup><a name="cite15"></a>[15](#ref15)</sup>. Fortunately, many subgroups' symptoms and interventions overlap even when underlying mechanisms differ. Sensory disruptions, for example, are not limited to the autistic subgroup but are common across ME/CFS, likely due to overwhelmed central signalling pathways. In addition to the brainstem disruptions of CCI, brain imaging studies in ME/CFS show that patients must recruit more brain regions than healthy controls, straining energy resources and leading to fatigue under cognitive or sensory load, such as bright lighting.  This resource depletion may divert neural signaling away from pain, posture, and autonomic regulation - the very systems the PGP model identifies as crucial for symptom control in the context of chronic airway and postural strain.
 
 ### The Autism Connection
 
@@ -92,7 +409,7 @@ For autistic patients, the PGP framework offers additional clinical insights and
 
 ### Similarity and Diversity in PGP Patient Subgroups
 
-As the example of autism shows, it is difficult for explanatory models to generalize ME/CFS across patient subgroups as though a single uniform experience. Multiple explanations of ME/CFS may exist; for example, one can imagine a case without viral inflammation where the pharyngeal damage instead comes from snoring of purely anatomical origin, which can itself be injurious, creating a feedback loop that starts PGP and ultimately makes the snoring worse. This aligns with research showing ME/CFS is highly heterogeneous, with diverse comorbidities and triggers; while infection is common, physical trauma, surgery, or stress have also been reported as triggers<sup><a name="cite15"></a>[15](#ref15)</sup>. Fortunately, many subgroups' symptoms and interventions overlap even when underlying mechanisms differ. Sensory disruptions, for example, are not limited to the autistic subgroup but are common across ME/CFS, likely due to overwhelmed central signalling pathways. In addition to the brainstem disruptions of CCI, brain imaging studies in ME/CFS show that patients must recruit more brain regions than healthy controls, straining energy resources and leading to fatigue under cognitive or sensory load, such as bright lighting.  This resource depletion may divert neural signaling away from pain, posture, and autonomic regulation - the very systems the PGP model identifies as crucial for symptom control in the context of chronic airway and postural strain. The PGP model is proposed with the hope of offering many such generalizations across subgroups, leaving room for patient subtyping and multiple initiating factors, while offering new explanations and in many cases, possible solutions for the diversity and unpredictability of ME/CFS and its comorbidities.
+As the example of autism shows, it is difficult for explanatory models to generalize ME/CFS across patient subgroups as though a single uniform experience. The PGP model is proposed with the hope of offering many such generalizations across subgroups, leaving room for patient subtyping and multiple initiating factors, while offering new explanations and in many cases, possible solutions for the diversity and unpredictability of ME/CFS and its comorbidities.
 
 ## Motivation and Historic Context
 
@@ -218,4 +535,80 @@ Treatments for MCAS include avoidance of histamine triggers, H1 and H2 histamine
 
 <a name="ref39"></a>[39]. <sup>[a](#cite39)</sup>.  Grayston, Rebecca, et al. "[A systematic review and meta-analysis of the prevalence of small fiber pathology in fibromyalgia: Implications for a new paradigm in fibromyalgia etiopathogenesis.](https://www.sciencedirect.com/science/article/pii/S0049017218303639)" Seminars in arthritis and rheumatism. Vol. 48. No. 5. WB Saunders, 2019.
 
+<a name="ref40"></a>[40]. <sup>[a](#cite40)</sup>.  Piersiala, Krzysztof, et al. "[Chronic pain syndromes and their laryngeal manifestations.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7193518/)" JAMA Otolaryngology–Head & Neck Surgery 146.6 (2020): 543-549.
+
+<a name="ref41"></a>[41]. <sup>[a](#cite41)</sup>.  Bastian, Robert W. "[The Gasping Syndrome - An Abrupt Sense of Gasping for Air.](https://laryngopedia.com/the-gasping-syndrome/)" Laryngopedia, 22 Sept. 2020,
+
 Version 1.2
+
+
+
+
+
+
+
+
+
+
+  Another research team suspects DOMS to result not from muscle tissue after all but from sensory nerves in muscle spindles, via compartment syndrome of the spindles crushing the nerves.
+
+  Turn subgroup section into a small blurb and refer back to Alternative Proposals / Aggravators:
+          TOS? Plausible but can't find evidence - may not have been studied outside the context of EDS, where the link is strong.
+            sike, from january: https://pubmed.ncbi.nlm.nih.gov/39844172/
+                        41% of ME/CFS patients can trigger lightheadedness etc with TOS diagnostic maneuvers.
+          Positional airway blockages
+          Chronic vocal injury / MTD is deeply connected to neck pain and plausibly CCI
+            deeply connected to ME/CFS https://pmc.ncbi.nlm.nih.gov/articles/PMC7193518/
+
+  In addition to the insurance industry's moves to escape the costs of a mass disabling event nobody knew how to treat yet, there is a trillion dollar supplement industry that depends on everyone remaining sick.
+
+  Current Day Parallels
+        include mention of criminal COVID masking hospital policy reversals, citing DoubleDay
+
+        OSHA mandate scandal
+
+        EAT / chronic epipharyngitis as driver of long covid:
+              https://medicalxpress.com/news/2025-05-epipharynx-disrupt-residual-triggers-covid.html
+              https://www.nature.com/articles/s41598-025-92908-7
+
+  treatment notes
+      MCAS symptoms - anything permeability related - skin pain/itch, IBS
+      MTD speed therapy
+      myofunctional exercises
+      pharyngeal exercises
+      phantom limb protocol - mostly cognitive if after the fact, but do numb any procedures well enough
+      consensus 2 -
+          more responsible for patient well being; designed by same authors of consensus 1 (plus a broader group this time) to improve access to care for patients who do not meet strict biomarker criteria or undergo invasive tests; only 15% of people with MCAS have elevated tryptase, typically the ones with anaphlaxis or rare mast cell cancer, meaning checking only tryptase leaves 85% of patients untreated. The cost of underdiagnosis is unacceptable because possibly 17% of the world has MCAS by some epidemeological estimates. The diagnosis would be more than a label for them; it is actionable. most patients, regardless of how many years it went undiagnosed, can find a treatment that dramatically improves their condition.
+
+  Random could mention:
+        posture is an extremely difficult mechanical control problem; the muscles/ligaments of posture don't need to get damaged, only confused for instability to result.
+                "The key to understanding the concept of false (functional) CCJ instability may be the cervical proprioception system (CPS). This system plays a crucial role in controlling head and body positioning by supplementing the visual, vestibular, and cerebellar inputs. (...) These receptors provide feedback about the position and movement of the cervical spine, and their distribution is consistent across cervical segments. Additionally, muscle spindles, which are abundant in the suboccipital muscles and deep cervical muscles, play a crucial role in proprioception by detecting changes in muscle length and tension."
+                "The management of functional instability typically focuses on conservative treatments, such as physical therapy, biofeedback, and proprioceptive retraining, to restore functional balance and reduce symptoms."
+                https://pmc.ncbi.nlm.nih.gov/articles/PMC11476954/
+
+        largyngospasm generates a classic panic response
+
+        so does choking
+
+        Low perfusion, or ischemia?
+
+        clavicular breathing vs diapragm-only breath support during vocalization
+
+        re: sensory feedback loss: ME/CFS is famously linked to abnormal sensory processing.
+
+        it's the fucking vagus that innervates the larynx, no wonder dysautonomia and MTD would be linked
+
+        turbinate loss and phantom limb all involve amputations that would cause cortical remapping (reorganizing of the S1 somatosensory cortex), leading to perception of sensations from the absent body part.  for tinnitus, it occurs in the nearby primary auditory cortex (A1).  Saliency network and distress-related brain areas then get affected.
+
+  Can you spot each major or minor technical error about science in this writing?
+  I got interrupted several times while editing this and moving sentences around. Can you find the places where thoughts didn't get stitched together very gracefully?
+
+
+  Ethics approval and consent to participate - Not applicable
+  Consent for publication - Not applicable
+  Availability of data and materials - Not applicable
+  Competing interests - Not applicable
+  Funding - Not applicable
+  Authors' contributions - Single author
+  Acknowledgements
+  Authors' information: GR is an ME/CFS sufferer diagnosed with MTD and cervical spine degeneration. Once a Computer Science lecturer at UCLA, disability, the pandemic, and unemployment have left GR in a precarious housing situation. If the information in this article was of benefit, donations are accepted via Paypal at garett.cs.ucla.edu.
