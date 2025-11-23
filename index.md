@@ -7,19 +7,19 @@ Garett Ridge, 2025
 Background: Myalgic Encephalomyelitis (ME/CFS) leaves millions severely disabled, yet progress remains stymied by institutional mischaracterizations and fragmented approaches to etiology. This patient perspective can help reframe discourse and unify overlooked connections.
 Methods: This conceptual framework combines individually accepted findings across the biomedical literature on mitochondrial biology, neuromuscular physiology, and biomechanics to propose a unifying hypothesis. Central is the recognition that muscle tension dysphonia (MTD), a dysfunction of vocal cords typically dismissed as a minor comorbidity, may in fact represent the missing link across ME/CFS complications. MTD's pivotal pathophysiology is supported by the striking overlap between laryngeal and craniocervical muscle recruitment, along with diverse circumstantial evidence.
 Results: The model's implications include that ME/CFS originates from post‑viral disruption of mitochondrial quality control including the PINK1‑Parkin pathway. This bistable control/dysfunction mechanism uniquely explains why development of systemic post‑exertional malaise (PEM) coincides precisely with emergence of local neuromuscular dysfunction in tissues with high mitochondrial dependence. Sensory feedback nerves in laryngeal and respiratory muscle spindles are especially vulnerable, leading to maladaptive voice and airway‑protection reflexes like MTD, autonomic strain, and musculoskeletal compensation. From this vantage, hallmark symptoms and prevalent comorbidities including dysautonomia, craniocervical instability, thoracic complications, and chronic pain disorders emerge as logical sequelae of maladaptation. The resulting “pained gasping posture” propagates vascular and neurological impairment and physiological dysregulation. This framework challenges the field’s narrow focus on musculoskeletal rather than neural mitochondria, and on oxidative stress rather than disrupted quality‑control pathways. It critiques clinical algorithms that silo comorbidities from systemic disease or minimize social‑physiological interactions.
-Conclusions: By rethinking ME/CFS as a biomechanical and neurophysiological cascade with an overlooked neuromuscular mechanistic bridge, this hypothesis provides testable predictions and actionable implications, including consideration of MTD in diagnosis, targeted sensory‑motor rehabilitation, reevaluation of craniocervical interventions, and systemic investigations to address key research gaps.
+Conclusions: By rethinking ME/CFS as a biomechanical and neurophysiological cascade with an overlooked neuromuscular mechanistic bridge, this unifying hypothesis provides testable predictions and actionable implications, including consideration of MTD in diagnosis, targeted sensory‑motor rehabilitation, reevaluation of craniocervical interventions, and systemic investigations to address key research gaps.
 
 ## Introduction
 
 Myalgic Encephalomyelitis (ME or ME/CFS) leaves millions of sufferers housebound or bedbound, making it one of the most disabling chronic illnesses ever known.  Often triggered by infection, it disrupts multiple physiological systems, with numerous viral epidemic-linked outbreaks documented throughout the twentieth century<sup><a name="cite1a"></a>(#ref1), <a name="cite2a"></a>(#ref2), <a name="cite3a"></a>(#ref3)</sup>.  Despite decades of research and political battles over mobilizing resources, underlying mechanisms remain elusive, and as the US Institute of Medicine concluded in 2015, “There is an urgent need for research to elucidate the underlying mechanisms of ME/CFS”<sup><a name="cite4a"></a>(#ref4)</sup>. This paper advances one such new hypothesis and model.
 
-Patients are categorized under ME/CFS if they develop extended fatigue periods long after overexertion, along with chronically unrestorative sleep. This categorization is medically quantifiable, standing out in both aggregate population trends and in microscopic biomarker differences, but individual tests to confirm ME/CFS are generally unavailable in clinical settings, leaving millions of patients without validation that their impairment has a real basis. Around 10% [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC8959090/ ] of people develop ME/CFS within 12 months after infection with Epstein-Barr virus (or "mono"), an extremely common experience. Most adults are permanent hosts of EBV, which notably includes virtually all people with lupus or multiple sclerosis [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/] [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/ ] suggesting EBV is the reason for those diseases.
+Patients are categorized under ME/CFS if they develop extended fatigue periods long after overexertion, along with chronically unrestorative sleep. This categorization is medically quantifiable, standing out in both aggregate population trends and in microscopic biomarker differences, but individual tests to confirm ME/CFS are generally unavailable in clinical settings, leaving millions of patients without validation that their impairment has a real basis. Around 10% [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC8959090/ ] of people develop ME/CFS within 12 months after infection with Epstein-Barr virus (or "mono"), an extremely common experience. Most adults are permanent hosts of EBV, which notably includes 100% of people with lupus or multiple sclerosis [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/] [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/ ] indicating that EBV is the reason for those diseases.
 
 ME/CFS is frequently accompanied by overlapping conditions that complicate diagnosis and management but also suggest shared pathophysiology. This raises the question: could a re-framing of the underlying mechanism help better explain the diverse symptoms and comorbidities? Prominently cited examples overlapping ME/CFS include craniocervical instability (CCI), in which excessive skull–spine junction movement produces neurological disability, mast cell activation syndrome (MCAS), whose inappropriate mast cell responses trigger inflammatory and allergic states, and autonomic disorders (dysautonomia) such as postural orthostatic tachycardia syndrome (POTS) that disrupt vital regulation<sup><a name="cite5a"></a>(#ref5)</sup>. Other conditions highly co-occurring with ME/CFS include Epstein-Barr virus persistence, Long COVID, the autism neurotype[cite https://pmc.ncbi.nlm.nih.gov/articles/PMC10965591/], connective tissue disorders such as Ehlers-Danlos syndrome (EDS)<sup><a name="cite6"></a>(#ref6)</sup>, and widespread pain syndromes such as fibromyalgia and irritable bowel syndrome. Most discussion about comorbidities includes all these but a glaring omission is present; this list is not complete without including vocal cord disorders (VCD).
 
 Declaration 1: The associated chronic illnesses of ME/CFS have been misunderstood for decades because mechanisms of causation were missed, largely because of vocal disorders being ignored in the big picture, when in fact evidence suggests that they are central to it.
 
-Voice and speech complaints are common in ME/CFS patient anecdotes, especially during the characteristic Post-Exertional Malaise (PEM) crashes [cite https://www.mdpi.com/2077-0383/14/14/4847 ].  One study administered vocal therapies to 25 patients with ME/CFS and related conditions [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC8906430/pdf/cjrt-2021-074.pdf ] and found symptom improvement. Although the researchers assumed voice therapy was merely improving patients' respiration, or perhaps treating laryngeal damage from coughing, deeper implications are possible.
+Voice and speech complaints are common in ME/CFS patient anecdotes, especially during the characteristic Post-Exertional Malaise (PEM) crashes [cite https://www.mdpi.com/2077-0383/14/14/4847 ].  One study administered vocal therapies to 25 patients with ME/CFS and related conditions [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC8906430/pdf/cjrt-2021-074.pdf ] and found symptom improvement. Although the researchers assumed voice therapy was merely improving patients' respiration or perhaps treating laryngeal damage from coughing, deeper implications are possible.
 
 Vocal cord dysfunction is often perceived as affecting only speech, with the assumption of no consequences to general health. In reality, the vocal folds serve multiple roles in protection and clearance of the airway. Vocal functions such as noise production are ingrained in mammals at a primal level by the body's muscle dynamics, and the vocal folds share not just muscle relationships but innervation with structures that are most crucial for survival -- the airway, swallowing muscles, and cervical spine. Even a mere confusion of signals in these locations would be enough to severely affect health. The body will endure injurious compensations as a tradeoff for more efficient flow in the airway, or even from the misguided perception of inefficiency.
 
@@ -27,7 +27,7 @@ Vocal cord dysfunction is often perceived as affecting only speech, with the ass
 
 The larynx is a muscular passageway to the lungs that surrounds the voicebox. Consider a patient with impaired sensory feedback from laryngeal muscles. Normally its receptors sample the inhaled air's temperature and velocity, complementing the baroreceptors and CO2 chemoreceptors in the blood vessels. Although the larynx is richly innervated, these receptors map to the visceral cortex rather than the sensory cortex, and are not consciously perceptibe to touch. Thus the patient would not feel their absence as noticeable numbness, or anything at the location that would make them recognize their larynx as a problem. Functional impairments would nonetheless arise, including diminished perception of airflow or muscle stretch, inability to register a full breath, and absent temperature cues. This generates vague discomfort reminiscent of ME/CFS symptomatology.
 
-Because the brain treats airway turnover as survival-critical, disruptions induce autonomic panic (fight or flight) and dysautonomia, while the missing signals may be substituted (in the same manner as in phantom limb pain) with noxious sensations. The reflex system may also chronically misfire, producing involuntary spasms.
+Because the brain treats airway turnover as survival-critical, disruptions induce autonomic panic (fight or flight) and dysautonomia, while the missing signals may be substituted with noxious sensations (in the same manner as in phantom limb pain experienced by amputees). The reflex system may also chronically misfire, producing involuntary spasms.
 
 A common maladaptive reflex of the vocal airway is Muscle Tension Dysphonia (MTD), in which the larynx constricts the voicebox whenever the individual attempts to speak. The causes of MTD are considered to be multifactorial, with impaired sensory feedback frequently suggested as a mechanism [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf]. Subjectively, MTD produces feelings of hoarseness, pain, and vocal fatigue -- symptoms reported by many ME/CFS patients. Further downstream effects could be demystified by the signal disruption to airway muscle control that comes with MTD, contributing to the cascade of symptoms that define ME/CFS.
 
@@ -103,13 +103,13 @@ The disease ME/CFS according to the novel PGP model, visualized as a cascade-lik
 
 Declaration 3: Starting from a basic viral initiator, in ME/CFS one disease process can cascade into the next to form a vicious cycle, with MTD serving as the mechanistic bridge linking mitochondrial dysfunction to downstream comorbidities.
 
-Declaration 4: Certain ME/CFS comorbidities are integral to ME/CFS, but other comorbidities may be merely secondary "aggravators" of those.
+Declaration 4: Certain ME/CFS comorbidities are integral to ME/CFS, but other comorbidities previously assumed to be primary drivers of disease may be merely secondary "aggravators" of the true drivers.
 
 ### Redefining ME/CFS
 
 This article introduces the Pained Gasping Posture (PGP) model, a novel and direct explanation for the constellation of symptoms observed in ME/CFS. The term “pained gasping” captures patients’ distress, vividly evoking the sensation of being frozen in an unnatural state; names are important when communicating the situation's gravity to clinicians and the public alike. Similar terms like “gasping syndrome” have been used by voice clinicians to describe a similar distress (called "air hunger" in ME/CFS), in the context of an inability to register a full breath due to loss of sensory feedback<sup><a name="cite41"></a>[41](#ref41)</sup>. PGP provides a broader name for a wider chronic illness phenomenon. The PGP model frames Muscle Tension Dysphonia (MTD) as linking underlying post-viral mitochondrial disruptions to the wide downstream symptom cascade, including dysautonomia and postural instability and pain.
 
-Clinically, laryngospasm is an involuntary tightening of the vocal cords that closes off the airway and triggers a classic fight or flight response similar to choking, producing panic, hypervigilance, and autonomic strain [cite "Comparative study between propofol and midazolam in treatment of postextubation laryngospasm."]. The PGP model hypothesizes that the same capability exists in "milder" functional vocal spasms that fall short of full blockage. Spasms that affect the size of airway opening would involve the laryngeal muscles responsible for speech and airway protection (as in MTD), or the pharyngeal constrictors and dilators responsible for swallowing and airway patency. Abnormal activation and impaired sensory feedback, either within these muscles directly or from nerves in other (larger) muscles of breathing, are proposed as the central drivers in a cascading failure across multiple organ systems seen in ME/CFS. The failure starts with the larynx and leads to subtle compensatory postural changes and persistent musculoskeletal strain. Strain can then promote ischemia or reduced perfusion, eventually creating a self-reinforcing vicious cycle as the neck compensates for worsening issues.
+Clinically, laryngospasm is an involuntary tightening of the vocal cords that closes off the airway and triggers a classic fight or flight response similar to choking, producing panic, hypervigilance, and autonomic strain [cite "Comparative study between propofol and midazolam in treatment of postextubation laryngospasm."]. The PGP model hypothesizes that the same capability exists in functional vocal spasms that fall short of full blockage. Spasms that affect the size of airway opening would involve the laryngeal muscles responsible for speech and airway protection (as in MTD), or the pharyngeal constrictors and dilators responsible for swallowing and airway patency. Abnormal activation and impaired sensory feedback, either within these muscles directly or from nerves in other (larger) muscles of breathing, are proposed as the central drivers in a cascading failure across multiple organ systems seen in ME/CFS. The failure starts with the larynx and leads to subtle compensatory postural changes and persistent musculoskeletal strain. Strain can then promote ischemia or reduced perfusion, eventually creating a self-reinforcing vicious cycle as the neck compensates for worsening issues.
 
 Although individuals may visibly adopt a “pained gasping” posture, because there is little ability to perceive pain or fatigue localized to the involuntary throat muscles, they would be unlikely to report symptoms that would implicate the overloaded larynx itself. Excessive strain accumulates silently and unwittingly until reaching the limit of fatigue, whereupon discomfort only arises because of the secondary recruitment of more detectable neck and postural muscles. Even when externally invisible or subtle, imbalances and persistent strain to compensate for perceived airway inefficiency may result in progressive injury. Hidden dynamics explain why patients and clinicians never discovered the laryngeal origin of chronic symptoms and misattributed downstream effects.
 
@@ -117,7 +117,7 @@ Declaration 5: ME/CFS patients are, in effect, frozen in pain and maladaptive mu
 
 The PGP hypothesis proposes that being trapped in an uncomfortable posture is an overlooked major feature of illness. Pain is more central to ME/CFS than realized, because it involves a survival (choking) reflex being triggered continuously, while also explaining the brain fog and concentration difficulties frequently reported. Patients may not themselves realize (since pain has become their baseline) that they are locked in a subtle but disabling posture of pained gasping, and experiencing chronic soreness of imperceptible laryngeal muscles, creating elusive pains deep within the neck that then radiate or trigger damaging reflexes.
 
-Though it may sound simplistic, a hypothetical Pained Gasping Posture could help demystify well-established links to ME/CFS related chronic illnesses such as Cranio‑Cervical Instability (CCI) and Mast Cell Activation Syndrome (MCAS) and some frequently correlated traits. To the author’s knowledge, this is the first comprehensive attempt to explicitly and accessibly connect the entire ME/CFS symptom cascade within a single theoretical model integrating neuromuscular pathology, vocal dysfunction, and systemic physiological consequences.
+The simple Pained Gasping Posture concept could help demystify well-established links to ME/CFS related chronic illnesses such as Cranio‑Cervical Instability (CCI) and Mast Cell Activation Syndrome (MCAS) and some frequently correlated traits. To the author’s knowledge, this is the first comprehensive attempt to explicitly and accessibly connect the entire ME/CFS symptom cascade within a single theoretical model integrating neuromuscular pathology, vocal dysfunction, and systemic physiological consequences.
 
 This hypothesis invites critical scrutiny and collaborative research to further validate, refine, and translate its predictions into improved clinical care and patient outcomes. While some components overlap with prior literature or reflect misconceptions inherent to patient perspective limitations, this framework uniquely demystifies disparate features of ME/CFS, which naturally fit in both upstream and downstream of MTD. Among those features, the following sections will present evidence from literature supporting this explanatory model and its framing of CCI, dysautonomia, mitochondrial failure, and neural dysfunction.
 
@@ -157,7 +157,7 @@ The PGP model posits that the underlying sensory feedback abnormality driving MT
 
 Impaired sensorimotor signals in any breathing muscle, laryngeal or diaphragmmatic or otherwise, could plausibly trigger maladaptive reflexes. All potential sensory triggers must be investigated of the vocal tension issues connected to ME/CFS. The neck muscle dysfunction seen in ME/CFS and MTD promotes clavicular breathing as opposed to the more efficient diapragm-only breath support during vocalization. Pivoting rib movements are important breathing dynamics, but it is unknown whether there is overlap between costochondritis (spine-rib interface swelling) and MTD. Thoracic Outlet Syndrome (TOS) was recently found to overlap ME/CFS populations; 41% of ME/CFS patients can trigger lightheadedness with TOS diagnostic maneuvers [cite https://pubmed.ncbi.nlm.nih.gov/39844172/], supporting the connectedness of these muscle dynamics.
 
-Declaration 10: Costochondritis is claimed in manual therapy contexts to be a hypermobility issue secondary to reduced range of motion of the rear rib cage, and may be related to spinal issues [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC5455195/i ].  If so, costochondritis could be linked to MTD and ME/CFS via the overactivation of vertebral and breathing muscles, and ensuing deconditioning of costovertebral elasticity. Thoracic Outlet Syndrome may have a similar relationship to chronic muscle overactivation.
+Declaration 10: Costochondritis is claimed in manual therapy contexts to be a frontal hypermobility issue that is really not of frontal origin, but secondary to reduced range of motion of the rear rib cage, and thus may be related to spinal issues [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC5455195/i ]. If so, costochondritis could be linked to MTD and ME/CFS via the overactivation of vertebral and breathing muscles, and ensuing deconditioning of costovertebral elasticity. Thoracic Outlet Syndrome may have a similar relationship to chronic muscle overactivation.
 
 Other possible mechanisms exist for airway spasm to cause neck degeneration common in ME/CFS. The dilator and constrictor muscles located in the walls of the pharynx are an antagonist pair that serve to maintain airway patency. This structure can become overworked or inflamed in conditions related to ME/CFS, such as from the pharynx's abundance of mast cells. In anaphylaxis, swelling is sufficient to threaten airway patency with potentially large compensatory muscle forces; this raises the question of whether other involuntary pharyngeal muscle compensations could escalate against a chronically inflamed airway until sufficient to cause neck loading. The rearward anatomical positioning of pharyngeal constrictors suggests recruitment of posterior neck muscles—cervical extensors, suboccipitals, and upper trapezius—commonly tender in CCJ dysfunction. Dilators, positioned anteriorly, may induce compensation via anterior neck and upper chest muscles like sternocleidomastoid, scalenes, and pectoralis minor. This muscle recruitment can shift breathing patterns away from diaphragmatic to more accessory, chest-dominant breathing, potentially explaining an injurious "pained gasping posture". Compensatory postures such as neck retraction and forward head posture (“tech neck”) are frequent in individuals with airway compromise, including obstructive sleep apnea, and are regarded clinically as signs of increased accessory muscle use [cite 12].
 
@@ -167,19 +167,19 @@ However, beyond these parallels, the pharynx appears less likely than the larynx
 
 ### Dysautonomia Implications
 
-Breathing reflexes are tightly integrated with autonomic balance, including in dysautonomia. One of the most mystifying sensations reported by ME/CFS patients is “air hunger,” an experience voice clinicians have described as a maladaptive autonomic state produced by loss of laryngeal sensory feedback<sup><a name="cite41"></a>(#ref41)</sup>. This sensorimotor mechanism they presume for dysautonomia is the same one responsible for Muscle Tension Dysphonia under the PGP hypothesis and some other models [cite again  https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf ].
+Breathing reflexes are tightly interwoven with autonomic balance and dysautonomia. One of the most mystifying sensations reported by ME/CFS patients is “air hunger,” an experience one voice clinician has described as a maladaptive autonomic state produced by loss of laryngeal sensory feedback; they propose this happens specifically during an occasional maintenance routine involving a large breath, whereupon the body fails to detect that the lungs are fully expanding <sup><a name="cite41"></a>(#ref41)</sup>. This missing sensorimotor feedback mechanism they presume for dysautonomia is the same one responsible for Muscle Tension Dysphonia under the PGP hypothesis and some other models [cite again  https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf ].
 
-This overlap is not coincidental: the larynx is innervated by the vagus nerve, the very nerve carrying most of the parasympathetic "rest and digest" fibers -- in a way, nearly half of the autonomic control system. When laryngeal signals misfire, shared processing resources with autonomic reflex arcs might be destabilized with broad repercussions.
+This overlap between the laryngeal muscles and dysautonomia is not coincidental: the larynx is innervated by the vagus nerve, the very nerve carrying most of the parasympathetic "rest and digest" fibers -- in a way, nearly half of the autonomic control system. When laryngeal signals misfire, shared processing resources with autonomic reflex arcs might be destabilized with broad repercussions.
 
-Recent findings support this perspective. A 2022 study found that the most common orthostatic abnormality in ME/CFS is not POTS but hypocapnia (low CO₂)<sup><a name="cite10"></a>(#ref10)</sup>, implicating abnormal breathing reflexes at the heart of the autonomic issues. Gas-exchange studies confirm significant inefficiency: ME/CFS patients breathe with abnormal rhythm and reach anaerobic thresholds at much lower exertion. In ME/CFS these co-occur with oxygenation and metabolic issues, such as unexpected findings in the renin–angiotensin–aldosterone system (the "RAAS paradox" [cite https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.0000160356.97313.5D]), which normally coordinates blood pressure and blood volume regulation via the kidneys and the brain's HPA axis. Abnormal sensorimotor regulation of breathing exacerbates energy depletion and contributes to blood pressure instability.
+Recent findings support this perspective. A 2022 study found that the most common orthostatic abnormality in ME/CFS is not POTS but hypocapnia (low CO₂)<sup><a name="cite10"></a>(#ref10)</sup>, implicating abnormal breathing reflexes at the heart of the autonomic issues. Gas-exchange studies confirm ME/CFS patients breathe inefficiently, with abnormal rhythm, and reach anaerobic thresholds at much lower exertion. Furthermore, these co-occur with oxygenation and metabolic issues, such as unexpected findings (known as the "RAAS paradox" [cite https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.0000160356.97313.5D]) in the renin–angiotensin–aldosterone system, which normally coordinates blood pressure and blood volume regulation via the kidneys and the brain's HPA axis. Abnormal sensorimotor regulation of breathing exacerbates energy depletion, and it contributes to blood pressure instability.
 
 Declaration 11: Dysautonomia in ME/CFS is driven by breathing reflex impairment. Muscle Tension Dysphonia triggers maladaptive laryngeal reflexes that overload autonomic pathways via the vagus nerve, destabilizing cardiovascular regulation and culminating in orthostatic intolerance.
 
-This framework resolves long-standing puzzles. Loss of laryngeal sensory feedback inteferes with parasympathetic autonomic signaling, while simultaneously provoking constant sympathetic alarm responses since critical airway signals are missing. The result is a body trapped between contradictory commands. Full-time triggering of laryngeal reflexes explains the co-occurrance of dysautonomia, MTD, and ME/CFS.
+This framework resolves long-standing puzzles. Loss of laryngeal sensory feedback inteferes with parasympathetic autonomic signaling, and/or it provokes constant sympathetic alarm responses since critical airway signals are missing. In the worst case, a body is trapped between contradictory commands. Full-time triggering of laryngeal reflexes explains the co-occurrance of dysautonomia, MTD, and ME/CFS.
 
-The digestive system mirrors this same mechanism. Since the vagus nerve continues directly from the larynx to the esophagus and intestines, faulty “rest and digest” signaling provides a common conduit for ME/CFS gastrointestinal disorders, especially Irritable Bowel Syndrome (IBS)<sup><a name="cite15"></a>(#ref15)</sup>. IBS is one plausible effect of a misfiring parasympathetic ‘rest and digest’ signal, compounded by maladaptive alarm states and by common ME/CFS comorbidities such as viral inflammation or MCAS, which disrupt the gut barrier alongside other protective barriers (skin, blood–brain, bladder, cardiovascular).
+The digestive system is similarly vulnerable via the vagus nerve, which continues directly from the larynx to the esophagus and intestines. Faulty “rest and digest” signaling provides a common conduit for ME/CFS gastrointestinal disorders, especially Irritable Bowel Syndrome (IBS)<sup><a name="cite15"></a>(#ref15)</sup>. IBS is one plausible effect of a misfiring parasympathetic ‘rest and digest’ signal, compounded by maladaptive alarm states. IBS is further encouraged by common ME/CFS comorbidities such as viral inflammation or MCAS, which disrupt the gut barrier alongside other protective barriers (skin, blood–brain, bladder, and cardiovascular).
 
-Declaration 12: Irritable Bowel Syndrome in ME/CFS is best explained as a downstream consequence of maladaptive vagal signaling originating in the larynx, sharing its mechanism with Muscle Tension Dysphonia. This explains findings correlating IBS with functional dysphonia [cite].
+Declaration 12: Irritable Bowel Syndrome in ME/CFS is best explained as a downstream consequence of maladaptive vagal signaling originating in the larynx, sharing its mechanism with Muscle Tension Dysphonia. This explains recent findings correlating IBS with functional dysphonia<sup><a name="cite40"></a>(#ref40)</sup>.
 
 Emerging therapeutic observations strengthen the vocal and breathing link to dysautonomia; vocal retraining and paced-breathing interventions in other conditions (asthma, COPD) have been shown to improve heart rate variability (HRV) [cite], an established marker of autonomic balance. Whether similar techniques targeting laryngeal control could ameliorate dysautonomia in ME/CFS patients remains an open, testable question.
 
@@ -230,6 +230,32 @@ If quality control failure indeed best describes the mitochondrial defect in ME/
 
 ### Neural implications
 
+Neurons
+    Canary in Coalmine
+    Phantom Limb parallel
+    Tinnitus, turbinate loss, cortical remapping
+    Declaration: Implications for ENS too
+        ENS - phantom limb connection in lit
+    re: sensory feedback loss: ME/CFS is famously linked to abnormal sensory processing.
+    Senses wake up too in the morning, including noxious hantom pain, all at once
+    Unrefreshing sleep, though normal quality sleep, as documented
+    Declaration: nerve pathology rather than structural
+    sensory feedback and perception of the airway; nerve pathology moreso than structural pathology
+    Fibro implications
+    Airway pathology negatively correlated
+    DOMs might be spindle nerves too
+        another study hypothesizes reduced nerve elasticity in ME/CFS
+        https://www.healthrising.org/blog/2014/07/06/strained-neuromuscular-problems-causing-chronic-fatigue-syndrome-me-cfs/
+    Declaration: PEM crashes might be nerve cell crashes, in patients under threshold of affecting muscles
+    Two types of fatigue/crashes identified previously - central and peripheral: [cite https://www.clinbiomech.com/article/S0268-0033(23)00186-9/fulltext#bb0105 ]
+    PEM vs PENE
+    Declaration: Ocular/postural/MTD Pseudo-PEM crashes are more treatable
+    Fine motor control can tire separately from muscles; may compete signal with itself
+    Posture failure in ME/CFS: https://www.healthrising.org/blog/2014/07/06/strained-neuromuscular-problems-causing-chronic-fatigue-syndrome-me-cfs/
+    Less mitochondrial damage may mean muscles don't get involved, but still Pseudo-PEM
+    Declaration? overfocus on muscles
+    Executive function fatigues early too
+
 While muscle tissue has received the bulk of research attention, it is not the only or even primary victim. Every cell type requires intact mitochondria, and many contain greater mitochondrial density than muscle. Among the highly active are sensory neurons, including proprioceptive stretch‑sensing neurons in muscle spindles for posture and breathing, as well as the specialized airway/laryngeal sensory neurons critical to the PGP hypothesis, all particularly energy‑hungry due to their continuous signaling. Their unique vulnerability gives muscle spindle sensors the potential to fail first before other local tissues (acting as "a canary in a coalmine") during an otherwise systemic crash, which could explain local effects like MTD and drive the broader ME/CFS cascade.
 
         Unlike many proliferating cells, neurons generally do not turn over. Rather than being eliminated outright by viral invasion, they more often persist in a metabolically compromised state, as defective mitochondria accumulate and propagate within them. Such chronically weakened but surviving sensory neurons can continue to misfire long after the initial viral insult, providing a plausible substrate for the persistent reflex disruptions seen in ME/CFS.
@@ -279,7 +305,7 @@ While muscle tissue has received the bulk of research attention, it is not the o
 
     However, the same study found that MTD does correlate hugely with ME/CFS, and that MTD as the driver of airway strain (rather than primary airway trouble) is the true link.
 
-### Fibromyalgia Implications
+#### Fibromyalgia Implications
 
 Fibromyalgia has long been controversial, regarded as either psychological or “central sensitization.” The PGP model suggests:
 
@@ -293,85 +319,151 @@ Clinically, this offers a physical substrate for fibromyalgia without requiring 
 
 Declaration 12: Fibromyalgia is best understood as the pain-phase manifestation of the PGP cascade, in which chronic laryngeal dysfunction offloads persistent strain to cervical and thoracic accessory muscles.
 
-Mitochondria & Muscle Spindles
-    PGP covers much of ME/CFS (CCI, dysautonomia, discomfort/fatigue), leaving primarily PEM to explain.
-    Since most ME/CFS patients exhibit both systemic PEM and local neck symptoms consistent with MTD, the underlying mechanism must independently cause both.
-    A bistable mitochondrial process is the best fit.
-    PINK1, mTORC1
-    PINK1 observed in patients
-    Declaration: Mitochondrial Quality Control
-    Declaration: ROS is not a bistable explanation
-    Viruses and mitochondria
-    Control energy to control tradeoff between mitochondria immunity vs. energy for virus production
-    Tagging system is thus a prime target
-    PEM and energy estimation vs supply
-    ultrastructural level is fine
-    Not all patients have the same mitochondrial issues
-    SEID and muscle pathology - Cell Death
-    Mitochondria fatigue every type of cell; muscles aren't special
-    Besides muscles, sensory nerves that detect stretch in muscle spindles are highly active.
-Neurons
-    Canary in Coalmine
-    Phantom Limb parallel
-    Tinnitus, turbinate loss, cortical remapping
-    Declaration: Implications for ENS too
-        ENS - phantom limb connection in lit
-    re: sensory feedback loss: ME/CFS is famously linked to abnormal sensory processing.
-    Senses wake up too in the morning, including noxious hantom pain, all at once
-    Unrefreshing sleep, though normal quality sleep, as documented
-    Declaration: nerve pathology rather than structural
-    sensory feedback and perception of the airway; nerve pathology moreso than structural pathology
-    Airway pathology negatively correlated
-    DOMs might be spindle nerves too
-        another study hypothesizes reduced nerve elasticity in ME/CFS
-        https://www.healthrising.org/blog/2014/07/06/strained-neuromuscular-problems-causing-chronic-fatigue-syndrome-me-cfs/
-    Declaration: PEM crashes might be nerve cell crashes, in patients under threshold of affecting muscles
-    Two types of fatigue/crashes identified previously - central and peripheral: [cite https://www.clinbiomech.com/article/S0268-0033(23)00186-9/fulltext#bb0105 ]
-    Declaration: Ocular/postural/MTD Pseudo-PEM crashes are more treatable
-    Fine motor control can tire separately from muscles; may compete signal with itself
-    Posture failure in ME/CFS: https://www.healthrising.org/blog/2014/07/06/strained-neuromuscular-problems-causing-chronic-fatigue-syndrome-me-cfs/
-    Less mitochondrial damage may mean muscles don't get involved, but still Pseudo-PEM
-    Declaration? overfocus on muscles
-    Executive function fatigues early too
-ME/CFS Variants
-    Declaration: Autism risk factor
+### The Autism Connection
+
+Autism Connection
+    Autism risk factor - linked to both ME/CFS and MCAS
+    Sensory disruptions in ME/CFS - overwhelmed CNS
+    ME/CFS recruit more brain regions, fatigue, lighting trigger
+    pain diverts attention away from regulation (posture, autonomic)
+    autism also diverts attention away from that
     Monotropism and Symptom Experience/Management
-Results
-    Testability
+            context inline box?
+    Possible reasons for Autism/MCAS/ME link:
+        Autistic patients for any reason have higher general diagnosis rates and seek them more, correcting for known MCAS/ME underdiagnosis
+        Perhaps NTs don't notice when ill/pained due to attentional differences
+        Autistic patients have worse regulation of parallel bodily tasks (posture, airway)
+        Aggravator of sensory perception
+    That brings up the other possibility: A causal link
+    Possible mechanisms: deregulation, lapses in executive dysfunction control, and pain
+    Executive function contributes to ME/CFS experience
+    MH concepts useful for relief despite their misuse
+    MH concepts for neurodivergence work
+    Blaming none of symptoms on executive function is cope
+    Executive function impairment may exist due to the distracting real pain's effect
+    Brain restructuring plausible from chronic gasping
+    Autism attempts to restore equilibrium
+    Pain can overactivate DMN; aut/ADHD do that too.
+    Can hardly escape DMN in autism
+    Despite adapting to ignore pain, diagnosis happens more due to times it's in focus
+    Someone needs to check if autism comes from background pain
+    Recasts autism as a disease of suffering
+    Disability and ND both come with increased pressures
+    COSO causes MTD, abuse and impossible social situations of disability cause ED.
+    Still not psychogenic as BPS model says, because it failed to find MTD
+
+An important extension of the PGP model concerns the higher prevalence of autism and monotropism among the population with ME/CFS and MCAS <sup><a name="cite14"></a>[14](#ref14)</sup>. Autism is an important risk factor, and its link to ME/CFS and MCAS must be explained.
+
+Sensory disruptions, for example, are not limited to the autistic subgroup but are common across ME/CFS, likely due to overwhelmed central signalling pathways. In addition to the brainstem disruptions of CCI, brain imaging studies in ME/CFS show that patients must recruit more brain regions than healthy controls, straining energy resources and leading to fatigue under cognitive or sensory load, such as bright lighting.  This resource depletion may divert neural signaling away from pain, posture, and autonomic regulation
+
+pain diverts attention away from regulation (posture, autonomic)
+autism also diverts attention away from that
+- the very systems the PGP model identifies as crucial for symptom control in the context of chronic airway and postural strain.
+
+context inline box?
+According to those who have autism, monotropism theory<sup><a name="cite13a"></a>[13](#ref13)</sup> describes the lived experience of autism better than other theories. Monotropism theory states that the difference in autistic perception and thinking comes from a having a narrow window of attention that observes and considers fewer things at once. It is akin to navigating life with a zoomed-in telescope, alongside neurotypicals who have their telescopes turned around backwards for a view that's broad but missing detail. That single executive functioning discrepancy is thought to predict all other traits of autism - sensory, social, and behavioral - resulting in a radically different human life.
+
+    Possible reasons for Autism/MCAS/ME link:
+        Autistic patients for any reason have higher general diagnosis rates and seek them more, correcting for known MCAS/ME underdiagnosis
+        Monotropism and Symptom Experience/Management
+        Perhaps NTs don't notice when ill/pained due to attentional differences
+        Autistic patients have worse regulation of parallel bodily tasks (posture, airway)
+        Aggravator of sensory perception
+
+        MCAS, for example, is well documented as more common in autistic individuals, such that overlap of their mechanisms has not been ruled out. One possibility is simply that MCAS and other chronic illness is severely underdiagnosed in those without autism/monotropism, because non-autistics aren't the ones tending to become focused upon individual symptoms. They may experience the symptom cascade but without the awareness to accumulate and communicate specific health complaints as a broader illness profile; either the neurotypical quality of life truly is unaffected by symptoms they don't notice, or else it declines without explanation in a quiet and tragic fashion. Undermining the possibility of a hidden but equal attack rate of PGP issues in non-autistic groups is the observation that autistic people often have more difficulty regulating physical needs outside their attention window and thus are the most likely population to neglect airway and posture maintenance whenever hyperfocused on anything besides breathing. In that respect, an overlap of chronic illness mechanisms and autism remains plausible.
+
+    That brings up the other possibility: A causal link
+    Possible mechanisms: deregulation, lapses in executive dysfunction control, and pain
+
+Although this is a sensitive topic, in the many ME/CFS cases where autism (including undiagnosed) is a comorbidity, the autism is inherently a contributor to the same CNS issues attributed to ME/CFS.  These include executive functioning impairments (which affect cognition, alertness, mood, energy level and activity level), and of course central sensitization -- all overlapping both conditions strongly.
+
+Great care must be taken around the mind/disease connection due to the topic's history of abuse via dismissal of patients stuck with a physical disease. But there is certainly useful meaning to be derived from autism as a predictor of chronic pain and fatigue -- especially when it comes to opportunity to mitigate any contribution toward symptoms resulting from executive functioning fatigue, a powerful concept in the domain of autism.  Mental health concepts would be of no benefit to patients at the worst times, for example in a severe crash while bedbound, but most patients spend a large amount of time outside that state and deserve to spend those moments in their best mental form and alertness, not bearing the additional weight of executive dysfunction.
+
+This is an important distinction because executive function impairment is much more treatable than the physical aspects of ME/CFS as we know them.  Resources abound within the disabled and autism communities for strategies to navigate executive dysfunction through retraining and understanding, with probably far higher success rates than the often dismal ones the medical approach to ME/CFS is able to provide [cite Carins &Hotopf., 2005 ?? Or better]. The solutions proposed can approach similarity to what is used in ME/CFS for avoiding crashes. This is about a form of mental health therapy specifically tailored to neurodivergence. What does not work are the oft-used one-size-fits-all practices of psychotherapy to promote positive thinking, designed for the neurotypical, which (due to a lack of proper autism training in therapists) are forced onto the neurodivergent as if they do not exist.  Those modalities are what have failed thoroughly in ME/CFS treatment.
+    The importance of understanding neurodivergence in treatment approaches
+      Citation needed.
+    Critical review of psychotherapy modalities in ME/CFS and autism contexts
+        Write and cite:  BPS / "Cogsci" methods for NT's vs navigation methods endorsed/created by the autism community
+
+A natural tendency to preserve dignity and a sense of control is to downplay personal limitations of the mind, and rather to attribute 100% of the weight toward the physical disease, the part that seems under no personal control.  In truth executive functioning issues are not something individuals can be reasonably expected to control either.  They are genuine disability and must be acknowledged as such, in order for patients to be fair to themselves and to temper expectations.  It's easy for neurodiverse patients to forget to allow themselves that leeway in the face of negative messaging, where in reality there is no neurotype that is not limited in some way.
+
+Explaining some of the ME/CFS experience away as executive functioning issues is not the usual dismissal of the whole disease as psychogenic; in fact, it is plausible for executive functioning to be a manifestation of physical disease. In theory, chronically painful conditions could be an actual upstream cause of executive functioning issues, by way of necessary adaptations of attentional pathways to work around the constant pain.  This question of causality from physical disease to autism is not commonly asked in that direction.  There is talk of the neuroinflammation of disease contributing to autism [cite https://www.healthrising.org/blog/2013/03/28/is-chronic-fatigue-syndrome-part-of-the-inflammatory-disorders-epidemic-autism-inflammation-autoimmunity-and-mecfs/], but not of the pain itself being causal.
+
+    Emerging research on inflammation and central sensitivity syndromes linked to neurodivergent traits
+        Is that the article?  Also may need an article about PENE + autism
+
+It is worth investigating whether at an early enough age if chronic pain and disease can predict development of monotropism as an adaptation, or if later in life whether new onset pain can resurface latent monotropism in a stronger form, but this is purely hypothetical.  What is more certain is that the connection between autism and ME/CFS needs to be utilized for treatment. Everyone can benefit from gaining a deeper working knowledge of autism issues and concepts, especially when improved executive functioning could lessen the impact of physical symptoms.
+[Any citations exist for executive functioning specifically and ME/CFS CNS issues??]
+
+    Brain restructuring plausible from chronic gasping
+    Autism attempts to restore equilibrium
+
+            A more radical framing for the link would be to hypothesize that painful early-onset illnesses directly contribute to causing the autism. Hypothetically, it seems like brains could restructure in the presence of chronic distracting stimuli like pain, whether or not from inflammatory symptom cascades like painful spasmodic gasping. Lifelong distraction and suffering could plausibly alter executive function to result in hyperfocus (the core trait of autism per monotropism theory) as a way to block out constant pain and restore equilibrium. As Fergus Murray notes, “much of autistic behavior can be seen as attempts to restore some kind of equilibrium"<sup><a name="cite38"></a>[38](#ref38)</sup>.
+
+    Pain can overactivate DMN; aut/ADHD do that too.
+    Can hardly escape DMN in autism
+    Despite adapting to ignore pain, diagnosis happens more due to times it's in focus
+    Recasts autism as a disease of suffering
+
+            Distracting pain might drive overactivation of the brain’s Default Mode Network, the center for idle thought, which in autism and ADHD is known to be more connected and harder to deactivate. In autism, being pulled out of focused attention tunnels is described as being literally painful<sup><a name="cite13b"></a>[13](#ref13)</sup>, supporting the idea of monotropism as an adaptive coping mechanism for living with painful illness. This conjecture recasts autism as a disease of suffering, or the brain's way of continuing life with excess discomfort by always keeping it just out of view. Paradoxically, the same hyperfocal trait that ignores the pain could make individuals more aware of and able to report physical symptoms when one happens to be in focus.
+
+    Someone needs to check if autism comes from background pain
+
+            While this causal link is highly speculative, it is falsifiable and testable: researchers who study autism could search for sub-populations with no inflammation or MCAS (even subclinical); or, gather evidence verifying that MCAS onset doesn't occur early enough in development (for comparison, ME/CFS is not innate and typically develops later in life); or, investigate whether neuroinflammatory processes or chronic pain can alter executive function networks in animal models or humans. While a causal link may be sensational, it has yet to be checked. It highlights that further investigation is warranted into the neuroimmune interface underlying chronic illness and neurodevelopmental traits.
+    Disability and ND both come with increased pressures
+    COSO causes MTD, abuse and impossible social situations of disability cause ED.
+        - Executive dysfunction can be due to navigating impossible social situations; MTD previously speculated to be caused by (probably at least impacted by) COSO, Conflict Over Speaking Out, which essentially amounts to navigating relationship abuse and impossible social situations.
+        - Disability creates its own social pressures that may further increase disability via the COSO to MTD pathway.
+    Still not psychogenic as BPS model says, because it failed to find MTD
+        This does not mean that the disability is psychogenic, or redeem the BPS model of ME/CFS which failed to actually find MTD as the mechanism of disease.  Its proponents get an F for effort.
+        Re-Cite MTD connection, bridging both autism/ME as another shared comorbbidity besides the executive
+
+
+### Validation and Clinical Interventions
+
+Testability
         Predictions
         Much to correct in the record
-    Treatments and Implications
+PGP is a highly testable hypothesis. EMG and nerve conduction studies could be performed on the airway muscles of CCI patients - an approach not yet explored - to systematically assess correlations with airway inflammation and posture. Data could be gathered linking airway inflammation biomarkers or endoscopic findings with posture and muscle dysfunction. Studies could also determine whether treating MCAS, which often improves other chronic illness symptoms, specifically alleviates postural issues, CCI-related imaging findings, or pharyngeal muscle tension. Additionally, confirmation is needed as to whether CCI patients with more inflamed airways have more obstructive, rather than just central, sleep apnea. These links appear to remain unexplored in current research in any systematic way.
+
+    *Retrospective Chart Reviews:* Identify patients with chronic MTD and assess for subsequent CCI, especially in those with predisposing factors.  Publish cases where individuals with chronic MTD and no major trauma or genetic disorder develop CCI.
+
+    *Prospective Cohort Studies:* Monitor individuals with severe, chronic MTD over time using imaging and clinical assessment for developing instability. Use dynamic imaging or motion capture to assess changes in cervical stability over time. Changes may occur gradually and remain subclinical for years, making them difficult to detect without longitudinal monitoring.
+
+    *Finite Element Analysis:* Simulate the effect of chronic abnormal muscle forces and altered posture on craniocervical ligaments, and the motion dynamics of tight multistable systems versus lax systems.
+
+Most people with chronic illness do not exhibit overt, dramatic postures; instead, they adopt subtle, compensatory micro-postures as the body adapts to chronic discomfort-slight forward head tilt, jaw tension, shallow chest breathing, or habitual muscle bracing. These are easily missed in brief clinical encounters. What begins as obvious struggle may, over months or years, become a “new normal” that appears only slightly abnormal to outside observers. Many patients unconsciously socially mask or suppress visible signs of distress, especially if they have a history of being dismissed. Clinical settings lack standardized scales for subtle postural and breathing compensation outside of severe cases like end-stage agonal breathing. Specialists work in silos related to individual organs/systems, often missing the holistic “big picture” of chronic compensatory patterns. Systematic study of subtle PGP could reveal important correlations if clinicians and researchers consistently observed and recorded head, neck, and jaw posture, breathing patterns (chest vs. diaphragm, rate, pauses), muscle tension and recruitment, and patient-reported effort and discomfort.
+
+Also could check for earliest MCAS onset ever
+Also could check for autism absent necessary signs of MCAS / vice versa
+Also:
+        While this causal link is highly speculative, it is falsifiable and testable: researchers who study autism could search for sub-populations with no inflammation or MCAS (even subclinical); or, gather evidence verifying that MCAS onset doesn't occur early enough in development (for comparison, ME/CFS is not innate and typically develops later in life); or, investigate whether neuroinflammatory processes or chronic pain can alter executive function networks in animal models or humans. While a causal link may be sensational, it has yet to be checked. It highlights that further investigation is warranted into the neuroimmune interface underlying chronic illness and neurodevelopmental traits.
+
+
+
+Treatment:
+
+Treatments and Implications
         Declaration: Unnecesary surgeries
         Unnecesary resigning to EDS as cause of lengthening; No treatment
         Declaration: No CFS/CCI specialists are referring anyone to SLP
+                None of the specialists who encounter ME/CFS every day, if they even know what to do with it at all, are known to ever refer patients to speech and language pathology.  Likewise, no specialists who encounter CCJ dysfunction ever refer patients to speech therapy, probably in all of history. This is incidentally why both sets of patients never get helpful diagnosis or treatment.
         Phantom Limb protocol
         Retraining / PT
         Speech Therapy
         Headway can be made without spending/healthcare/supplements
         MCAS is another bottleneck
-            Lost opportunity: Many patients are one easy MCAS treatment away from relief
+            Dire MCAS clinician statistics - tryptase obsession
+            Lost opportunity: Some patients are one easy MCAS treatment away from relief
             Mast cell symptoms are common in ME/CFS, esp heart and pharynx and ligaments
         Targeted Exercises
-Discussion
-    Review
-    Limitations: Mixed etiologies, Non-viral CFS causes; trauma, positional blockages?
-    Disability / social risk factor, COSO
-        Original COSO: https://www.sciencedirect.com/science/article/abs/pii/0022399988900736?via%3Dihub
-    More painful disorder than realized; patients need understanding
-    BPS not excused
-Societal Context and Motivation
-    Scandal History Summary
-    Current Event Parallels
-    Existing BPS citation - reuse about BPS
-    Patients over Bad faith science
-Conclusions
 
-
-
-Treatment:
     The brain depends on these and other signals being present full time, and responds in a characteristic way when signals go missing.  One example is phantom limb pain (PLP) syndrome, where amputees continue to feel sensations from the missing limb as if it is tightly curled and in pain; the expected but missing signal is replaced with a noxious noisy signal throughout the amputee's life unless they are carefully retrained.
 
     Tinnitus is accepted to be a form of PLP, whereby after hearing loss a noxious sound replaces missing sound signals full time.  In the case of the airway, when the expected airflow signals in the upper airway are absent, as in turbinate amputation, the brain responds with Empty Nose Syndrome.  The literature on turbinate surgery has acknowledged this connection between phantom limb and ENS, but clinicians themselves are largely completely unaware that they are the same phenomena, and take no steps during turbinate surgery to mitigate the risk of phantom limb pain.  These steps are well known in other contexts, including proper numbing of pain at the time of signal loss / amputation and preservation of nerve tissue to keep as much of the feedback signal as possible, but they are not used in the ENT setting, resulting in the cripplingly distracting and high-suicide condition ENS.  This needs to be corrected; ENT surgeons need to be made aware that they are causing phantom limb syndrome.
+
+    The brain depends on these and other signals being present full time, and responds in a characteristic way when signals go missing.  One example is phantom limb pain syndrome, where amputees continue to feel sensations from the missing limb as if it is tightly curled and in pain; the expected but missing signal is replaced with a noxious noisy signal throughout the amputee's life unless they are carefully retrained.  Tinnitus is accepted to be a form of the same phenomena, whereby after hearing loss a noxious sound replaces missing sound signals full time.  In the case of the airway, when the expected airflow signals in the upper airway are absent, as in turbinate amputation, the brain responds with Empty Nose Syndrome.  The literature on turbinate surgery has acknowledged this connection between phantom limb and ENS, but clinicians themselves are largely completely unaware that they are the same phenomena, and take no steps during turbinate surgery to mitigate the risk of phantom limb pain.  These steps are well known in other contexts, including proper numbing of pain at the time of signal loss / amputation and preservation of nerve tissue to keep as much of the feedback signal as possible, but they are not used in the ENT setting, resulting in the cripplingly distracting and high-suicide condition ENS.  This needs to be corrected; ENT surgeons need to be made aware that they are causing phantom limb syndrome. Separately, in the case of ME/CFS the breathing signal loss is not due to surgical intervention, but the phantom limb analogy is still strong, and further appreciation of it in research could have led to the connection to MTD much earlier.
+
 
     Separately, in the case of ME/CFS the breathing signal loss is not due to surgical intervention, but the phantom limb analogy is still strong, and further appreciation of it in research could have led to the connection to MTD much earlier.
 
@@ -389,47 +481,44 @@ Treatment:
 
     Sleep paradoxically feels unrestful or injurious to many ME/CFS patients - in fact a hallmark symptom in diagnosis. If the PGP model is correct, even sleep may not fully unload the neck due to continued airway needs. Patients who awake in discomfort may therefore need interventions right away. Like for PEM, those could include standard muscle recovery approaches - such as stretching, heat or ice therapy applied to the airway region. The prospect needs to be tested. The model clarifies why some patients find symptom relief by subconsciously applying gentle, targeted forces to the neck - adjustments which are naturally customized in the moment to help unload fatigued muscles.
 
-    Additional interventions for relief are explored in the next section, specialized for helping the commonly related autistic patient group, who often experience ME/CFS and experience it differently.
-
     Declaration:  ME/CFS is a more biomechanical disease than people realize, meaning that it is more to do with forces on muscles.
 
+    #### A Monotropism-Informed Treatment Protocol
 
-### Validation and Clinical Interventions
+    For autistic patients, the PGP framework offers additional clinical insights and interventions. Because monotropic attention can make it difficult to notice or respond to bodily needs, regular breaks from hyperfocus can help, and the PGP model clarifies which particular needs to attend to (breathing and throat posture) for maximum relief among what can be a bewildering array of symptoms. Remembering to address airway strain is easily forgotten when talking and eating, problematic activities which compete for the same muscles. When a muscle complex completely leaves the attention window it may never be granted proper rest when overused. Full-body activities like yoga or showers could plausibly help redirect focus all around the body to provide muscle breaks. Thought exercises might help to free up the attention to locate everything that hurts, and identify every movement that doesn't hurt.  These interventions of rest might be necessary even right after sleep, which may not fully unload airway muscle compensations as discussed earlier.
 
-PGP is a highly testable hypothesis. EMG and nerve conduction studies could be performed on the airway muscles of CCI patients - an approach not yet explored - to systematically assess correlations with airway inflammation and posture. Data could be gathered linking airway inflammation biomarkers or endoscopic findings with posture and muscle dysfunction. Studies could also determine whether treating MCAS, which often improves other chronic illness symptoms, specifically alleviates postural issues, CCI-related imaging findings, or pharyngeal muscle tension. Additionally, confirmation is needed as to whether CCI patients with more inflamed airways have more obstructive, rather than just central, sleep apnea. These links appear to remain unexplored in current research in any systematic way.
 
-    *Retrospective Chart Reviews:* Identify patients with chronic MTD and assess for subsequent CCI, especially in those with predisposing factors.  Publish cases where individuals with chronic MTD and no major trauma or genetic disorder develop CCI.
+### Discussion
 
-    *Prospective Cohort Studies:* Monitor individuals with severe, chronic MTD over time using imaging and clinical assessment for developing instability. Use dynamic imaging or motion capture to assess changes in cervical stability over time. Changes may occur gradually and remain subclinical for years, making them difficult to detect without longitudinal monitoring.
+Discussion
+    Review
+    Limitations: Mixed etiologies, Non-viral CFS causes; trauma, positional blockages?
+    ME/CFS Variants
+    Disability / social risk factor, COSO
+        Original COSO: https://www.sciencedirect.com/science/article/abs/pii/0022399988900736?via%3Dihub
+    More painful disorder than realized; patients need understanding
+    BPS not excused
+        Although genuine scientific oversights can be corrected, ME/CFS research is not and has not been approachable by uncritically assuming good faith in the discussion, given its century of history of informational warfare as governments worked to prevent allocating resources appropriate for the size of the problem.  The conversation belongs to patients and researchers now, not to policymaking bodies.
 
-    *Finite Element Analysis:* Simulate the effect of chronic abnormal muscle forces and altered posture on craniocervical ligaments, and the motion dynamics of tight multistable systems versus lax systems.
-
-Most people with chronic illness do not exhibit overt, dramatic postures; instead, they adopt subtle, compensatory micro-postures as the body adapts to chronic discomfort-slight forward head tilt, jaw tension, shallow chest breathing, or habitual muscle bracing. These are easily missed in brief clinical encounters. What begins as obvious struggle may, over months or years, become a “new normal” that appears only slightly abnormal to outside observers. Many patients unconsciously socially mask or suppress visible signs of distress, especially if they have a history of being dismissed. Clinical settings lack standardized scales for subtle postural and breathing compensation outside of severe cases like end-stage agonal breathing. Specialists work in silos related to individual organs/systems, often missing the holistic “big picture” of chronic compensatory patterns. Systematic study of subtle PGP could reveal important correlations if clinicians and researchers consistently observed and recorded head, neck, and jaw posture, breathing patterns (chest vs. diaphragm, rate, pauses), muscle tension and recruitment, and patient-reported effort and discomfort.
-
+        If empirical testing confirms this model, it would take decades of work to correct the record on each of the implications here.
 
 #### Aggravating Factors and PGP Subtypes
 
-Multiple explanations of ME/CFS may exist; for example, one can imagine a case without viral inflammation where the pharyngeal damage instead comes from snoring of purely anatomical origin, which can itself be injurious, creating a feedback loop that starts PGP and ultimately makes the snoring worse. This aligns with research showing ME/CFS is highly heterogeneous, with diverse comorbidities and triggers; while infection is common, physical trauma, surgery, or stress have also been reported as triggers<sup><a name="cite15"></a>[15](#ref15)</sup>. Fortunately, many subgroups' symptoms and interventions overlap even when underlying mechanisms differ. Sensory disruptions, for example, are not limited to the autistic subgroup but are common across ME/CFS, likely due to overwhelmed central signalling pathways. In addition to the brainstem disruptions of CCI, brain imaging studies in ME/CFS show that patients must recruit more brain regions than healthy controls, straining energy resources and leading to fatigue under cognitive or sensory load, such as bright lighting.  This resource depletion may divert neural signaling away from pain, posture, and autonomic regulation - the very systems the PGP model identifies as crucial for symptom control in the context of chronic airway and postural strain.
-
-### The Autism Connection
-
-According to those who have autism, monotropism theory<sup><a name="cite13a"></a>[13](#ref13)</sup> describes the lived experience of autism better than other theories. Monotropism theory states that the difference in autistic perception and thinking comes from a having a narrow window of attention that observes fewer things at once. It is akin to navigating life with a zoomed-in telescope, alongside neurotypicals who have their telescopes turned around backwards for a view that's broad but missing detail. That single executive functioning discrepancy is thought to predict all other traits of autism - sensory, social, and behavioral - resulting in a radically different human life.
-
-While the rest of this section's ideas are more speculative, an important extension of the PGP model concerns the higher prevalence of autism and monotropism among the population with ME/CFS and MCAS - a link which must be accounted for<sup><a name="cite14"></a>[14](#ref14)</sup>. MCAS, for example, is well documented as more common in autistic individuals, such that overlap of their mechanisms has not been ruled out. One possibility is simply that MCAS and other chronic illness is severely underdiagnosed in those without autism/monotropism, because non-autistics aren't the ones tending to become focused upon individual symptoms. They may experience the symptom cascade but without the awareness to accumulate and communicate specific health complaints as a broader illness profile; either the neurotypical quality of life truly is unaffected by symptoms they don't notice, or else it declines without explanation in a quiet and tragic fashion. Undermining the possibility of a hidden but equal attack rate of PGP issues in non-autistic groups is the observation that autistic people often have more difficulty regulating physical needs outside their attention window and thus are the most likely population to neglect airway and posture maintenance whenever hyperfocused on anything besides breathing. In that respect, an overlap of chronic illness mechanisms and autism remains plausible.
-
-A more radical framing for the link would be to hypothesize that painful early-onset illnesses directly contribute to causing the autism. Hypothetically, it seems like brains could restructure in the presence of chronic distracting stimuli like pain, whether or not from inflammatory symptom cascades like painful spasmodic gasping. Lifelong distraction and suffering could plausibly alter executive function to result in hyperfocus (the core trait of autism per monotropism theory) as a way to block out constant pain and restore equilibrium. As Fergus Murray notes, “much of autistic behavior can be seen as attempts to restore some kind of equilibrium"<sup><a name="cite38"></a>[38](#ref38)</sup>.
-
-Distracting pain might drive overactivation of the brain’s Default Mode Network, the center for idle thought, which in autism and ADHD is known to be more connected and harder to deactivate. In autism, being pulled out of focused attention tunnels is described as being literally painful<sup><a name="cite13b"></a>[13](#ref13)</sup>, supporting the idea of monotropism as an adaptive coping mechanism for living with painful illness. This conjecture recasts autism as a disease of suffering, or the brain's way of continuing life with excess discomfort by always keeping it just out of view. Paradoxically, the same hyperfocal trait that ignores the pain could make individuals more aware of and able to report physical symptoms when one happens to be in focus. While this causal link is highly speculative, it is falsifiable and testable: researchers who study autism could search for sub-populations with no inflammation or MCAS (even subclinical); or, gather evidence verifying that MCAS onset doesn't occur early enough in development (for comparison, ME/CFS is not innate and typically develops later in life); or, investigate whether neuroinflammatory processes or chronic pain can alter executive function networks in animal models or humans. While a causal link may be sensational, it has yet to be checked. It highlights that further investigation is warranted into the neuroimmune interface underlying chronic illness and neurodevelopmental traits.
-
-#### A Monotropism-Informed Treatment Protocol
-
-For autistic patients, the PGP framework offers additional clinical insights and interventions. Because monotropic attention can make it difficult to notice or respond to bodily needs, regular breaks from hyperfocus can help, and the PGP model clarifies which particular needs to attend to (breathing and throat posture) for maximum relief among what can be a bewildering array of symptoms. Remembering to address airway strain is easily forgotten when talking and eating, problematic activities which compete for the same muscles. When a muscle complex completely leaves the attention window it may never be granted proper rest when overused. Full-body activities like yoga or showers could plausibly help redirect focus all around the body to provide muscle breaks. Thought exercises might help to free up the attention to locate everything that hurts, and identify every movement that doesn't hurt.  These interventions of rest might be necessary even right after sleep, which may not fully unload airway muscle compensations as discussed earlier.
+Multiple explanations of ME/CFS may exist; for example, one can imagine a case without viral inflammation where the pharyngeal damage instead comes from snoring of purely anatomical origin, which can itself be injurious, creating a feedback loop that starts PGP and ultimately makes the snoring worse. This aligns with research showing ME/CFS is highly heterogeneous, with diverse comorbidities and triggers; while infection is common, physical trauma, surgery, or stress have also been reported as triggers<sup><a name="cite15"></a>[15](#ref15)</sup>. Fortunately, many subgroups' symptoms and interventions overlap even when underlying mechanisms differ.
 
 ### Similarity and Diversity in PGP Patient Subgroups
 
 As the example of autism shows, it is difficult for explanatory models to generalize ME/CFS across patient subgroups as though a single uniform experience. The PGP model is proposed with the hope of offering many such generalizations across subgroups, leaving room for patient subtyping and multiple initiating factors, while offering new explanations and in many cases, possible solutions for the diversity and unpredictability of ME/CFS and its comorbidities.
 
+
 ## Motivation and Historic Context
+
+Societal Context and Motivation
+    Scandal History Summary
+    Current Event Parallels
+    Existing BPS citation - reuse about BPS
+    Patients over Bad faith science
+    Conclusions
 
 It is important to understand the little-known historical context of ME/CFS in order to appreciate the significance of a new mechanistic framework, or indeed to appreciate any information about ME/CFS, a neglected disease that demands a more accurate and serious framing.
 
@@ -450,6 +539,35 @@ For decades, patients experienced systemic underdiagnosis, denial of social and 
 It took additional decades for ME/CFS patients to regain recognition as pandemic victims in need of medical assistance. Landmark policy changes in 2015 (US) and 2021 (UK) reversed most of their earlier stances on the disease<sup><a name="cite4c"></a>[4](#ref4), <a name="cite28b"></a>[28](#ref28)</sup>, made possible by lifetimes of advocacy and mounting biomedical evidence. Even today, patients suffer from underdiagnosis, outdated policies in many regions<sup><a name="cite29c"></a>[29](#ref29)</sup>, accusations of malingering, and confusion about the disease’s true nature and its multi-systemic impact. In part because standard blood tests and imaging are often normal, ME/CFS is still dismissed by some as a functional or psychosomatic disorder. It was only recently widely accepted that exertion in ME/CFS can cause measurable muscle cell death and mitochondrial damage, on par with what’s seen in some muscle diseases<sup><a name="cite34"></a>[34](#ref34)</sup>. Such findings provide a biological basis for the profound post-exertional malaise and muscle pain that define ME/CFS, ruling out that the illness is simply deconditioning. Continued advances like these will help close the gap between molecular pathology and understanding the full spectrum of patient symptoms.
 
 A better understanding of both lived experiences of patients and the mechanisms of the disease is required to resolve longstanding confusion, inform effective treatments, and prevent repetition of past tragedies. A more intuitive model of the disease process is urgently needed.
+
+
+
+
+
+
+Background and Motivation
+
+Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) has been recognized for over a century as a disabling, post-infectious multisystem illness characterized by hallmark features such as post-exertional malaise (PEM), neurological impairments, and immune dysfunction [1–4]. Early in its history, ME was classified by the World Health Organization as a neurological disease, reflecting considerable consensus on its biological basis. Initial research documented outbreaks consistent with infectious or post-viral syndromes, further supporting its medical legitimacy [1–3].
+
+However, consistent clinical definitions and research priorities for ME/CFS have faced systemic challenges. In the 1990s and early 2000s, multiple stakeholders—including disability insurance corporations and public health policymakers—exerted influence on the reframing of ME/CFS, citing concerns in public memos over disability claims and healthcare costs [17–19]. This influence was manifest in efforts such as conferences addressing illness deception and malingering, and in the promotion of diagnostic criteria (e.g., Oxford and Fukuda definitions) that excluded core features like PEM and omitted objective clinical markers [20–22].
+
+Consequently, these policy-driven shifts contributed to a prevailing clinical narrative that increasingly framed ME/CFS as a psychosomatic or functional disorder. This reframing coincided with reductions in research funding and growing patient mistrust toward the medical research establishment, despite accumulating molecular and physiological evidence affirming ME/CFS as a genuine pathophysiological condition [23–25]. Controversies surrounding prominent clinical trials and guideline developments have further polarized the research and patient communities, complicating progress toward effective diagnostics and treatments.
+
+Institutional actions added to these challenges. For example, in the early 2000s, oversight of NIH’s CFS research program shifted from the National Institute of Allergy and Infectious Diseases to the Office of the Director and later to the Office of Research on Women’s Health. Around this time, the CDC adopted the term “Chronic Fatigue Syndrome” (CFS), marking a shift in the illness’s official characterization [—]. Additionally, a government investigation revealed that a substantial portion of CDC funds allocated for ME/CFS research was redirected to unrelated projects during the 1990s . Internal documents obtained via Freedom of Information Act requests have also revealed disparaging references to ME/CFS patients within the CDC during this period, reflecting institutional stigma .
+
+The role of the disability insurance sector was significant during this era. Public reports have identified the involvement of leading companies such as UNUM in influencing policy and diagnostic criteria related to ME/CFS, often with the effect of limiting recognized disability burden and reducing financial liability . Concurrently, some researchers associated with psychosomatic models of ME/CFS held advisory roles in media organizations, including the Science Media Centre, which was influential in shaping news coverage about the illness . These factors contributed to a media and scientific environment often marked by polarized discourse.
+
+Notably, a 1970 re-examination by UK psychiatrists of the original Royal Free Hospital outbreak attributed the illness primarily to epidemic hysteria, invoking the predominance of female patients as evidence . This interpretation has since been widely challenged in the face of advancing biomedical research.
+
+The controversial PACE trial, which investigated behavioral interventions for ME/CFS, received extensive criticism for methodological issues, data transparency problems, and conflicts of interest. Subsequent re-analyses identified significant discrepancies in reported outcomes, casting doubt on the validity of its conclusions . These events highlight ongoing challenges in rigor and trustworthiness in ME/CFS clinical research.
+
+Moreover, therapies such as graded exercise therapy (GET), promoted under biopsychosocial (BPS) illness models, have been reported to exacerbate symptoms in some patients . Increasing biomedical evidence contests the sufficiency of purely psychosocial explanations and underscores the imperative for physiology-based mechanistic research.
+
+Only recently has it become widely accepted that exertion in ME/CFS can cause measurable muscle cell death and mitochondrial damage comparable to certain muscle diseases . These findings provide a biological basis for PEM and muscle pain, effectively countering explanations based solely on deconditioning.
+
+The cumulative evidence and historical context underscore urgent needs: novel mechanistic frameworks grounded in biomedical data, renewed research funding, and meaningful inclusion of patient perspectives. Patient-led research and grassroots advocacy have become critical in addressing gaps left by decades of systemic neglect and politicization.
+
+
 
 ## Final Thoughts
 
