@@ -13,7 +13,10 @@ Conclusions: By rethinking ME/CFS as a biomechanical and neurophysiological casc
 
 Myalgic Encephalomyelitis (ME or ME/CFS) leaves millions of sufferers housebound or bedbound, making it one of the most disabling chronic illnesses ever known.  Often triggered by infection, it disrupts multiple physiological systems, with numerous viral epidemic-linked outbreaks documented throughout the twentieth century<sup><a name="cite1a"></a>(#ref1), <a name="cite2a"></a>(#ref2), <a name="cite3a"></a>(#ref3)</sup>.  Despite decades of research and political battles over mobilizing resources, underlying mechanisms remain elusive, and as the US Institute of Medicine concluded in 2015, “There is an urgent need for research to elucidate the underlying mechanisms of ME/CFS”<sup><a name="cite4a"></a>(#ref4)</sup>. This paper advances one such new hypothesis and model.
 
-Patients are categorized under ME/CFS if they develop extended fatigue periods long after overexertion, along with chronically unrestorative sleep. This categorization is medically quantifiable, standing out in both aggregate population trends and in microscopic biomarker differences, but individual tests to confirm ME/CFS are generally unavailable in clinical settings, leaving millions of patients without validation that their impairment has a real basis. Around 10% [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC8959090/ ] of people develop ME/CFS within 12 months after infection with Epstein-Barr virus (or "mono"), an extremely common experience. Most adults are permanent hosts of EBV, which notably includes 100% of people with lupus or multiple sclerosis [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/] [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/ ] indicating that EBV is the reason for those diseases.
+Patients are categorized under ME/CFS if they develop extended fatigue periods long after overexertion, along with chronically unrestorative sleep. This categorization is medically quantifiable, standing out in both aggregate population trends and in microscopic biomarker differences, but individual tests to confirm ME/CFS are generally unavailable in clinical settings, leaving millions of patients without validation that their impairment has a real basis. Around 10% [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC8959090/ ] of people develop ME/CFS within 12 months after infection with Epstein-Barr virus (or "mono"), an extremely common experience. Most adults are permanent hosts of EBV, which notably includes 100% of people with lupus or multiple sclerosis [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/] [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC508514/ ] demonstrating that EBV is the reason for those diseases.
+
+
+
 
 ME/CFS is frequently accompanied by overlapping conditions that complicate diagnosis and management but also suggest shared pathophysiology. This raises the question: could a re-framing of the underlying mechanism help better explain the diverse symptoms and comorbidities? Prominently cited examples overlapping ME/CFS include craniocervical instability (CCI), in which excessive skull–spine junction movement produces neurological disability, mast cell activation syndrome (MCAS), whose inappropriate mast cell responses trigger inflammatory and allergic states, and autonomic disorders (dysautonomia) such as postural orthostatic tachycardia syndrome (POTS) that disrupt vital regulation<sup><a name="cite5a"></a>(#ref5)</sup>. Other conditions highly co-occurring with ME/CFS include Epstein-Barr virus persistence, Long COVID, the autism neurotype[cite https://pmc.ncbi.nlm.nih.gov/articles/PMC10965591/], connective tissue disorders such as Ehlers-Danlos syndrome (EDS)<sup><a name="cite6"></a>(#ref6)</sup>, and widespread pain syndromes such as fibromyalgia and irritable bowel syndrome. Most discussion about comorbidities includes all these but a glaring omission is present; this list is not complete without including vocal cord disorders (VCD).
 
@@ -34,6 +37,9 @@ A common maladaptive reflex of the vocal airway is Muscle Tension Dysphonia (MTD
 Declaration 2: Muscle Tension Dysphonia (MTD) and ME/CFS are increasingly observed to be highly associated, precisely because MTD is central to the ME/CFS disease process.
 
 Voice disorders such as MTD, though often overlooked in clinical algorithms, are disproportionately present in ME/CFS, fibromyalgia, and related chronic illnesses, roughly twice as often as in controls <sup><a name="cite40"></a>(#ref40)</sup>, with another study again finding a doubling of odds in fibromyalgia patients [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf ], and a third study finding conversely that half of all MTD patients meet fibromyalgia criteria, compared to just 4% of controls [cite https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/abs/risk-of-fibromyalgia-in-patients-with-primary-muscle-tension-dysphonia-a-possible-local-manifestation-of-a-musculoskeletal-systemic-disorder/A68B0B04C6DFFE0BA2FF7F3F57704F65 ]. MTD is an objective finding diagnosed by directly visualizing the larynx under videostroboscopy; the fact that a clearly visible physical finding is strongly predictive of chronic pain syndromes strongly repudiates dismissive views commonly espoused even among doctors that these related chronic illnesss are merely hypochondria <sup><a name="cite17a"></a>[17](#ref17), <a name="cite29a"></a>[29](#ref29)</sup>. The high burden of overlap with MTD across such seemingly disparate chronic illnesses calls for a unified explanation of their shared pathophysiology.
+
+
+
 
 ## Methods (Proposed Model)
 
@@ -65,7 +71,7 @@ Consider the following alternative flow diagram, which lays out a theory of a mo
                                 ↓
                       [Fight or Flight Response]
                                 ↓
-         [Dysautonomia] [Functional Changes of Pharynx/Larynx]¹ (footnote)
+         [Dysautonomia, OI/POTS] [Functional Changes of Pharynx/Larynx]¹ (footnote)
                                 ↓
                    [Muscle Tension Dysphonia (MTD)]
                                 ↓
@@ -86,7 +92,7 @@ Consider the following alternative flow diagram, which lays out a theory of a mo
                                 ↓
 [Brainstem & Immune Dysfunction] [Vascular/Neural Tension & Perfusion Issues] [Structural Neck Changes]
                                 ↓
-[Reinfections] [Cognitive Issues] [Orthostatic Intolerance] [Airway Restriction] [Sleep Apnea, Snoring] [Dysphagia]
+[Reinfections] [Cognitive Issues] [Airway Restriction] [Sleep Apnea, Snoring] [Dysphagia]
                                 ↓
  [Microtrauma] [Increased Reflux, Further Neck Inflammation] [Unrefreshing Sleep]
                                 ↓
@@ -94,7 +100,7 @@ Consider the following alternative flow diagram, which lays out a theory of a mo
                                 ↑
                          (Vicious Cycle)
 
-¹ MTD can interact with aggravators: Pharyngitis (as from concomitant MCAS, or from Reflux), Nasal Blockage, Voicebox Lesions, Tongue Ties, Conflict Over Speaking Out (COSO), Autism
+¹ MTD can interact with aggravators: Pharyngitis (as from concomitant MCAS, or from Reflux), Nasal Blockage, Voicebox Lesions, Tongue Ties, Abuse and Conflict Over Speaking Out (COSO), Autism
 ² CCI can interact with aggravators: Ehlers-Danlos Syndrome (EDS), Neck Injuries, Congenital Anatomy
 
 * MCAS Causes High Tissue Permeability: Dermatitis, IBS, Esophagitis, Oral Sores, Overactive Bladder, Hypermobility, Vascular/BBB leakage.
@@ -155,6 +161,8 @@ Thus emerges a broader theory: the maladaptive control state of MTD, once establ
 
 The PGP model posits that the underlying sensory feedback abnormality driving MTD is a continuous, “always on” maladaptive state—a learned disruption in motor control that affects laryngeal muscle recruitment even outside active phonation. This persistent neuromuscular state plausibly accounts for the chronic overactivation of neck and craniocervical muscles known to cause pain and dysfunction in ME/CFS. Therefore, the PGP model positions MTD not as a side feature but as part of an essential bottleneck in the cascade, suggesting that treating it could interrupt downstream consequences like dysautonomia, cervical instability, and chronic pain.
 
+        People in the maladaptive MTD muscle state can come to prefer passive joint motions over active joint motions, because chronic tension + SNF sensitivity can create a sense of stuck joints that one always tries to stretch and pop to try to free oneself, at the expense of healthy mobility patterns. This concept predicts the observed neck pain + MTD comorbidity. 
+
 #### Upper Body
 
 Laryngeal motor dysfunction need not be caused by sensors in the larynx itself. Impaired sensorimotor signals in any breathing muscle, laryngeal or diaphragmmatic or otherwise, could plausibly trigger the maladaptive reflexes observed in MTD; there are thus many potential sensory trigger areas to investigate. Wherever the origin, the effects clearly focus on the neck but also extend out into the upper body. The muscle dysfunction seen in ME/CFS and MTD promotes clavicular breathing, which is less efficient during vocalization than breath support via the diaphrapgm. Pivoting rib movements are important breathing dynamics, so it is worth searching for overlap between spine-rib interface disorders and the breathing disorders of ME/CFS and MTD.
@@ -165,23 +173,25 @@ Declaration 11: Thoracic Outlet Syndrome (TOS) may be an effect of chronic muscl
 
 #### Oral/Nasal Cavities
 
-There are many oronasal irregularities in ME/CFS in general. ME/CFS is associated with oral biome differences (correlating with shifts in amino acid and energy metabolism), aphthous ulcers (understood to be often caused by EBV acute infection or re-activation), drymouth, gum disease, mucosal dysfunction (and alterations to mucosal genes), and sensitization [cite: https://decisionsindentistry.com/article/oral-health-challenges-myalgic-encephalomyelitis-chronic-fatigue-syndrome/ ]. Oral hygeine becomes more difficult to maintain with the condition. Burning Mouth Syndrome is a comorbid syndrome of continuous pain focal to oral structures, believed related to the cranial nerves like ME/CFS. Perceived nasal congestion in the absence of a blockage is also reported in ME/CFS, also believed related to small fiber neuropathy and impaired autonomic responses.
+There are many oro-nasal irregularities in ME/CFS; ME/CFS is associated with oral biome differences (correlating with shifts in amino acid and energy metabolism), aphthous ulcers (understood to be often caused by EBV acute infection or re-activation), drymouth, gum disease, mucosal dysfunction (and alterations to mucosal genes), and sensitization [cite: https://decisionsindentistry.com/article/oral-health-challenges-myalgic-encephalomyelitis-chronic-fatigue-syndrome/ ]. Oral hygeine becomes more difficult to maintain with the condition. Burning Mouth Syndrome is a comorbid syndrome of continuous pain focal to oral structures, believed related to the cranial nerves like ME/CFS. Perceived nasal congestion in the absence of a blockage is also reported in ME/CFS, also believed related to small fiber neuropathy and impaired autonomic responses.
 
 Specific oronasal comorbidities stand out when considering the Muscle Tension Dysphonia comorbidity, and a musculoskeletal driven model (PGP). Tongue resting/swallowing posture is subject to retraining via orofacial myofunctional therapy, finding downstream improvements to nasal airflow [cite https://pubmed.ncbi.nlm.nih.gov/40590470/ ]. It is an open research question whether the same therapy impacts ME/CFS populations. Presence of a tongue tie (a tight lingual frenulum, or ankyloglossia, particularly rearward) restricts tongue movement, causing downstream problems in head posture, airway function, jaw misalignment (TMD), and muscle tension. Downstream problems can resolve when they are released in noninvasive and low risk surgical procedures. Jaw pain level and duration in Temporomandibular Joint Disorders (TMD) is strongly associated with ME/CFS, moreso than with other pain conditions [cite: Dahan H, Shir Y, Velly A, Allison P. Specific and number of comorbidities are associated with increased levels of temporomandibular pain intensity and duration. J Headache Pain. 2015;16:47. ]
 
 #### Pharynx
 
-Other possible mechanisms exist for airway spasm to cause structural neck pathology common in ME/CFS. The dilator and constrictor muscles located in the walls of the pharynx are an antagonist pair that serve to maintain airway patency. This structure can become overworked or inflamed in conditions related to ME/CFS, such as from the pharynx's abundance of mast cells. In anaphylaxis, swelling is sufficient to threaten airway patency with potentially large compensatory muscle forces; this raises the question of whether other involuntary pharyngeal muscle compensations could escalate against a chronically inflamed airway until sufficient to cause neck loading. The rearward anatomical positioning of pharyngeal constrictors suggests recruitment of posterior neck muscles—cervical extensors, suboccipitals, and upper trapezius—the same ones commonly tender in CCJ dysfunction. Dilators, positioned anteriorly, may induce compensation via anterior neck and upper chest muscles like sternocleidomastoid, scalenes, and pectoralis minor. This muscle recruitment can shift breathing patterns away from diaphragmatic to more accessory, chest-dominant breathing, potentially explaining an injurious "pained gasping posture". Compensatory postures such as neck retraction and forward head posture (“tech neck”) are regarded clinically as signs of increased accessory muscle use [cite 12], and are frequent in individuals with airway compromise, including obstructive sleep apnea.
+Other possible mechanisms exist for airway spasm to cause structural neck pathology common in ME/CFS. The dilator and constrictor muscles located in the walls of the pharynx are an antagonist pair that serve to maintain airway patency. This structure can become overworked or inflamed in conditions related to ME/CFS, such as from the pharynx's abundance of mast cells. In anaphylaxis, swelling is sufficient to threaten airway patency with potentially large compensatory muscle forces; this raises the question of whether other involuntary pharyngeal muscle compensations could escalate against a chronically inflamed airway until sufficient to cause neck loading. The rearward anatomical positioning of pharyngeal constrictors suggests recruitment of posterior neck muscles—cervical extensors, suboccipitals, and upper trapezius—the same ones commonly tender in CCJ dysfunction. Dilators, positioned anteriorly, may induce compensation via anterior neck and upper chest muscles like sternocleidomastoid, scalenes, and pectoralis minor. This muscle recruitment can shift breathing patterns away from diaphragmatic to more accessory, chest-dominant breathing, potentially explaining an injurious posture. Compensatory postures such as neck retraction and forward head posture (“tech neck”) are regarded clinically as signs of increased accessory muscle use [cite 12], and are frequent in individuals with airway compromise, including obstructive sleep apnea.
 
-However, the pharynx ultimately appears less likely than the larynx to drive cervicalgia. There is much better scientific evidence for the involvement of the larynx in causing neck pain via its recruitment pattern, and in dysautonomia via the vagus nerve that supplies the larynx (the pharynx depends on additional nerves). The high rate of MTD in ME/CFS is further evidence in favor of laryngeal mechanisms. For this reason, the PGP model assumes that comorbidities involving the pharynx are mere aggravators for the main disease pathway of MTD.
-
-Whether causative of neck strain or not, the pharynx's vulnerability to neck strain is similar to the larynx. Innervation of the pharynx depends on the CCJ's integrity; the pharyngeal plexus innervates it, which has branches entering the posterior pharyngeal wall at the C3/C4 vertebral levels. In CCI, the compression of cranial nerves and the brainstem (as in Cervical-Medullary Syndrome) can manifest as a variety of ENT-related complaints, including swallowing difficulties, voice changes, and sometimes upper airway obstruction.
+However, the pharynx ultimately appears less likely than the larynx to drive cervicalgia. There is much better scientific evidence for the involvement of the larynx in causing neck pain via its recruitment pattern, and in dysautonomia via the vagus nerve that supplies the larynx (the pharynx depends on additional nerves). The high rate of MTD in ME/CFS is further evidence in favor of laryngeal mechanisms. For this reason, the PGP model assumes that comorbidities involving the pharynx are mere aggravators for the main disease pathway of MTD.  Whether causative of neck strain or not, the converse, the pharynx's vulnerability to neck strain is similar to the larynx. Innervation of the pharynx depends on the CCJ's integrity; the pharyngeal plexus innervates it, which has branches entering the posterior pharyngeal wall at the C3/C4 vertebral levels. In CCI, the compression of cranial nerves and the brainstem (as in Cervical-Medullary Syndrome) can manifest as a variety of ENT-related complaints, including swallowing difficulties, voice changes, and sometimes upper airway obstruction.
+(Note the hypothesized alternative neurovascular mechanism)
 
 ### Autonomic System Implications
 
-Autonomic health is dependent on the various breathing reflexes. One of the most mystifying sensations reported by ME/CFS and dysautonomia patients is “air hunger.” An explanation from a voice clinician is that air hunger is triggered during an occasional autonomic system maintenance check routine (a periodic large breath) that goes wrong, when the sensory system fails to detect that the lungs can fully expand <sup><a name="cite41"></a>(#ref41)</sup>. They suggest a maladaptive autonomic state can be produced by loss of laryngeal sensory feedback. The missing sensorimotor feedback mechanism is likewise considered as a possible explanation of Muscle Tension Dysphonia [cite again  https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf ]; this common speech muscle comorbidity and dysautonomic air hunger may be two expressions of one mechansim.
+Autonomic health is dependent on the various breathing reflexes. One of the most mystifying sensations reported by ME/CFS and dysautonomia patients is “air hunger.” An explanation from a voice clinician is that air hunger is triggered during an occasional autonomic system maintenance check routine (a periodic large breath) that goes wrong, when the sensory system fails to detect that the lungs can fully expand <sup><a name="cite41"></a>(#ref41)</sup>. They suggest a maladaptive autonomic state can be produced by loss of laryngeal sensory feedback.  Missing sensorimotor feedback is likewise a suggested mechanism of Muscle Tension Dysphonia [cite again  https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf ]. The common speech muscle comorbidity and dysautonomic air hunger may be two expressions of one mechansim.
 
-Laryngeal muscles and dysautonomia share so much in common because the larynx is innervated by the vagus, the exact nerve carrying most of the parasympathetic system's fibers (roughly half of autonomic control). When laryngeal signals misfire, any shared processing resources with autonomic reflex arcs might be destabilized with broad repercussions. In ME/CFS especially, breathing reflexes contribute to dysautonomia; a 2022 study found that the most common orthostatic abnormality in ME/CFS is not POTS but hypocapnia (low CO₂)<sup><a name="cite10"></a>(#ref10)</sup>. Gas-exchange studies confirm ME/CFS patients breathe inefficiently, with abnormal rhythm, and reach anaerobic thresholds at much lower exertion. Also present are oxygenation and metabolic issues, such as unexpected findings in the renin–angiotensin–aldosterone system (known as the "RAAS paradox" [cite https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.0000160356.97313.5D]). The RAAS normally coordinates blood pressure and blood volume regulation via the kidneys and the brain's HPA axis. These disturbances to oxygen delivery and metabolic fatigue may ultimately result from known mitochondrial impairments central to energy depletion in ME/CFS. Some metabolic features, however, such as blood pressure instability and oxygenation, may also be potential consequences of the abnormal sensorimotor regulation of breathing.
+
+            Air hunger is hypothesized to be from noxious or missing laryngeal sensations, that are supposed to reassure the body that a big breath has been taken (periodic lung stretch) but cannot be received.  Irritated laryngeal nerve, which branches from the vagus.
+
+Laryngeal muscles and dysautonomia share so much in common because the larynx is innervated by the vagus, the exact nerve carrying most of the parasympathetic system's fibers (roughly half of autonomic control). When laryngeal signals misfire, any shared processing resources with autonomic reflex arcs might be destabilized with broad repercussions. In ME/CFS especially, breathing reflexes and dysautonomia go hand in hand; a 2022 study found that the most common orthostatic abnormality in ME/CFS is not POTS but hypocapnia (low CO₂)<sup><a name="cite10"></a>(#ref10)</sup>. Gas-exchange studies confirm ME/CFS patients breathe inefficiently, with abnormal rhythm, and reach anaerobic thresholds at much lower exertion. Also present are oxygenation and metabolic issues, such as unexpected findings in the renin–angiotensin–aldosterone system (known as the "RAAS paradox" [cite https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.0000160356.97313.5D]). The RAAS normally coordinates blood pressure and blood volume regulation via the kidneys and the brain's HPA axis. These disturbances to oxygen delivery and metabolic fatigue may ultimately result from known mitochondrial impairments central to energy depletion in ME/CFS. Some metabolic features, however, such as blood pressure instability and oxygenation, may also be potential consequences of the abnormal sensorimotor regulation of breathing.
 
 Neural sensory changes must be characterized better to evaluate their potential consequences upon dysautonomia. Multiple types of disruption are possible: Loss of laryngeal sensory feedback could interfere with parasympathetic signalling; or, it could provoke constant sympathetic alarm states since critical airway signals are missing; or, it could oscillate the body between contradictory commands. Some of those, especially a full-time false choke reflex, could if demonstrated empirically plausibly explain the comorbidity between MTD, dysautonomia, and ME/CFS.
 
@@ -215,6 +225,8 @@ Mitochondria are the energy producers of the cell. Far from the simplified textb
 
 Viruses that enter a cell must navigate mitochondrial immunity as well as divert mitochondrial energy pathways for replication. Differing approaches to balance that production/detection tradeoff exist between viruses; Epstein‑Barr Virus, a known ME/CFS trigger, favors long‑term stealth by altering mitochondrial metabolism, while SARS‑CoV‑2 pushes cells into overdrive, prioritizing rapid replication over cell survival. In either case the objective is to hijack the mitochondria "farm" of the cell and spend the energy, and the outcome is a reprogramming of mitochondrial states that can persist long after virus clearance, via epigenetic changes or maladaptive immune responses. Chronic illness results.
 
+    I think a renewed focus on PINK1-Parkin is justified because things along that pathway stand to alter bodily mitochondria and nerves in a lasting, drastic way rather than incremental changes (such as ROS), which fits the ME/CFS profile more (all ME/CFS patients by definition have PEM, and comorbidities have high frequency too, like a binary switch to a diseased state).  Also one of my contacts found elevated PINK1 among ME/CFS samples.
+
 Within the cell there are numerous processes that maintain mitochondrial integrity, and many of them can fail in a bistable fashion—shifting from fully functional to abruptly dysfunctional. Such switch‑like mechanisms are of particular interest for ME/CFS, where widespread effects tightly co-emerge with localized symptoms. Among these processes, the PINK1–Parkin pathway is especially important. Cells possess mechanisms that cleave off damaged parts of mitochondria or fuse loose pieces together. PINK1–Parkin operates as the tagging system that decides the fate of individual mitochondria—much like marking animals in a herd for treatment/breeding/culling. These marks determine whether a mitochondrion will be repaired, fused, or destroyed through mitophagy, thereby preserving overall “herd” health. As a system of surveillance and triage, mitochondrial quality control (MQC) represents a prime target for viral interference. Because the process depends on informational tagging signals, it is inherently fragile: disruptions can propagate system‑wide, creating the abrupt “flip” from stability to dysfunction consistent with the ME/CFS phenotype. Other metabolic regulators such as mTORC1 operate further upstream and also encompass PINK1–Parkin, and these pathways have already been implicated in ME/CFS [cite https://pmc.ncbi.nlm.nih.gov/articles/PMC11892318/ ]. Remarkably, new preliminary data show elevated PINK1 serum concentrations in both ME/CFS and Long COVID subgroups [cite https://amaticahealth.com/blog/pink1-elevated-in-subgroup-of-mecfs-and-long-covid/ ].
 
 Among the leading hypotheses for ME/CFS etiology is mitochondrial dysfunction. However, most existing literature has emphasized measurable downstream markers—such as fluctuating reactive oxygen species (ROS) or redox imbalance—rather than the fidelity of MQC itself. These markers are easier to quantify but generally vary continuously from normal to abnormal, whereas ME/CFS often behaves like an all‑or‑nothing syndrome with concomitant onset of PEM and local neuromuscular disturbances. Further, ROS imbalance is nonspecific to ME/CFS; it occurs across a wide spectrum of unrelated diseases, whereas impaired MQC would predict a narrower and more characteristic set of effects.  Crucially, the absence of gross mitochondrial depletion or structural failure in many ME/CFS patients further points toward regulatory dysfunction rather than simple energetic collapse [cite https://plioplys.com/wp-content/uploads/2016/07/19_confusion.pdf ]. Unlike redox drift or fluctuating ROS levels, MQC breakdown offers a threshold‑like mechanism that better accounts for frequent co‑emergence of hallmark symptoms.
@@ -231,79 +243,129 @@ If quality control failure indeed best describes the mitochondrial defect in ME/
 
 While muscle tissue has received the bulk of research attention, it is not the only or even primary victim of ME/CFS. Every cell type requires intact mitochondria, and many contain greater mitochondrial density than muscle. Among the highly active are sensory neurons, including proprioceptive stretch‑sensing neurons in muscle spindles for posture and breathing, as well as the specialized airway/laryngeal sensory neurons critical to the PGP hypothesis, all particularly energy‑hungry due to their continuous signaling. Their unique vulnerability gives muscle spindle sensors the potential to fail first before other local tissues (acting as "a canary in a coalmine") during an otherwise systemic crash, which could explain local effects like MTD and drive the broader ME/CFS cascade.
 
-Neurons
+    Move to MTD:
+        Established Airway pathologies (like spasmic dysphonia, vocal cord cancer/cyst, thracheostomy, inflammatory/ulcerative laryngitis, etc) are negatively correlated contrary to voice in the main study on MTD in ME/CFS.
+                Many of those are acute; perhaps those being present interferes with diagnosis rates of conditions that lean more chronic.
+                        People who present with ME/CFS tend not to be the patients with some obvious airway obstruction, so airway and vocal cord issues that block breathing outright were found to be negatively correlated to ME/CFS.  Rather, the same patients who complained of ME/CFS tended to be identified with non blocking but functional voice disorders.  In the retroactive study,
+
+                Possible Explanations for the Negative Correlation
+
+                        Functional vs. Structural Disorders: CPS are associated with central sensitization and altered pain processing, leading to functional symptoms (like muscle tension dysphonia or somatic symptom amplification) rather than structural or neurological pathology of the larynx or vocal cords
+
+                        . This means that while CPS patients may report throat tightness, globus, or breathing discomfort, these symptoms are less likely to be caused by objective, diagnosable airway pathologies such as vocal cord paralysis or true PVCM.
+
+                        Central Sensitization and Somatic Focus: Patients with CPS often experience heightened awareness and amplification of bodily sensations due to changes in the central nervous system
+
+                        . This may increase the reporting of symptoms that mimic airway disorders, but without the underlying organic disease that would be diagnosed as a true airway disorder.
+
+                        Diagnostic Bias: Clinicians may be more likely to attribute airway-related symptoms in CPS patients to functional or psychogenic causes, and less likely to pursue or confirm a diagnosis of structural airway disease unless clear evidence exists.
+
+                    However, the same study found that MTD does correlate hugely with ME/CFS, and that MTD as the driver of airway strain (rather than primary airway trouble) is the true link.
+
+    Move to oronasal, which should be later anyway:
+                Phantom Limb parallel
+                Declaration: Implications for ENS too
+                    ENS - phantom limb connection in lit
+
+                    Tinnitus, turbinate loss, cortical remapping
+                    turbinate loss and phantom limb all involve amputations that would cause cortical remapping (reorganizing of the S1 somatosensory cortex), leading to perception of sensations from the absent body part.  for tinnitus, it occurs in the nearby primary auditory cortex (A1).  Saliency network and distress-related brain areas then get affected.
+
+
+Neurovascular Mechanism
     Canary in Coalmine
-    Phantom Limb parallel
-    Tinnitus, turbinate loss, cortical remapping
-    Declaration: Implications for ENS too
-        ENS - phantom limb connection in lit
-    re: sensory feedback loss: ME/CFS is famously linked to abnormal sensory processing.
-    Senses wake up too in the morning, including noxious hantom pain, all at once
-    Unrefreshing sleep, though normal quality sleep, as documented
-    Declaration: nerve pathology rather than structural
-    sensory feedback and perception of the airway; nerve pathology moreso than structural pathology
-    Fibro implications
-    Airway pathology negatively correlated
+
+    Unlike many proliferating cells, neurons generally do not turn over. Rather than being eliminated outright by viral invasion, they more often persist in a metabolically compromised state, as defective mitochondria accumulate and propagate within them. Viruses and immune insults often push nerves into functional compromise (altered firing thresholds) instead of cell death, creating chronic "weak links" persisting for decades.  Some viruses (especially herpesviruses like EBV, the suspected cause of ME/CFS, as well as HHV-6, VZV) establish latent or persistent infection in non-dividing cells, including neurons.  Here the neuron's lack of cell turnover keeps the latent virus around.  SARS2, the cause of Long COVID, is known to reactivate latent EBV. Such chronically weakened but surviving neurons (including sensory nerves) can continue to misfire long after the initial viral insult, providing a plausible substrate for the persistent reflex disruptions seen in ME/CFS.
+
+
+    So, calling out spindle nerves was intentional.  The idea was that the failure mode in the larynx could be the spindle receptors (stretch sensors) get hyperexcitable.  I base that on my subjective experience of the disease.  In that scenario, every inhalation creates a noxious input, creating a tendency to disturb the natural waveform of the vagus signal with a different pain-modulated waveform.  Thus, breathing pattern disorder.  Air hunger results when the body cannot register a full breath / lung stretch due to the same stretch receptors' cells fatiguing.  As far as evidence, the spindle receptor cells have high mitochondria counts and high metabolic demand due to their usage pattern, so maybe they would fail first/early.
+
+    spindle nerves throughout the muscles
+            may explain muscle pain/exhaustion in PEM as well as the direct muscle cell death
     DOMs might be spindle nerves too
+        Another research team suspects post-exercise DOMS to result not from muscle tissue after all but from sensory nerves in muscle spindles, via compartment syndrome of the spindles crushing the nerves.
+            citation?
         another study hypothesizes reduced nerve elasticity in ME/CFS
         https://www.healthrising.org/blog/2014/07/06/strained-neuromuscular-problems-causing-chronic-fatigue-syndrome-me-cfs/
+
+    Fibro implications
+        Fibro = SFN in half of cases
+
+        Central sensitization is unfalsifiable god-of-the-gaps; can't rule out peripheral sensitization or undiscovered pain source
+
+    Neurovascular pain, Erythromelalgia, BMS
+
+
+    Generalized vasomotor pain condition
+        Already coined "erythermalgia" by other researchers
+            Recurrent Facial Erythema with Burning Sensation and Increased Temperature: A Variant of Erythromelalgia or a New Entity?
+            " [ long list of other areas] may be the only afflicted part. Based on the involved areas and symptoms, “erythermalgia” may be better than “erythromelalgia” to describe such conditions. "
+            https://sci-hub.st/10.1111/pme.12343
+
+        Erythromelalgia is known only in feet because Doppler flow only works on feet. And also only the toes produce a visual sign by turning red in this otherwise systemic disease.
+
+        Consider this proposition: There are more neurovascular pain syndromes similar to erythromelalgia that have gone undiscovered.  Ones that involve the toes just happen to be easier to discover (NaV 1.7 genetic trigger with obvious effects at acral sites with high 1.7, dense vasculature near the top surface for visible red toes, doppler flowmetry easy access).  Other similar conditions can exist throughout the body, perhaps explaining burning mouth syndrome as the literature has wondered before, bladder irritation, rashes, throat and GI issues, etc.
+
+            I have all those symptoms myself, as well as a classic case of eryhtromelalgia of the toes and feet.  On the palms and elsewhere it's a little different and relieved by heat instead of cold, I assume due to differences between erythromelalgia and the undiscovered diffuse vasomotor pain syndrome.  Subjectively at all the other sites (such as oropharynx and bladder and lower facial skin) the pain level is comparable and similar in sensation to the erythromelalgia.
+
+
+        neurovascular EM-likes could alter return in the azygous venuous system, which is known to lead to cardiac preload dysfunction in POTS and ME/CFS [cite https://www.mcmc-research.com/post/preload-dysfunction-in-pots-and-me-cfs-the-azygous-system-autonomic-plexii-and-inflammatory-pathw ]
+
+        COVID toe in non-acute cases is erythromelalgia, not chilblains as assumed:
+        "Interestingly, since the onset of the COVID pandemic, there have been instances of patients exhibiting symptoms that appear unrelated to cold weather."
+        https://pmc.ncbi.nlm.nih.gov/articles/PMC10711647/
+        "What we have right now is an interesting presentation of an old entity chilblain, but without its classical precipitating factor-cold. Whether “COVID-19 toes” becomes a subtype of chilblains or evolves as a separate entity, only data and time will determine."
+        https://pmc.ncbi.nlm.nih.gov/articles/PMC7485639/
+
+        "Dear Editor,
+        “COVID toes” are known to be associated with severe acute respiratory syndrome coronavirus (SARS-CoV-2) pathogenesis.1 Descriptions are concordant worldwide, however, follow-up is poorly described. Between February 2020 and April 2021, 4 cases lasting >3 months were followed-up in our dermatology clinic.
+        The first patient was a 19-year-old woman without medical history. Two months after the onset of COVID-19 symptoms, chilblains-like acral lesions (CLAL) appeared on her toes (Figure 1). She complained of itching. There was no worsening with cold. SARS-CoV-2 serology was positive, and antinuclear antibodies, cryoglobulin, cryofibrinogen, cold agglutinin were negative. Chilblains-like acral lesions were still visible 4 months after onset. The second patient was an 18-year-old woman in good health. Two weeks after the onset of COVID-19, asymptomatic CLAL appeared on her toes and fingers. SARS-Cov-2 infection was confirmed by polymerase chain reaction (PCR). Moreover, she presented with a transient and painless urticarial eruption of the trunk, knees and hands exacerbated by heat and disappearing with cold. We found positive antinuclear antibodies with nucleolar fluorescence and rheumatoid factor, but there was no clinical systemic lupus sign. CLAL were still visible at 3 months. The third patient was a 60-year-old woman in good health. Soon after the onset of a COVID-19 with mild typical symptoms (anosmia), she presented painless CLAL of her toes. She did not performed any viral test. She noted an exacerbation by heat, but no worsening by cold. One digital necrosis was observed and CLAL remained for 5 months. The fourth case was a 20 year-old female who presented symptoms consistent with COVID-19 infection, but with a negative serology. Two months later, CLAL and erythromelalgia appeared on her toes and persisted after 10 months showing superficial necrotic evolution.
+        Our case series shows a CLAL duration of 3 to 10 months. Symptoms vary from no pain to functional disability. Cold was not a worsening factor, which differs from idiopathic chilblains.  Necrotic evolution is possible as shown in 2 cases. Based on recent data, CLAL reflect an immunity against the virus by secretion of type 1 alpha-interferon.2,3 Indeed, few patients with COVID toes have developed a severe form of the virus,1 and serologic or PCR test for SARS-Cov2 are sometimes negative.4 Among our 4 patients, 2 were positive, 1 negative and 1 not performed.  Our data show a long duration of these symptoms but CLAL have not been integrated in the concept of “long COVID” (ie persistent complications),5 no pediatric acral acute syndrome had this duration.6 We suggest to add acute and chronic COVID toes as a separate post-infection entity."
+        https://journals.sagepub.com/doi/10.1177/00033197211068938
+
+
+        Contrary arguments are sometimes absurd:
+        "In light of the difficulty in delineating the pathophysiological association between COVID- 19 infection and chilblains, it has been suggested that behaviour changes during lockdowns, such as not wearing shoes or socks in the home, leaving extremities more exposed to the cold, could explain the possible increase in the number of chilblains presentations over the course of the pandemic [20]"
+
+        MCAS mimic but more treatable
+        Sodium channel blockers
+            Largely untested for Fibromyalgia [cite https://academic.oup.com/rheumatology/article/64/5/2385/7929825 ] (including carbamazepine, lamotrigine, topiramate, and lacosamide).
+            Lamotrigine: "A review of the literature suggests that lamotrigine may be effective in the management of neuropathic pain." [cite https://journals.lww.com/clinicalpain/abstract/2000/12000/lamotrigine_in_the_management_of_neuropathic_pain_.8.aspx ]
+
+    vagus nerve and its sensitive survival-critical airway branches
+
+    laryngeal nerves fatigue x2:  The sensory side fatigues and loses signal directly, and the motor side fatigues and slows mucosal production which increases sensation thresholds.
+
+    Declaration: nerve pathology rather than structural.  overfocus on muscles.  what about sensory feedback and perception of the airway.
+        ME/CFS is a problem of sensory feedback and perception of the airway; nerve pathology moreso than structural pathology.
+        True airway blockage was recently observed to be negatively correlated to ME/CFS because those with a primary airway blockage complaint would tend to get urgently treated for that rather than for ME/CFS.
+
+    re: sensory feedback loss: ME/CFS is famously linked to abnormal sensory processing.
+    sleep impact - Senses wake up too in the morning, including noxious phantom pain, all at once
+    Unrefreshing sleep, though normal quality sleep, as documented
+
+
     Declaration: PEM crashes might be nerve cell crashes, in patients under threshold of affecting muscles
+            PEM crashes are primarily a mitochondrial disease of sensory feedback nerves within muscles, despite research thus far mostly being focused on observing muscle tissue itself rather than nerves.
     Two types of fatigue/crashes identified previously - central and peripheral: [cite https://www.clinbiomech.com/article/S0268-0033(23)00186-9/fulltext#bb0105 ]
     PEM vs PENE
     Declaration: Ocular/postural/MTD Fine-Motor-PEM crashes are more treatable
     Fine motor control can tire separately from muscles; may compete signal with itself
     Posture failure in ME/CFS: https://www.healthrising.org/blog/2014/07/06/strained-neuromuscular-problems-causing-chronic-fatigue-syndrome-me-cfs/
     Less mitochondrial damage may mean muscles don't get involved, but still Fine-Motor-PEM
-    Declaration? overfocus on muscles
-    Executive function fatigues early too
 
+        Visual symptoms and light sensitivity in ME/CFS arise because the nerve spindles of sensory feedback in the extraocular muscles fatigue more easily due to mitochondria count than the rest of the body.  Postural weakness in ME/CFS arises because the same applies to the supportive muscles of the neck, back, and pelvic floor, which are more metabolically active than other muscles.  These, the brain, and the breathing muscle spindles are the neurological "canaries in the coalmine" concerning mitochondrial failure. In ME/CFS there may be two distinct types of crashes, one driven by systemic energy crash (the classic severe PEM crash) and the other more local to the aforementioned muscles only.  The latter type of crash is much more treatable, by mitigating compensatory local effects such as MTD.
 
-        Unlike many proliferating cells, neurons generally do not turn over. Rather than being eliminated outright by viral invasion, they more often persist in a metabolically compromised state, as defective mitochondria accumulate and propagate within them. Such chronically weakened but surviving sensory neurons can continue to misfire long after the initial viral insult, providing a plausible substrate for the persistent reflex disruptions seen in ME/CFS.
-                    Neurons are strongly protected against apoptosis compared to many other cell types, because the nervous system can’t afford to lose them en masse.
-
-                    Viruses and immune insults often push them into functional compromise instead of death:
-
-                        Reduced excitability
-
-                        Altered firing thresholds
-
-                        Swollen/damaged mitochondria that underperform but don’t kill the cell
-
-                    Such neurons can become chronic “weak links”: alive, but unreliable — sending distorted signals or failing under exertion. This is actually ideal for your model, because it explains why dysfunction persists for decades without catastrophic neuron loss.
-
-                Some viruses (especially herpesviruses like EBV, HHV-6, VZV) are experts at establishing latent or persistent infection in non-dividing cells, including neurons.  Here the neuron's lack of cell turnover keeps the latent virus around.  SARS2 reactivates latent EBV.
-
-        Re: Nerves fatigue:   laryngeal nerve fatigue x2:  The sensory side fatigues and loses signal directly, and the motor side fatigues and slows mucosal production which increases sensation thresholds.
-
-        re: sensory feedback loss: ME/CFS is famously linked to abnormal sensory processing.
-
-        turbinate loss and phantom limb all involve amputations that would cause cortical remapping (reorganizing of the S1 somatosensory cortex), leading to perception of sensations from the absent body part.  for tinnitus, it occurs in the nearby primary auditory cortex (A1).  Saliency network and distress-related brain areas then get affected.
-
+    Treatment implication - cerebellar training with breathing/visual sensory noise reduction
         viral damage to mitochondrial quality control results in fatigue of certain local tissues that fail first, especially sensory nerve fibers involved in crucial signalling of fine motor control.  The theory is that all of these signals compete for attention, so disruptions to one could clog up the network.  A big portion of fine motor signalling is visual (feedback for the extraocular muscles and postural reflexes), so by cutting that signal off, there is more leftover for other fatigued fine motor control such as in the larynx for articulation of speech, the failure of which leads to dysautonomia due to choking sensations, and functional CCI via muscle recruitment.  Resting the eyes and retraining body dynamics without the eyes resolves all of these cycles.
 
-    People who present with ME/CFS tend not to be the patients with some obvious airway obstruction, so airway and vocal cord issues that block breathing outright were found to be negatively correlated to ME/CFS.  Rather, the same patients who complained of ME/CFS tended to be identified with non blocking but functional voice disorders.  In the retroactive study,
 
-    ME/CFS is a problem of sensory feedback and perception of the airway; nerve pathology moreso than structural pathology.  True airway blockage was recently observed to be negatively correlated to ME/CFS because those with a primary airway blockage complaint would tend to get urgently treated for that rather than for ME/CFS.
 
-    PEM crashes are primarily a mitochondrial disease of sensory feedback nerves within muscles, despite research thus far mostly being focused on observing muscle tissue itself rather than nerves.
+    Executive function fatigues early too
 
-    Another research team suspects post-exercise DOMS to result not from muscle tissue after all but from sensory nerves in muscle spindles, via compartment syndrome of the spindles crushing the nerves.
+    In nerves, more noise equals less bandwidth. Attention mechanisms are needed to compensate for the loss of bandwidth. When noise increases this increases pressure on executive control because the same resources are needed for cerebellar, proprioceptive, regulatory and default mode network control.
 
-    Visual symptoms and light sensitivity in ME/CFS arise because the nerve spindles of sensory feedback in the extraocular muscles fatigue more easily due to mitochondria count than the rest of the body.  Postural weakness in ME/CFS arises because the same applies to the supportive muscles of the neck, back, and pelvic floor, which are more metabolically active than other muscles.  These, the brain, and the breathing muscle spindles are the neurological "canaries in the coalmine" concerning mitochondrial failure. In ME/CFS there may be two distinct types of crashes, one driven by systemic energy crash (the classic severe PEM crash) and the other more local to the aforementioned muscles only.  The latter type of crash is much more treatable, by mitigating compensatory local effects such as MTD.
 
-    Possible Explanations for the Negative Correlation
 
-        Functional vs. Structural Disorders: CPS are associated with central sensitization and altered pain processing, leading to functional symptoms (like muscle tension dysphonia or somatic symptom amplification) rather than structural or neurological pathology of the larynx or vocal cords
-
-        . This means that while CPS patients may report throat tightness, globus, or breathing discomfort, these symptoms are less likely to be caused by objective, diagnosable airway pathologies such as vocal cord paralysis or true PVCM.
-
-        Central Sensitization and Somatic Focus: Patients with CPS often experience heightened awareness and amplification of bodily sensations due to changes in the central nervous system
-
-        . This may increase the reporting of symptoms that mimic airway disorders, but without the underlying organic disease that would be diagnosed as a true airway disorder.
-
-        Diagnostic Bias: Clinicians may be more likely to attribute airway-related symptoms in CPS patients to functional or psychogenic causes, and less likely to pursue or confirm a diagnosis of structural airway disease unless clear evidence exists.
-
-    However, the same study found that MTD does correlate hugely with ME/CFS, and that MTD as the driver of airway strain (rather than primary airway trouble) is the true link.
 
 #### Fibromyalgia Implications
 
@@ -324,9 +386,9 @@ Declaration 12: Fibromyalgia is best understood as the pain-phase manifestation 
 Autism Connection
     Autism risk factor - linked to both ME/CFS and MCAS
     Sensory disruptions in ME/CFS - overwhelmed CNS
-    ME/CFS recruit more brain regions, fatigue, lighting trigger
+    ME/CFS known to recruit more brain regions, fatigue, lighting trigger
     pain diverts attention away from regulation (posture, autonomic)
-    autism also diverts attention away from that
+    autism also diverts attention, potentially as a compensation for that
     Monotropism and Symptom Experience/Management
             context inline box?
     Possible reasons for Autism/MCAS/ME link:
@@ -335,7 +397,7 @@ Autism Connection
         Autistic patients have worse regulation of parallel bodily tasks (posture, airway)
         Aggravator of sensory perception
     That brings up the other possibility: A causal link
-    Possible mechanisms: deregulation, lapses in executive dysfunction control, and pain
+    Possible dynamics: deregulation, lapses in executive dysfunction control, and pain
     Executive function contributes to ME/CFS experience
     MH concepts useful for relief despite their misuse
     MH concepts for neurodivergence work
@@ -730,13 +792,6 @@ Version 2.0
     Finding causes/effects of MTD (incl COSO):
           https://pmc.ncbi.nlm.nih.gov/articles/PMC9559660/pdf/JSLHR-65-1867.pdf
 
-  Ethics approval and consent to participate - Not applicable
-  Consent for publication - Not applicable
-  Availability of data and materials - Not applicable
-  Competing interests - Not applicable
-  Funding - Not applicable
-  Authors' contributions - Single author
-  Acknowledgements
   Authors' information: GR is an ME/CFS sufferer diagnosed with MTD and cervical spine degeneration. Once a Computer Science lecturer at UCLA, disability, the pandemic, and unemployment have affected GR. If the information in this article was of benefit, donations are accepted via Paypal at garett.cs.ucla.edu.
 
 
