@@ -1,101 +1,223 @@
-Viral infection->Mitophagy disruption via immune overactivation
-Mitophagy disruption via immune overactivation->Systemic loss of cellular mitochondrial quality control (MQC)
-Systemic loss of cellular mitochondrial quality control (MQC)->Tissue-wide cellular crashes (muscular, epithelial, nerve cells)
-Tissue-wide cellular crashes (muscular, epithelial, nerve cells)->Persistence in nerve cells most of all due to slow turnover
-Persistence in nerve cells most of all due to slow turnover->Paroxysmal energy budget overruns in local peripheral nerves
-Paroxysmal energy budget overruns in local peripheral nerves->Sensory nerves fatigue as much as motor
-Sensory nerves fatigue as much as motor->Small Fiber Neuropathy
+Graph 1:
 
+Viral infection->Immune overactivation
+Viral infection->Mitophagy disruption
+Immune overactivation->Mitophagy disruption
+Mitophagy disruption->Immune overactivation
+Mitophagy disruption->Systemic loss of mitochondrial quality control (MQC)
+Systemic loss of mitochondrial quality control (MQC)->Tissue‑specific cellular energy crises
+Systemic loss of mitochondrial quality control (MQC)->Elevated PINK1 observed
+Systemic loss of mitochondrial quality control (MQC)->Inflammatory/Immune findings in ME/CFS
+Tissue‑specific cellular energy crises->Muscle cells
+Muscle cells->Cell death (apoptosis) recorded
+Tissue‑specific cellular energy crises->Connective Tissue
+Connective Tissue->Ehlers-Danlos Syndrome (EDS)
+Tissue‑specific cellular energy crises->Epithelial cells
+Epithelial cells->Adrenal Gland zona cell stress
+Adrenal Gland zona cell stress->RAAS paradox and blood volume changes
+RAAS paradox and blood volume changes->POTS/Orthostatic Intolerance
+Microvascular Dysautonomia->POTS/Orthostatic Intolerance
+Tissue‑specific cellular energy crises->Nerve cells (low turnover → persistent mitochondrial impairment)
+Nerve cells (low turnover → persistent mitochondrial impairment)->Paroxysmal energy budget overruns in local peripheral nerves
+Nerve cells (low turnover → persistent mitochondrial impairment)->Potential severe neurological disorders (no longer counted as ME/CFS)
+  Neurological syndromes originally considered part of MECFS outbreaks
+
+Nerve cells (low turnover → persistent mitochondrial impairment)->CNS involvement (reduced due to BBB)
+Rarely, severe neural disorders (no longer counted as ME/CFS)->CN Palsies, myoclonus, paresis, etc
+Paroxysmal energy budget overruns in local peripheral nerves->Burnout in both sensory and motor nerves
 Paroxysmal energy budget overruns in local peripheral nerves->Shared energy reserves deplete system-wide during high demand
 Shared energy reserves deplete system-wide during high demand->Post-Exertional Malaise
 Shared energy reserves deplete system-wide during high demand->Exercise Intolerance
+Burnout in both sensory and motor nerves->Small Fiber Neuropathy
+Small Fiber Neuropathy->Microvascular Dysautonomia
+Small Fiber Neuropathy->Inflammatory/Immune findings in ME/CFS
+Small Fiber Neuropathy->Fiber-level local burnout episodes
+Fiber-level local burnout episodes->Episodes proceed in order of the most metabolically active nerves
+Episodes proceed in order of the most metabolically active nerves->Signal dropouts of demanding cranial nerves
 
-Small Fiber Neuropathy->Early local failure of mitochondrially more vulnerable nerves
-Early local failure of mitochondrially more vulnerable nerves->Loss of vagal airway/larynx sensation
-Loss of vagal airway/larynx sensation->Missing feedback during cognitive focus (phonation)
-Missing feedback during cognitive focus (phonation)->Muscle Tension Dysphonia
+Graph 2:
 
-Small Fiber Neuropathy->Noxious phantom paresthesias
-Noxious phantom paresthesias->Burning Mouth Syndrome and Globus Dysphonia
+Small Fiber Neuropathy->Signal dropouts of demanding cranial nerves
+Small Fiber Neuropathy->Microvascular Dysautonomia
+Signal dropouts of demanding cranial nerves->CN X fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN V+IX fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN III+IV+VI fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN VIII fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN XI fiber dysregulation
 
-Vagus nerve disruption->Loss of vagal airway/larynx sensation
+CN X fiber dysregulation->Loss of vagal airway/larynx sensation
+CN X fiber dysregulation->Loss of laryngeal motor control
 Loss of vagal airway/larynx sensation->Air hunger
-Air hunger->Maladaptive breathing
-Maladaptive breathing->Accessory breathing muscle engagement
-Accessory breathing muscle engagement->Chronic poor neck posture
-Chronic poor neck posture->Functional CCI
+Loss of laryngeal motor control->Complex demands (phonation) fail
+Complex demands (phonation) fail->Muscle Tension Dysphonia
+Muscle Tension Dysphonia->Recruitment
+Recruitment->Accessory breathing muscle engagement
+Air hunger->Effortful breathing
+Effortful breathing->Accessory breathing muscle engagement
+Accessory breathing muscle engagement->Chronic poor neck posture/tension
+Chronic poor neck posture/tension->Functional-only CCI
 
-Early local failure of mitochondrially more vulnerable nerves->Loss of neck stabilizer sensation
-Loss of neck stabilizer sensation->Dysphoria from absent signal
-Dysphoria from absent signal->Swaying to self-stimulate, similar to what is seen in Functional CCI
-Swaying to self-stimulate, similar to what is seen in Functional CCI->Chronic poor neck posture
+Prior Neck Injuries->True ligament damage/laxity
+Ehlers-Danlos Syndrome (EDS)->True ligament damage/laxity
+True ligament damage/laxity->Structural CCI
+Structural CCI->Cervical Medullary Syndrome
+Functional-only CCI->Cervical Medullary Syndrome
+Cervical Medullary Syndrome->Compression of cranial nerves and brainstem
+Compression of cranial nerves and brainstem->Further CN irritability, vicious cycle, but not primary cause in this model.
 
-Early local failure of mitochondrially more vulnerable nerves->Frontal Lobe energy crashes of nerve cells
-Frontal Lobe energy crashes of nerve cells->Executive Dysfunction, Brain Fog
+CN X fiber dysregulation->Irritable Bowel Syndrome (IBS)
+Irritable Bowel Syndrome (IBS)->Cramps, Diarrhea/Constipation with triggers
+Irritable Bowel Syndrome (IBS)->Abdomino-phrenic dyssynergia (APD)
+Abdomino-phrenic dyssynergia (APD)->Accessory breathing muscle engagement
 
-Noxious phantom paresthesias->Chronic pain
-Noxious phantom paresthesias->Brain fog
-Noxious phantom paresthesias->Executive Dysfunction
-Noxious phantom paresthesias->Unrestful Sleep
-Frontal Lobe energy crashes of nerve cells->Brain fog
-Frontal Lobe energy crashes of nerve cells->Executive Dysfunction
-Chronic pain->Hyperfocus/Monotropism (more symptomatic autism/ADHD)
-Executive Dysfunction->Hyperfocus/Monotropism (more symptomatic autism/ADHD)
-
-Early local failure of mitochondrially more vulnerable nerves->Loss of Pituitary neural and vasomotor inputs
-Loss of Pituitary neural and vasomotor inputs->HPA and RAAS paradoxes
-HPA and RAAS paradoxes->Dysautonomia
-
-Early local failure of mitochondrially more vulnerable nerves->Vagus nerve disruption
-Vagus nerve disruption->Dysautonomia
-
-Vagus nerve disruption->Loss of tongue/pharynx sensation
-Loss of tongue/pharynx sensation->Noxious phantom paresthesias
-
-Loss of tongue/pharynx sensation->Sleep Apnea
+CN X fiber dysregulation->Dysautonomia
 Dysautonomia->Unrestful Sleep
+Altered/missing tongue/pharynx sensation->Sleep Apnea
 Sleep Apnea->Unrestful Sleep
 
-Trigeminal/Glossopharyngeal Fiber disruption->Burning Mouth Syndrome and Globus Dysphonia
-Burning Mouth Syndrome and Globus Dysphonia->Pharyngeal/Laryngeal muscle guarding
-
-Vagus nerve disruption->Irritable Bowel Syndrome
-Irritable Bowel Syndrome->Cramps, Diarrhea/Constipation with triggers
-Irritable Bowel Syndrome->Reduced CYP enzyme secretion
-Reduced CYP enzyme secretion->Altered drug responses
-Irritable Bowel Syndrome->Abdomino-phrenic dyssynergia
-Abdomino-phrenic dyssynergia->Accessory breathing muscle engagement
-
-Loss of small vessel vasomotor control->Irritable bladder, Interstitial Cystitis
-Noxious phantom paresthesias->Irritable bladder, Interstitial Cystitis
-Irritable bladder, Interstitial Cystitis->Bladder urgency and pain
-
-Muscle Tension Dysphonia->Recruitment of scalenes, traps, and SCM for better control during complex speech tasks
-Recruitment of scalenes, traps, and SCM for better control during complex speech tasks->Deconditioning of Longus Colli and more
-Deconditioning of Longus Colli and more->Chronic poor neck posture
-Chronic poor neck posture->Functional CCI
-
-Burning Mouth Syndrome and Globus Dysphonia->Pharyngeal/Laryngeal muscle guarding
+CN V+IX fiber dysregulation->Altered/missing tongue/pharynx sensation
+CN X fiber dysregulation->Altered/missing tongue/pharynx sensation
+Altered/missing tongue/pharynx sensation->Noxious/phantom paresthesias
+Altered/missing tongue/pharynx sensation->Globus/Burning mouth symptoms
+Globus/Burning mouth symptoms->Pharyngeal/Laryngeal muscle guarding
 Pharyngeal/Laryngeal muscle guarding->Dysphagia
-Pharyngeal/Laryngeal muscle guarding->Accessory breathing muscle engagement
-Pharyngeal/Laryngeal muscle guarding->Tension applied to spine
-Accessory breathing muscle engagement->Chronic poor neck posture
-Tension applied to spine->Chronic poor neck posture
-Chronic poor neck posture->Functional CCI
+Pharyngeal/Laryngeal muscle guarding->Altered deep cervical loading and tone
+Altered deep cervical loading and tone->Chronic poor neck posture/tension
 
-Small Fiber Neuropathy->Loss of small vessel vasomotor control
-Loss of small vessel vasomotor control->Vasomotor Skin Conditions
-Vasomotor Skin Conditions->Idiopathic focal rashes (MCAS mimics)
-Vasomotor Skin Conditions->Erythromelalgia ("COVID toes")
+Graph ?:
 
-Loss of small vessel vasomotor control->Cranial vasomotor instability
-Cranial vasomotor instability->Burning Mouth Syndrome and Globus Dysphonia
+CN X fiber dysregulation->Irritable Bowel Syndrome (IBS)
+Irritable Bowel Syndrome (IBS)->Cramps, Diarrhea/Constipation with triggers
+Irritable Bowel Syndrome (IBS)->Abdomino-phrenic dyssynergia (APD)
+Abdomino-phrenic dyssynergia (APD)->Accessory breathing muscle engagement
+CN X fiber dysregulation->Trunk parasympathetic sensitization
+Trunk parasympathetic sensitization->Abdomino-phrenic dyssynergia (APD)
+Abdomino-phrenic dyssynergia (APD)->Abnormal intrathoracic pressure dynamics
+Accessory breathing muscle engagement->Abnormal intrathoracic pressure dynamics
+Abnormal intrathoracic pressure dynamics->Tilt/standing as trigger
+Abnormal intrathoracic pressure dynamics->RSA and cardio-respiratory coupling changes
+Abnormal intrathoracic pressure dynamics->Baroreflex/arterial pressure variations
+Laryngeal stretch sensor activation->Baroreflex/arterial pressure variations    ??
+Baroreflex/arterial pressure variations->HRV abnormalities
 
-Early local failure of mitochondrially more vulnerable nerves->Trigeminal/Glossopharyngeal Fiber disruption
-Trigeminal/Glossopharyngeal Fiber disruption->Cranial vasomotor instability
-Cranial vasomotor instability->Migraines, Idiopathic Sinus Congestion without blockage
+Abnormal intrathoracic pressure dynamics->Laryngeal stretch sensor activation ??
+Laryngeal stretch sensor activation->Respiratory Pain (since CN X is also sensitized/noisy)
+Respiratory Pain (since CN X is also sensitized/noisy)->Cardiorespiratory entrainment so as to mask breath sensation
+Cardiorespiratory entrainment->Breathing pattern disorder
+Cardiorespiratory entrainment->Masking of noxious breath sensation (Vibratory counter-irritant treatment)
+Cardiorespiratory entrainment->Preload/afterload heart assistance
+Preload/afterload heart assistance->Perfusion changes
+Perfusion changes->Relief of cranial hemodynamics
+Perfusion changes->sensation changes, relief of missing sensations   ?
 
-Early local failure of mitochondrially more vulnerable nerves->Fatigable ocular nerve, Ocular Cortex / Visual Tectum, and Extraocular Muscles
-Fatigable ocular nerve, Ocular Cortex / Visual Tectum, and Extraocular Muscles->Light and visual hypersensitivity, Exophoria, Eyestrain / Tension headaches
+Microvascular Dysautonomia->Diffuse Pain, Skin and Mucosal Lesions (also GI, bladder, COVID toes), Preload Failure
+Preload Failure->Orthostatic Intolerance/POTS, Migraines
 
+Vertigo->Sickness behaviors->Aversion to movement, muscle guarding
+Vagus noise->Esophageal pain->Intrathoracic pressure sensitivity
+Preference for baroreceptor activation / increased palpitation
+Loss of vagal airway/larynx sensation->Perceived dyspnea
+Esophageal spasms
+Perceived dyspnea->Overbreathing, Hyperventilation
+SFN->Sensory Neuropathic Gagging/Cough/Throat Clearing or even Laryngospasm
+Cranial nerve dysfunction->Parasympathetic under-activation
+      (most sympathetic nerves = spinal, most parasympathetic = cranial)
+Vibratory counter-irritant treatment
+
+Larynx mechanosensation->Raised larynx posture (ie. MTD)
+Raised larynx posture (ie. MTD)->Muscle Tension Dysphonia
+Raised larynx posture (ie. MTD)->Accessory breathing muscle engagement
+
+Loss of laryngeal motor control->UARS
+UARS->Airflow paresthesias and distress
+    Airflow distress from restriction and sensory changes
+Airflow paresthesias and distress->Muscle guarding
+Muscle guarding->Muscle Tension Dysphonia
+UARS->Snoring, Oropharyngeal irritation
+UARS->Sleep posture constraint
+Sleep posture constraint->Chronic Shoulder/neck impingement
+Ehlers-Danlos Syndrome (EDS)->Chronic Shoulder/neck impingement
+Airflow paresthesias and distress->Unrestful sleep
+Airflow paresthesias and distress->Sympathetic hyperactivity
+Sympathetic hyperactivity->Overbreathing, Hyperventilation
+Mitochondrial/oxygen‑delivery mismatch->Overbreathing, Hyperventilation
+Overbreathing, Hyperventilation->Hypocapnia
+Hypocapnea->Breathing Pattern Disorder
+Hypocapnea->Vasoconstriction
+Vasoconstriction->Impaired cervical/cranial hemodynamics?
+Impaired cervical/cranial hemodynamics-> ?
+Vasoconstriction->Perfusion changes->sensation changes, relief of missing sensations   ?
+
+Accessory breathing muscle engagement->Thoracic Outlet crowding
+Upper Crossed Syndrome->Thoracic Outlet crowding
+Chronic poor neck posture/tension->Chronic cervical stiffening
+(Chronic) Accessory breathing muscle engagement->Reduced rib motion, chronic stiffening
+Chronic cervical stiffening->Reduced rib motion, chronic stiffening
+Reduced rib motion, chronic stiffening->Costochondritis
+Reduced rib motion, chronic stiffening->Elevated scapula, Thoracic Outlet Syndrome
+Functional-only CCI->Impaired cervical/cranial hemodynamics
+Elevated scapula, Thoracic Outlet Syndrome->Arm paresthesias and impaired hemodynamics
+Elevated scapula, Thoracic Outlet Syndrome->Shoulder pain
+Thoracic Outlet crowding->Cervical artery compression
+
+
+
+Graph 3:
+
+Small Fiber Neuropathy->Signal dropouts of demanding cranial nerves
+Small Fiber Neuropathy->Microvascular Dysautonomia
+Signal dropouts of demanding cranial nerves->CN X fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN V+IX fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN III+IV+VI fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN VIII fiber dysregulation
+Signal dropouts of demanding cranial nerves->CN XI fiber dysregulation
+
+CN III+IV+VI fiber dysregulation->Gaze stability issues
+Gaze stability issues->Light/visual sensitivity
+Gaze stability issues->Exophoria, Eyestrain/Tension headaches
+Gaze stability issues->Vestibulo/Cervico-Ocular reflex bias
+Vestibulo/Cervico-Ocular reflex bias->Cervico/Vestibulo-collic reflex bias
+CN VIII fiber dysregulation->Vertigo
+CN VIII fiber dysregulation->Cervico/Vestibulo-collic reflex bias
+CN XI fiber dysregulation->Cervico/Vestibulo-collic reflex bias
+CN XI fiber dysregulation->Chronic poor neck posture/tension
+Cervico/Vestibulo-collic reflex bias->Chronic poor neck posture/tension
+Chronic poor neck posture/tension->Functional-only CCI
+
+Graph 4:
+
+Small Fiber Neuropathy->Signal dropouts of demanding cranial nerves
+Small Fiber Neuropathy->Microvascular Dysautonomia
+
+Microvascular Dysautonomia->Overactive bladder, Interstitial Cystitis
+Noxious/phantom paresthesias->Overactive bladder, Interstitial Cystitis
+Microvascular Dysautonomia->Vasomotor Skin Reactivity
+Vasomotor Skin Reactivity->Idiopathic focal rashes (MCAS mimics)
+Vasomotor Skin Reactivity->Erythromelalgia ("COVID toes")
+Microvascular Dysautonomia->Cranial vasomotor instability
+Cranial vasomotor instability->Globus/Burning mouth symptoms
+
+CN V+IX fiber dysregulation->Cranial vasomotor instability
+Cranial vasomotor instability->Migraines
+Cranial vasomotor instability->Vasomotor Rhinitis
+
+Small Fiber Neuropathy->Lowered mucosal activity   (is it more vasomotor or neural?)
+Lowered mucosal activity->Globus/Burning mouth symptoms
+
+Graph 5:
+
+Noxious/phantom paresthesias->Overstimulation
+Light/visual sensitivity->Overstimulation
+Overstimulation->Sympathetic hyperactivity
+Sympathetic hyperactivity->Dysautonomia
+
+Noxious/phantom paresthesias->Chronic nocioceptive salience
+Noxious/phantom paresthesias->Brain fog
+Noxious/phantom paresthesias->Executive Dysfunction
+Noxious/phantom paresthesias->Unrestful Sleep
+
+CNS involvement (reduced due to BBB)->Brain fog
+CNS involvement (reduced due to BBB)->Executive Dysfunction
+Chronic nocioceptive salience->Monotropic attention (intensified hyperfocus/autism/ADHD)
+Executive Dysfunction->Monotropic attention (intensified hyperfocus/autism/ADHD)
 

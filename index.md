@@ -17,6 +17,22 @@ Patients are categorized under ME/CFS if they develop extended fatigue periods l
 
 
 
+Researchers and clinicians think of ME/CFS as having a constellation of comorbidities, with somewhat mysterious reasons as to why they appear together.  It's often unclear how symptoms could be related to one another, or which particular mechanism within ME/CFS is to blame for each one.  In the scattered constellation of ME/CFS, proven causal links between its aspects are mostly missing in the literature.
+
+ME/CFS is defined with a few hallmark features plus a shotgun pattern of comorbidities.  This common mental model of ME/CFS creates the impression among clinicians that it is mysterious, overcomplex, possibly a bad diagnosis, and of unclear treatment course of action.  To improve that situation, this work aims to demystify ME/CFS by suggesting causal links that are novel, highly plausible, and testable, which could outperform the current understanding.  One can infer the true shape of the ME/CFS mechanistic flow chart by testing whether candidate flows provide a reframing of ME/CFS that dramatically clarifies it as a disease, and whether their explanations and implied workings are consistent with established features of ME/CFS populations.
+
+The attempt described in this work begins by assuming one particular causation arrow exists in the graph. It takes as a given that there is a causal link from Small Fiber Neuropathy (SFN, commonly detectable in ME/CFS) to the voice and speaking condition called Muscle Tension Dysphonia (MTD).  Although voice conditions as subtle as MTD are given relatively little attention in chronic illness cases, there is a high rate of co-morbidity between MTD and ME/CFS that remains totally unexplained, and mostly unknown.  Neuropathy is one alternative explanations for why MTD occurs, but other alternatives exist and so that link is not fully understood. Discussions from the SFN side thus never include MTD, or consider it among lists of the more clinically important symptoms of SFN.  However, this example of MTD illustrates that a divide exists between the obvious classic symptoms of SFN versus the less intuitive consequences of SFN, which are expected to be widespread.  The fact that one of these strange SFN consequences appears often in ME/CFS implies that others might as well.  Thus begins a search for other comorbidities of ME/CFS that could instead similarly be demystified as unusual presentations of SFN.
+
+        The first step in making the flow graph was seeding it with certain observed apparent relations in a case study—such as the same muscles being able to activate both neck pain and vocal and airway cut off, combined with a diagnosis of the known comorbidity muscle tension dysphonia.
+
+This work's result is that many of the comorbidities of ME/CFS can be neatly framed as being caused by oddities of SFN, such as vasomotor effects of it, or neck-focused effects besides MTD.  In order words, many plausible casual links appear to exist in conceptually close proximity to the under-appreciated link from SFN to MTD, functioning for similar reasons.  Some of the related chronic illnesses are found to be individually illuminated by this framework, even outside the ME/CFS discussion.  Dysautonomia can be framed as signal disruption along the vagus nerve, which is also responsible for innervating the larynx; thus it is possible for the same noise to produce the MTD symptom in reaction.  Functional Cranciocervical Instability can be hypothesized as the mechanical recruitment interaction between a chronically overactivated larynx and the surrounding muscles, responsible for supporting the head, with particularly vulnerable patient subsets (EDS, prior injury).
+
+This hypothesis also helps to contextualize known upstream causes of ME/CFS, such as mitochondrial irregularities, and helps shed light on how exactly the microbiological causes are indirectly producing the unexpected comorbidities in ME/CFS.  In particular, this work notices a plausible causal link between mitochondrial issues and SFN.  It speculates the frequent mitochondrial energy starvation of nerve cells, including sensory nerves, starting with the most energy-demanding and fatiguable parts of the nervous system.  Problem areas in ME/CFS such as the airway, brain, eyes, and postural muscles consistently have the most energy-hungry nerves, as predicted by this particular fatigue model of SFN.
+
+By simplifying ME/CFS in this way, if it holds true, the treatment implications suggest a renewed focus on SFN as a bottleneck of ME/CFS; treating SFN may treat a surprising array of the total comorbidity load.  The underappreciated effects of SFN emphasized by this framework suggest a broader possible set of SFN treatments than normally considered, such as sodium channel blockers (SCBs) for the vasomotor effects.  SCBs are often used in other comorbidities of ME/CFS, including migraine and COVID toes (which is arguably erythromelalgia), both vasomotor conditions; it is possible that Muscle Tension Dysphonia is a guarding reaction to vasomotor pain, and might respond as well.  SCBs are under-researched in SFN patients and especially in chronic pain patients as a whole; early signals are mixed but already encouraging.  Exploring this and other treatments that emphasize the lifestyle management of SFN and neural fatigue could improve patient lives.
+
+
+
 
 ME/CFS is frequently accompanied by overlapping conditions that complicate diagnosis and management but also suggest shared pathophysiology. This raises the question: could a re-framing of the underlying mechanism help better explain the diverse symptoms and comorbidities? Prominently cited examples overlapping ME/CFS include craniocervical instability (CCI), in which excessive skull–spine junction movement produces neurological disability, mast cell activation syndrome (MCAS), whose inappropriate mast cell responses trigger inflammatory and allergic states, and autonomic disorders (dysautonomia) such as postural orthostatic tachycardia syndrome (POTS) that disrupt vital regulation<sup><a name="cite5a"></a>(#ref5)</sup>. Other conditions highly co-occurring with ME/CFS include Epstein-Barr virus persistence, Long COVID, the autism neurotype[cite https://pmc.ncbi.nlm.nih.gov/articles/PMC10965591/], connective tissue disorders such as Ehlers-Danlos syndrome (EDS)<sup><a name="cite6"></a>(#ref6)</sup>, and widespread pain syndromes such as fibromyalgia and irritable bowel syndrome. Most discussion about comorbidities includes all these but a glaring omission is present; this list is not complete without including vocal cord disorders (VCD).
 
@@ -201,11 +217,11 @@ Another comorbidity, Irritable Bowel Syndrome (IBS), could be explained as laryn
 
 Declaration 12: Irritable Bowel Syndrome in ME/CFS is potentially explained as a downstream consequence of maladaptive vagal signaling originating in the larynx, sharing its mechanism with Muscle Tension Dysphonia.
 
-Next, there are multiple cardiac dependencies on the vagus nerve. These could also be adversely affected by a signal noise along the vagus nerve. ME/CFS patients exhibit altered autonomic cardiac regulation generally characterized by reduced parasympathetic (vagal) tone and increased sympathetic activity. Consider the implications on the heart's waveform if signal noise comes from the larynx; due to its type of sensing, the larynx "feels" differently depending on whether the body is inhaling or exhaling, whether the lungs are full or empty. Laryngeal stretch sensors are only activated during part of the breathing cycle, potentially causing neurological disruption during only part of it. It is worth searching for a lopsided effect on breathing pattern and metabolism as the body favors either inhalation or exhalation to delay the pain, and therefore dysfunction with an on/off cycle. This could be evaluated by concurrent assessment of laryngeal nerve conduction with cardiac signals in the ME/CFS population. Laryngeal reflexes and vagal tone would be helpful to measure together. Future evaluation should consider the potential role of laryngeal stretch sensors. Treatments could experimentally try breathing exerises that minimize disruptive breathing sensation to minimize neural cross-talk.
+Next, there are multiple cardiac dependencies on the vagus nerve. These could also be adversely affected by signal noise along the vagus nerve. ME/CFS patients exhibit altered autonomic cardiac regulation generally characterized by reduced parasympathetic (vagal) tone and increased sympathetic activity. Consider the implications on the heart's waveform if signal noise comes from the larynx; due to its type of sensing, the larynx "feels" differently depending on whether the body is inhaling or exhaling, whether the lungs are full or empty. Laryngeal stretch sensors are only activated during part of the breathing cycle, potentially causing neurological disruption during only part of it. It is worth searching for a lopsided effect on breathing pattern and metabolism as the body favors either inhalation or exhalation to delay the pain, and therefore dysfunction with an on/off cycle. This could be evaluated by concurrent assessment of laryngeal nerve conduction with cardiac signals in the ME/CFS population. Laryngeal reflexes and vagal tone would be helpful to measure together. Future evaluation should consider the potential role of laryngeal stretch sensors. Treatments could experimentally try breathing exercises that minimize disruptive breathing sensation to minimize neural cross-talk.
 
-Declaration 13: Fatigued, dysfunctional laryngeal stretch sensors create a pathological signal rhytmically. The stretch sensors are only active during part of the breath cycle.
+Declaration 13: Fatigued, dysfunctional laryngeal stretch sensors create a pathological signal rhythmically. The stretch sensors are only active during part of the breath cycle.
 
-This rhythmic errant signal is on the vagus nerve, a large vulnerable nerve, where dysfunctional neural cross-talk is possible that could disrupt HRV as seen in ME/CFS.  The waveforms of the heart and breathing are often synchronized as in RSA, or pathologically as in negative RSA. Investigation is therefore needed for ME/CFS as to whether HRV is disrupted with the breathing cycle via stretch sensors, in a rhythmic fashion disturing the heart waveform specifically due to the disturbed vagus breath signal waveform.
+This rhythmic errant signal is on the vagus nerve, a large vulnerable nerve, where dysfunctional neural cross-talk is possible that could disrupt HRV as seen in ME/CFS.  The waveforms of the heart and breathing are often synchronized as in RSA, or pathologically as in negative RSA. Investigation is therefore needed for ME/CFS as to whether HRV is disrupted with the breathing cycle via stretch sensors, in a rhythmic fashion disturbing the heart waveform specifically due to the disturbed vagus breath signal waveform.
 
 Dysautonomia and heart rate variability within the PGP model is not an isolated feature but the autonomic expression of disordered breathing and vagal signaling. Another pathway the PGP model provides for cardiac disruption comes from the musculoskeletal disruptions to the upper body discussed earlier. Comorbid chest wall syndromes pertaining to rib motion dynamics such as costochondritis and thoracic outlet syndrome (TOS) encourage abnormal breathing and other alterations to normal intrathoracic pressures. The lungs share space with the heart organ within the tight thoracic cavity and mechanically transfer compressive forces to it with each breath. The lung and heart waveforms are often linked in this way, known as sinus arrhythmia when it is detectable. Inappropriate ribcage and lung volume dynamics may exert maladaptive cyclical forces on the heart, distorting venous return and local perfusion anywhere in the body.
 
@@ -293,13 +309,39 @@ Neurovascular Mechanism
         Central sensitization is unfalsifiable god-of-the-gaps; can't rule out peripheral sensitization or undiscovered pain source
 
     Neurovascular pain, Erythromelalgia, BMS
+            EM described in feet, hands, ear, face, neck, scrotum, vulva, localized ("left medial thigh")
+            BMS hypothesized as a subtype
+            Red-ear syndrome (RES),  Red scrotal syndrome (RSS) https://sci-hub.st/10.1111/pme.12343
+                In general, RES may be associated with primary headache or potential organic disease, such as disease of the ear, the mandibular joint, or cer- vical spine [12,15]
+
+    RES
+        This citation might be more comprehensive:  https://link.springer.com/content/pdf/10.1186/1129-2377-14-83.pdf
+            Given the clinical similarities, some authors have raised the possibility that RES may be an auricular variant of EM, possibly caused by similar small sensory and sympathetic nerve dysfunction [19].
+            Eleven patients with RES and co-existing TMJD ipsilateral to the side of the pain have been described [2,9,10,16]. One patient’s RES attacks settled with the use of a dental plate seeming to point to a causal relationship between TMJD and RES in this case [2].
+        https://pmc.ncbi.nlm.nih.gov/articles/PMC5353140/pdf/npa-51-3-294.pdf
+            RES episodes preceding migraines, case study.  Amitriptyline fixed.
+            Triggers: Sensory, exertion, neck movement.
+            Secondary forms of RES occur with upper cervical spine disorders or temporo-mandibular joint disorder (4)
+            peripheral or central nervous system mechanisms have been proposed (5).
+                C2, C3, V, VII, IX and X
+        Staatsen CC and Koehler PJ. The red ear syndrome. 2008
+             RES could be considered as an extracranial version of other primary headaches, such as migraine or TAC
+        https://sci-hub.st/10.1159/000331578
+             The association with primary headache diseases supports the suspicion of pathogenesis with activation of the trigeminal-autonomic reflex and places RES close to an exclusively neurological disease with secondary functional impairment of the microhemovascular system of the ear skin.
+
+
+
+    Migraine
+        Trigeminal autonomic cephalalgias (TACs): Unilateral, intense, 4 types based on attack length - Cluster is fairly long, SUNA = quick
 
 
     Generalized vasomotor pain condition
         Already coined "erythermalgia" by other researchers
             Recurrent Facial Erythema with Burning Sensation and Increased Temperature: A Variant of Erythromelalgia or a New Entity?
             " [ long list of other areas] may be the only afflicted part. Based on the involved areas and symptoms, “erythermalgia” may be better than “erythromelalgia” to describe such conditions. "
+                because the prior term includes the clinical features red (erythro), heat (therme), and pain (algos), while the latter describes the red, extremity (melos), and pain [2].
             https://sci-hub.st/10.1111/pme.12343
+                Face-only EM case.  Responded to topical lidocaine.
 
         Erythromelalgia is known only in feet because Doppler flow only works on feet. And also only the toes produce a visual sign by turning red in this otherwise systemic disease.
 
