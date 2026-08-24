@@ -1,37 +1,44 @@
 Graph 0:
 
-Post-Viral effects→
-Mitochondrial Failure (esp. PINK1-Parkin), all other established Microscopic Changes→
-Loss of Mitochondrial Quality Control→
-Damage Accumulates in Long Lived Cells (Nerves)→
-Top Metabolically Vulnerable Structures Fatigue First→
+Viral infection->Mitophagy disruption (esp. PINK1-Parkin)
+Mitophagy disruption (esp. PINK1-Parkin)->Systemic loss of mitochondrial quality control (MQC)
+Systemic loss of mitochondrial quality control (MQC)->Tissue‑specific cellular energy crises
+Tissue‑specific cellular energy crises->Immune cells
+Tissue‑specific cellular energy crises->Bone cells
+Tissue‑specific cellular energy crises->Muscle cells
+Tissue‑specific cellular energy crises->Connective tissue
+Tissue‑specific cellular energy crises->Adrenal tissue
+Tissue‑specific cellular energy crises->Nerve Tissue (damage accumulates via low turnover)
+Bone cells->Potential osteoporosis
+Adrenal tissue->RAAS paradox and/or POTS
+Immune cells->Potential lupus, MS
+Nerve Tissue (damage accumulates via low turnover)->Potential Parkinsons, Alzheimers
+Nerve Tissue (damage accumulates via low turnover)->Vasomotor dysfunction (mucosa and skin)
+Nerve Tissue (damage accumulates via low turnover)->Nerve burnout episodes, in order of highest metabolic demand
 
-Fatigue of: Vagus and its Sensory Receptors, Small Vasomotor Fibers, Muscle Spindle nerves→
-Vasomotor Pathology, Sensory/Sleep Disruption, Post-Exertional Malaise crashes→
-Diffuse Pain, Skin and Mucosal Lesions (also GI, bladder, COVID toes), Preload Failure, Orthostatic Intolerance/POTS, Migraines→
-Laryngeal Pain / Phantom Pain (visceral type)→
-False "Closed Airway/Choking" Signal, Vagus Signal disruption→
-Muscle Guarding (Muscle Tension Dysphonia), Fight or Flight, Dysautonomia, Disordered Breathing→
-Fatigue of Voice/Airway/Swallowing Muscles→
-Recruitment of Accessory Neck Muscles→
-(Traps, Suboccipitals, Extensors, SCM, Scalenes, Intercostals, Thorax, etc)→
-In many patients (esp. EDS/prior injury):
-Functional Craniocervial Instability, Thoracic Outlet Syndrome→
-Spinal & Postural Changes (Forward Head, Lordosis loss, comorbid Inactivity + Eyestrain)    Airway Restriction→
-Neural and Vascular Compression, Brainstem Compression    Sleep Apnea→
-Pain, Inflammation, Perfusion & Immune Changes, Reflux, Cognitive Issues→
-Further Muscle Guarding, Vicious Cycles
+Immune cells->Vicious cycle
+Vicious cycle->Mitophagy disruption (esp. PINK1-Parkin)
+
+Signal dropouts of cranial nerves->Dysautonomia
+Signal dropouts of cranial nerves->Dysmotility and IBS
+Signal dropouts of cranial nerves->Visual reflex and eye pathology
+Signal dropouts of cranial nerves->Vertigo, Kinesiophobia
+Signal dropouts of cranial nerves->Various muscle coordination changes
+Signal dropouts of cranial nerves->Accessory breathing, UARS
+Signal dropouts of cranial nerves->Impaired hemodynamics
+Signal dropouts of cranial nerves->Pathological airway and neck recruitment
+Signal dropouts of cranial nerves->Cervical/CCJ damage
+Signal dropouts of cranial nerves->Executive dysfunction
 
 Graph 1:
 
 Viral infection->Immune overactivation
-Viral infection->Mitophagy disruption
-Immune overactivation->Mitophagy disruption
-Mitophagy disruption->Immune overactivation
-Mitophagy disruption->Systemic loss of mitochondrial quality control (MQC)
+Viral infection->Mitophagy disruption (esp. PINK1-Parkin)
+Immune overactivation->Mitophagy disruption (esp. PINK1-Parkin)
+Mitophagy disruption (esp. PINK1-Parkin)->Immune overactivation
+Mitophagy disruption (esp. PINK1-Parkin)->Systemic loss of mitochondrial quality control (MQC)
 Systemic loss of mitochondrial quality control (MQC)->Tissue‑specific cellular energy crises
-Systemic loss of mitochondrial quality control (MQC)->Elevated PINK1 observed
-Systemic loss of mitochondrial quality control (MQC)->Inflammatory/Immune findings in ME/CFS
+Systemic loss of mitochondrial quality control (MQC)->Elevated PINK1 observed, despite mitophagy failure
 Tissue‑specific cellular energy crises->Muscle cells
 Muscle cells->Cell death (apoptosis) recorded
 Tissue‑specific cellular energy crises->Connective Tissue
@@ -45,25 +52,24 @@ Microvascular Dysautonomia->POTS/Orthostatic Intolerance
 Tissue‑specific cellular energy crises->Bone cells
 Bone cells->Osteophorosis
 Tissue‑specific cellular energy crises->Immune cells
-Immune cells->Mitophagy disruption
+Immune cells->Mitophagy disruption (esp. PINK1-Parkin)
+Immune cells->Inflammatory findings of ME/CFS
 Immune cells->Potential Lupus
 Immune cells->Potential Multiple Sclerosis
-Tissue‑specific cellular energy crises->Nerve cells (low turnover → persistent mitochondrial impairment)
-Nerve cells (low turnover → persistent mitochondrial impairment)->Paroxysmal energy budget overruns in local peripheral nerves
-Nerve cells (low turnover → persistent mitochondrial impairment)->Neurological syndromes originally considered part of ME/CFS outbreaks
-Nerve cells (low turnover → persistent mitochondrial impairment)->Potential CNS involvement past BBB
+Tissue‑specific cellular energy crises->Nerve Tissue (damage accumulates via low turnover)
+Nerve Tissue (damage accumulates via low turnover)->Small Fiber Neuropathy
+Nerve Tissue (damage accumulates via low turnover)->Neurological syndromes originally considered part of ME/CFS outbreaks
+Nerve Tissue (damage accumulates via low turnover)->Potential CNS involvement past BBB
+Small Fiber Neuropathy->Microvascular Dysautonomia
+Small Fiber Neuropathy->Inflammatory findings of ME/CFS
 Potential CNS involvement past BBB->Potential Multiple Sclerosis
+Potential CNS involvement past BBB->Potential Parkinsons
 Neurological syndromes originally considered part of ME/CFS outbreaks->CN Palsies, myoclonus, paresis, etc
-Paroxysmal energy budget overruns in local peripheral nerves->Burnout in both sensory and motor nerves
-Paroxysmal energy budget overruns in local peripheral nerves->Shared energy reserves deplete system-wide during high demand
+Small Fiber Neuropathy->Burnout episodes of nerves, in order of highest metabolic demand
+Burnout episodes of nerves, in order of highest metabolic demand->Signal dropouts of cranial nerves
+Burnout episodes of nerves, in order of highest metabolic demand->Shared energy reserves deplete system-wide during high demand
 Shared energy reserves deplete system-wide during high demand->Post-Exertional Malaise
 Shared energy reserves deplete system-wide during high demand->Exercise Intolerance
-Burnout in both sensory and motor nerves->Small Fiber Neuropathy
-Small Fiber Neuropathy->Microvascular Dysautonomia
-Small Fiber Neuropathy->Inflammatory/Immune findings in ME/CFS
-Small Fiber Neuropathy->Fiber-level local burnout episodes
-Fiber-level local burnout episodes->Episodes proceed in order of the most metabolically active nerves
-Episodes proceed in order of the most metabolically active nerves->Signal dropouts of demanding cranial nerves
 
 Graph 2:
 
@@ -163,6 +169,8 @@ Larynx mechanosensation->Raised larynx posture (ie. MTD)
 Raised larynx posture (ie. MTD)->Muscle Tension Dysphonia
 Raised larynx posture (ie. MTD)->Accessory breathing muscle engagement
 
+Laryngeal Sensory Neuropathy (LSN)
+
 Loss of laryngeal motor control->UARS
 UARS->Airflow paresthesias and distress
     Airflow distress from restriction and sensory changes
@@ -215,6 +223,7 @@ Gaze stability issues->Light/visual sensitivity
 Gaze stability issues->Exophoria, Eyestrain/Tension headaches
 Gaze stability issues->Vestibulo/Cervico-Ocular reflex bias
 Vestibulo/Cervico-Ocular reflex bias->Cervico/Vestibulo-collic reflex bias
+CN VIII fiber dysregulation->Tinnitus
 CN VIII fiber dysregulation->Vertigo
 CN VIII fiber dysregulation->Cervico/Vestibulo-collic reflex bias
 CN XI fiber dysregulation->Cervico/Vestibulo-collic reflex bias
